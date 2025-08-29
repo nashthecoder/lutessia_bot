@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <title>Trading Bot Interface</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link crossorigin="anonymous" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet"/>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <script src="https://cdn.socket.io/4.0.0/socket.io.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/highlight.js@11.5.0/lib/highlight.js"></script>
+  <link href="https://cdn.jsdelivr.net/npm/highlight.js@11.5.0/styles/github.min.css" rel="stylesheet"/>
+  <style>
+    canvas { max-width: 100%; }
+    pre { font-size: 1.25rem; font-weight: bold; }
+  </style>
+</head>
+<body class="bg-gray-50 min-h-screen">
+  <div class="max-w-5xl mx-auto py-8 px-4">
+    <header class="mb-8">
+      <h1 class="text-3xl font-bold flex items-center gap-2 mb-2">
+        <span class="bg-gray-800 text-white px-2 py-1 rounded">📁</span>
+        Trading Bot Interface <span class="text-gray-400 text-base font-normal">v2025.05.18-AI-LIMIT-AUTO</span>
+      </h1>
+    </header>
+    <!-- Multi-Series Control -->
+    <section class="mb-8">
+      <h3 class="text-xl font-semibold mb-4">🎛️ Lancer des séries spécifiques</h3>
+      <form id="seriesForm" class="space-y-2">
+        <div class="grid grid-cols-2 md:grid-cols-3 gap-2">
+          <label class="flex items-center gap-2"><input name="active_series" type="checkbox" value="Serie 1" class="accent-blue-600"/> Série 1 – Scalping Volatile</label>
+          <label class="flex items-center gap-2"><input name="active_series" type="checkbox" value="Serie 2" class="accent-blue-600"/> Série 2 – Large Caps</label>
+          <label class="flex items-center gap-2"><input name="active_series" type="checkbox" value="Serie 3" class="accent-blue-600"/> Série 3 – DeFi MidCap</label>
+          <label class="flex items-center gap-2"><input name="active_series" type="checkbox" value="Serie 4" class="accent-blue-600"/> Série 4 – Trend Following</label>
+          <label class="flex items-center gap-2"><input name="active_series" type="checkbox" value="Serie 5" class="accent-blue-600"/> Série 5 – Swing Trading</label>
+          <label class="flex items-center gap-2"><input name="active_series" type="checkbox" value="Serie 6" class="accent-blue-600"/> Série 6 – Microcap Volatile</label>
+          <label class="flex items-center gap-2"><input name="active_series" type="checkbox" value="Serie 7" class="accent-blue-600"/> Série 7 – Stable Hedging</label>
+          <label class="flex items-center gap-2"><input name="active_series" type="checkbox" value="Serie 8" class="accent-blue-600"/> Série 8 – Hold Moyen Terme</label>
+          <label class="flex items-center gap-2"><input name="active_series" type="checkbox" value="Serie 9" class="accent-blue-600"/> Série 9 – Emerging Protocols</label>
+        </div>
+        <div class="flex flex-col md:flex-row gap-4 mt-4">
+          <div class="flex-1">
+            <label class="block font-medium mb-1" for="TP_DYNAMIQUE_MIN">🟩 TP Dynamique Min (%)</label>
+            <input class="w-full px-3 py-2 border rounded focus:ring-2 focus:ring-blue-400" id="TP_DYNAMIQUE_MIN" name="TP_DYNAMIQUE_MIN" placeholder="Ex: 0.018" step="0.001" type="number" value="0.018">
+          </div>
+          <div class="flex-1">
+            <label class="block font-medium mb-1" for="EXTRA_MARG">🟧 Marge de sécurité additionnelle</label>
+            <input class="w-full px-3 py-2 border rounded focus:ring-2 focus:ring-blue-400" id="EXTRA_MARG" name="EXTRA_MARG" placeholder="Ex: 0.005" step="0.001" type="number" value="0.005">
+          </div>
+        </div>
+        <button onclick="submitSeries()" type="button" class="mt-4 px-6 py-2 bg-blue-600 text-white rounded hover:bg-blue-700 transition">✅ Lancer les séries sélectionnées</button>
+      </form>
+    </section>
+    <!-- Bot Status & Controls -->
+    <section class="mb-8">
+      <div class="flex flex-col md:flex-row justify-between items-center gap-4">
+        <div>
+          {% if bot_running %}
+          <button class="px-6 py-2 bg-red-600 text-white rounded hover:bg-red-700 transition flex items-center gap-2" onclick="controlBot('stop')" type="button"><i class="fas fa-stop"></i> Stop Bot</button>
+          {% else %}
+          <button class="px-6 py-2 bg-green-600 text-white rounded hover:bg-green-700 transition flex items-center gap-2" onclick="controlBot('start')" type="button"><i class="fas fa-play"></i> Start Bot</button>
+          {% endif %}
+        </div>
+        <div>
+          <a class="px-4 py-2 bg-gray-200 text-gray-800 rounded hover:bg-gray-300 transition" href="{{ url_for('logout') }}">Logout</a>
+        </div>
+      </div>
+      {% if bot_running %}
+      <div class="mt-4 bg-green-100 text-green-800 px-4 py-2 rounded flex items-center gap-2"><i class="fas fa-play-circle"></i> Bot is running.</div>
+      {% else %}
+      <div class="mt-4 bg-red-100 text-red-800 px-4 py-2 rounded flex items-center gap-2"><i class="fas fa-stop-circle"></i> Bot is stopped.</div>
+      {% endif %}
+    </section>
+    <!-- Bot Settings Form (refactored to Tailwind) -->
+    <section class="mb-8">
+      <form action="/update_settings" method="post" class="space-y-4 bg-white p-6 rounded-xl shadow border border-gray-200">
+        <div>
+          <label class="block font-bold mb-1" for="preset_strategy">📌 Stratégie prédéfinie :</label>
+          <select class="w-full px-3 py-2 border rounded focus:ring-2 focus:ring-blue-400" id="preset_strategy" name="preset_strategy" onchange="applyPreset()">
+            <option value="">-- Choisir une série --</option>
+            <option value="serie1">Série 1 – Sécurisée</option>
+            <option value="serie2">Série 2 – IA dynamique</option>
+            <option value="serie3">Série 3 – Scalping</option>
+            <option value="serie4">Série 4 – Tendance IA</option>
+            <option value="serie5">Série 5 – Swing Trading</option>
+            <option value="serie6">Série 6 – Scalping Volatile</option>
+            <option value="serie7">Série 7 – Stablecoin Hedging</option>
+            <option value="serie8">Série 8 – Hold Moyen-Terme</option>
+            <option value="serie9">Série 9 – Anti-Volatility</option>
+          </select>
+        </div>
+        <div class="grid grid-cols-2 gap-4">
+          <div>
+            <label class="block font-medium mb-1" for="buy_percentage_of_capital">Buy % of Capital</label>
+            <input class="w-full px-3 py-2 border rounded focus:ring-2 focus:ring-blue-400" id="buy_percentage_of_capital" name="buy_percentage_of_capital" placeholder="Ex: 0.05" step="0.001" type="number" value="0.08"/>
+          </div>
+          <div>
+            <label class="block font-medium mb-1" for="sell_profit_target">Sell Profit Target</label>
+            <input class="w-full px-3 py-2 border rounded focus:ring-2 focus:ring-blue-400" id="sell_profit_target" name="sell_profit_target" placeholder="Ex: 0.008" step="0.001" type="number" value="0.016"/>
+          </div>
+          <div>
+            <label class="block font-medium mb-1" for="sell_stop_loss_target">Sell Stop Loss Target</label>
+            <input class="w-full px-3 py-2 border rounded focus:ring-2 focus:ring-blue-400" id="sell_stop_loss_target" name="sell_stop_loss_target" placeholder="Ex: 0.003" step="0.001" type="number" value="0.008"/>
+          </div>
+          <div>
+            <label class="block font-medium mb-1" for="max_drawdown_pct">🔻 Seuil Max de Perte (% drawdown)</label>
+            <input class="w-full px-3 py-2 border rounded focus:ring-2 focus:ring-blue-400" id="max_drawdown_pct" name="max_drawdown_pct" placeholder="Ex: -5" step="0.1" type="number" value="-5"/>
+          </div>
+          <div>
+            <label class="block font-medium mb-1" for="LIMIT_ENABLED">LIMIT Enabled</label>
+            <select class="w-full px-3 py-2 border rounded focus:ring-2 focus:ring-blue-400" id="LIMIT_ENABLED" name="LIMIT_ENABLED">
+              <option value="true">true</option>
+              <option value="false">false</option>
+            </select>
+          </div>
+          <div>
+            <label class="block font-medium mb-1" for="LIMIT_SPREAD">LIMIT Spread</label>
+            <input class="w-full px-3 py-2 border rounded focus:ring-2 focus:ring-blue-400" id="LIMIT_SPREAD" name="LIMIT_SPREAD" placeholder="Ex: 0.001" step="0.0001" type="number" value="0.002"/>
+          </div>
+          <div>
+            <label class="block font-medium mb-1" for="LIMIT_TIMEOUT">LIMIT Timeout (seconds)</label>
+            <input class="w-full px-3 py-2 border rounded focus:ring-2 focus:ring-blue-400" id="LIMIT_TIMEOUT" name="LIMIT_TIMEOUT" placeholder="Ex: 3" step="1" type="number" value="100"/>
+          </div>
+          <div>
+            <label class="block font-medium mb-1" for="MIN_NET_PROFIT_TARGET">Min Net Profit Target</label>
+            <input class="w-full px-3 py-2 border rounded focus:ring-2 focus:ring-blue-400" id="MIN_NET_PROFIT_TARGET" name="MIN_NET_PROFIT_TARGET" placeholder="Ex: 0.012" step="0.001" type="number" value="0.014"/>
+          </div>
+        </div>
+        <div class="grid grid-cols-2 gap-4">
+          <div>
+            <label class="block font-medium mb-1" for="trailing_start_threshold">Trailing Start Threshold (%)</label>
+            <input class="w-full px-3 py-2 border rounded focus:ring-2 focus:ring-blue-400" id="trailing_start_threshold" name="trailing_start_threshold" placeholder="Ex: 0.008" step="0.001" type="number" value="0.008"/>
+          </div>
+          <div>
+            <label class="block font-medium mb-1" for="trailing_sl_step">Trailing SL Step (%)</label>
+            <input class="w-full px-3 py-2 border rounded focus:ring-2 focus:ring-blue-400" id="trailing_sl_step" name="trailing_sl_step" placeholder="Ex: 0.004" step="0.001" type="number" value="0.004"/>
+          </div>
+          <div>
+            <label class="block font-medium mb-1" for="min_hold_duration">Min Hold Duration (sec)</label>
+            <input class="w-full px-3 py-2 border rounded focus:ring-2 focus:ring-blue-400" id="min_hold_duration" name="min_hold_duration" placeholder="180" type="number" value="180"/>
+          </div>
+          <div>
+            <label class="block font-medium mb-1" for="max_hold_duration">Max Hold Duration (sec)</label>
+            <input class="w-full px-3 py-2 border rounded focus:ring-2 focus:ring-blue-400" id="max_hold_duration" name="max_hold_duration" placeholder="7200" type="number" value="7200"/>
+          </div>
+          <div>
+            <label class="block font-medium mb-1" for="compound_enabled">Compounding Enabled</label>
+            <select class="w-full px-3 py-2 border rounded focus:ring-2 focus:ring-blue-400" id="compound_enabled" name="compound_enabled">
+              <option value="true">true</option>
+              <option value="false">false</option>
+            </select>
+          </div>
+        </div>
+        <button class="px-6 py-2 bg-blue-600 text-white rounded hover:bg-blue-700 transition flex items-center gap-2" type="submit"><i class="fas fa-save"></i> Update Settings</button>
+      </form>
+    </section>
+    <!-- Account Summary & Logs -->
+    <section class="mb-8 grid grid-cols-1 md:grid-cols-3 gap-6">
+      <div class="bg-white p-6 rounded-xl shadow border border-gray-200">
+        <h2 class="text-xl font-bold mb-2">Your Total Balance</h2>
+        <pre id="log_Balance_Total" class="bg-gray-100 rounded p-2 text-lg">{{ log_Balance_Total }}</pre>
+      </div>
+      <div class="bg-white p-6 rounded-xl shadow border border-gray-200">
+        <h2 class="text-xl font-bold mb-2">Your USDC</h2>
+        <pre id="log_usdc_balance" class="bg-gray-100 rounded p-2 text-lg">{{ log_usdc_balance }}</pre>
+      </div>
+      <div class="bg-white p-6 rounded-xl shadow border border-gray-200">
+        <h2 class="text-xl font-bold mb-2">Your BTC</h2>
+        <pre id="log_eth2_balance" class="bg-gray-100 rounded p-2 text-lg">{{ log_eth2_balance }}</pre>
+      </div>
+    </section>
+    <!-- Résumé des Comptes Crypto & Orders -->
+    <section class="mb-8 grid grid-cols-1 md:grid-cols-2 gap-6">
+      <div class="bg-white p-6 rounded-xl shadow border border-gray-200">
+        <h2 class="text-xl font-semibold mb-4">Détails des Profits</h2>
+        <pre id="log" class="bg-gray-100 rounded p-2 text-sm h-96 overflow-y-auto">{{ log }}</pre>
+      </div>
+      <div class="bg-white p-6 rounded-xl shadow border border-gray-200">
+        <h2 class="text-xl font-semibold mb-4">Détails des Ordres</h2>
+        <pre id="log_orders" class="bg-gray-100 rounded p-2 text-sm h-96 overflow-y-auto">{{ log_orders }}</pre>
+      </div>
+    </section>
+    <!-- Chart Section -->
+    <section class="mb-8">
+      <h2 class="text-2xl font-bold text-center mb-6">Performance</h2>
+      <div class="bg-white p-6 rounded-xl shadow border border-gray-200">
+        <canvas id="predictionChart" style="width: 800; height: 400;"></canvas>
+      </div>
+    </section>
+    <!-- Logs Section -->
+    <section class="mb-8">
+      <h2 class="text-2xl font-bold text-center mb-6">Logs</h2>
+      <div class="bg-white p-6 rounded-xl shadow border border-gray-200">
+        <h3 class="text-lg font-bold text-green-700 mb-2">📌 Paires activées actuellement :</h3>
+        <ul class="mb-4">
+          {% if selected_crypto_pairs %}
+          {% for pair in selected_crypto_pairs %}
+            <li class="flex justify-between items-center border-b py-1">
+              <span>{{ pair }}</span>
+              <span class="bg-green-200 text-green-800 px-2 py-1 rounded text-xs">active</span>
+            </li>
+          {% endfor %}
+          {% else %}
+            <li class="text-gray-400">Aucune paire active</li>
+          {% endif %}
+        </ul>
+        <pre id="logs" class="bg-gray-100 rounded p-2 text-sm h-72 overflow-y-auto">{{ logs }}</pre>
+      </div>
+    </section>
+    <!-- KPI Chart -->
+    <section class="mb-8">
+      <h3 class="text-xl font-bold mb-4">📈 KPI Performance par Série</h3>
+      <div class="bg-white p-6 rounded-xl shadow border border-gray-200">
+        <canvas id="kpiChart" height="400" width="800"></canvas>
+      </div>
+    </section>
+  </div>
+  <!-- ...existing scripts (Chart.js, socket.io, etc.) remain unchanged... -->
+</body>
+</html>

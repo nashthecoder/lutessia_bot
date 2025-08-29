@@ -1,0 +1,225 @@
+# 🧠 Lutessia AI – Trading Decision System
+
+## 1. Initialization
+
+Define all business parameters:
+
+- Signal weights (`w_lstm`, `w_atr`, `w_guru`, `w_lutessia`)
+- Score thresholds for buy, sell, and neutral zone
+- Total fees (`frais_total`) to consider
+- Minimum required gain for profitability (`gain_minimal`)
+
+## ⚙️ 2. Basic Functions
+
+### `normalize()`
+Converts a value in the range [min, max] to [0, 1], to allow uniform weighting.
+
+### `calcul_score(lstm, atr, guru, lutessia)`
+Normalizes the signals:
+
+- **LSTM**: direct probability → [0, 1]
+- **ATR**: % value → [0, 1] (with expected max, e.g., 10%)
+- **Guru**: directional signal -1 to +1 → [0, 1]
+- **Lutessia**: AI score -1 to +1 → [0, 1]
+
+Each signal is weighted by its business importance.
+
+Returns a final global score that quantifies the probability of a winning trade.
+
+## 🧠 3. Central Role of Lutessia
+
+Lutessia is the final arbitration AI.  
+It acts as a strategic judge, independently of the global score:
+
+- If the score suggests a **buy**, Lutessia must be **positive** (`lutessia_score > 0`)
+- If the score suggests a **sell**, Lutessia must be **negative** (`lutessia_score < 0`)
+- If contradiction → **NO ACTION**
+
+## 📊 4. Input Data
+
+Inject current market data:
+
+- `lstm_pred`: bullish probability
+- `atr_percent`: volatility (in %)
+- `guru_signal`: external signal -1 / 0 / +1
+- `lutessia_score`: strategic AI decision
+- `expected_gain`: estimated gross gain (%)
+
+## 🔍 5. Calculations and Decisions
+
+Calculate `score_final` via `calcul_score(...)`
+
+Apply `decision(score, expected_gain)`:
+
+- **BUY**: `score > buy_threshold` AND `expected_gain > gain_minimal` AND `lutessia_score > 0`
+- **SELL**: `score < sell_threshold` AND `lutessia_score < 0`
+- **NO TRADE**: score between thresholds  
+Otherwise: **WAIT**
+
+## 🧾 Log Samples
+
+### ✅ Buy Accepted by AI
+
+🧠 IA Score SOL-USDC | LSTM: 0.6840 | GRU: 0.0921 | ATR: 0.0345 | GURU: 1.00 | LUTE: 0.75 | Final: 0.7150 (≥0.600)
+📊 Analysis SOL-USDC | Expected TP = 85.2000, Fees = 0.5100, Net profit estimate = 2.33%
+✅ Trade allowed (net profit 2.33% ≥ threshold 1.50%)
+📈 Series used: series_2_large_caps | TP = 2.50%, SL = 1.20%
+💰 Final buy amount: 20.0000 USDC
+✅ MARKET or LIMIT order successfully sent for SOL-USDC
+
+shell
+Copier
+Modifier
+
+### ❌ Buy Rejected by AI (Insufficient score or LUTE ≤ 0)
+
+🧠 IA Score SOL-USDC | LSTM: 0.6840 | GRU: 0.0921 | ATR: 0.0345 | GURU: 1.00 | LUTE: 0.25 | Final: 0.4150 (<0.600)
+📊 Analysis SOL-USDC | Expected TP = 85.2000, Fees = 0.5100, Net profit estimate = 2.33%
+⛔ Trade rejected by AI (score too low or LUTE ≤ 0), no order sent
+
+shell
+Copier
+Modifier
+
+### 💸 Sell Accepted (TP or SL reached or LUTE < 0)
+
+🧠 IA Score SOL-USDC | LSTM: 0.1420 | GRU: -0.0520 | ATR: 0.0270 | GURU: -1.00 | LUTE: -0.65 | Final: 0.1850 (<0.200)# 🧠 Lutessia AI – Trading Decision System
+
+## 1. Initialization
+
+Define all business parameters:
+
+- Signal weights (`w_lstm`, `w_atr`, `w_guru`, `w_lutessia`)
+- Score thresholds for buy, sell, and neutral zone
+- Total fees (`frais_total`) to consider
+- Minimum required gain for profitability (`gain_minimal`)
+
+## ⚙️ 2. Basic Functions
+
+### `normalize()`
+Converts a value in the range [min, max] to [0, 1], to allow uniform weighting.
+
+### `calcul_score(lstm, atr, guru, lutessia)`
+Normalizes the signals:
+
+- **LSTM**: direct probability → [0, 1]
+- **ATR**: % value → [0, 1] (with expected max, e.g., 10%)
+- **Guru**: directional signal -1 to +1 → [0, 1]
+- **Lutessia**: AI score -1 to +1 → [0, 1]
+
+Each signal is weighted by its business importance.
+
+Returns a final global score that quantifies the probability of a winning trade.
+
+## 🧠 3. Central Role of Lutessia
+
+Lutessia is the final arbitration AI.  
+It acts as a strategic judge, independently of the global score:
+
+- If the score suggests a **buy**, Lutessia must be **positive** (`lutessia_score > 0`)
+- If the score suggests a **sell**, Lutessia must be **negative** (`lutessia_score < 0`)
+- If contradiction → **NO ACTION**
+
+## 📊 4. Input Data
+
+Inject current market data:
+
+- `lstm_pred`: bullish probability
+- `atr_percent`: volatility (in %)
+- `guru_signal`: external signal -1 / 0 / +1
+- `lutessia_score`: strategic AI decision
+- `expected_gain`: estimated gross gain (%)
+
+## 🔍 5. Calculations and Decisions
+
+Calculate `score_final` via `calcul_score(...)`
+
+Apply `decision(score, expected_gain)`:
+
+- **BUY**: `score > buy_threshold` AND `expected_gain > gain_minimal` AND `lutessia_score > 0`
+- **SELL**: `score < sell_threshold` AND `lutessia_score < 0`
+- **NO TRADE**: score between thresholds  
+Otherwise: **WAIT**
+
+## 🧾 Log Samples
+
+### ✅ Buy Accepted by AI
+
+🧠 IA Score SOL-USDC | LSTM: 0.6840 | GRU: 0.0921 | ATR: 0.0345 | GURU: 1.00 | LUTE: 0.75 | Final: 0.7150 (≥0.600)
+📊 Analysis SOL-USDC | Expected TP = 85.2000, Fees = 0.5100, Net profit estimate = 2.33%
+✅ Trade allowed (net profit 2.33% ≥ threshold 1.50%)
+📈 Series used: series_2_large_caps | TP = 2.50%, SL = 1.20%
+💰 Final buy amount: 20.0000 USDC
+✅ MARKET or LIMIT order successfully sent for SOL-USDC
+
+shell
+Copier
+Modifier
+
+### ❌ Buy Rejected by AI (Insufficient score or LUTE ≤ 0)
+
+🧠 IA Score SOL-USDC | LSTM: 0.6840 | GRU: 0.0921 | ATR: 0.0345 | GURU: 1.00 | LUTE: 0.25 | Final: 0.4150 (<0.600)
+📊 Analysis SOL-USDC | Expected TP = 85.2000, Fees = 0.5100, Net profit estimate = 2.33%
+⛔ Trade rejected by AI (score too low or LUTE ≤ 0), no order sent
+
+shell
+Copier
+Modifier
+
+### 💸 Sell Accepted (TP or SL reached or LUTE < 0)
+
+🧠 IA Score SOL-USDC | LSTM: 0.1420 | GRU: -0.0520 | ATR: 0.0270 | GURU: -1.00 | LUTE: -0.65 | Final: 0.1850 (<0.200)
+📊 Analysis SOL-USDC | Current price = 86.9000 | Fees = 1.0200 | Net gain = 3.10%
+💸 Sale executed | Take Profit reached or confirmed AI signal
+📈 Series used: series_2_large_caps | TP = 2.50%, SL = 1.20%
+✅ MARKET order successfully sent for SOL-USDC
+
+shell
+Copier
+Modifier
+
+### ⛔ Sell Rejected by AI (LUTE ≥ 0 or non-critical loss)
+
+🧠 IA Score SOL-USDC | LSTM: 0.3120 | GRU: -0.0405 | ATR: 0.0220 | GURU: -1.00 | LUTE: 0.20 | Final: 0.1950 (<0.200)
+📊 Analysis SOL-USDC | Current price = 84.7000 | Fees = 0.4500 | Estimated net loss = -0.80%
+⛔ Sale rejected: AI contradiction (LUTE ≥ 0) or loss considered recoverable (SL not reached)
+
+markdown
+Copier
+Modifier
+
+## 📋 Decision Matrix
+
+| **Type**        | **Condition**                                                        | **Summary Log**                                                                              | **AI Status** | **Action**                     |
+|-----------------|----------------------------------------------------------------------|----------------------------------------------------------------------------------------------|---------------|---------------------------------|
+| ✅ Buy Accepted | `score_final ≥ 0.600` AND `LUTE > 0` AND `profit ≥ 1.5%`              | High score, favorable AI, validated profitability                                            | LUTE > 0      | MARKET or LIMIT order executed |
+| ❌ Buy Rejected | `score_final < 0.600` OR `LUTE ≤ 0`                                   | Score too low or unfavorable AI, even if profit is sufficient                               | LUTE ≤ 0      | No order sent                  |
+| 💸 Sell Accepted| `score_final < 0.200` AND `LUTE < 0` OR TP/SL reached                 | Validated sell signal or exit objectives reached (Take Profit / Stop Loss)                 | LUTE < 0      | Sale executed                  |
+| ⛔ Sell Rejected| `score_final < 0.200` BUT `LUTE ≥ 0` OR loss < SL threshold           | AI judges the sale premature or loss recoverable (e.g., SL = -1.5% not hit, loss at -0.8%) | LUTE ≥ 0      | Sale blocked, position held    |
+📊 Analysis SOL-USDC | Current price = 86.9000 | Fees = 1.0200 | Net gain = 3.10%
+💸 Sale executed | Take Profit reached or confirmed AI signal
+📈 Series used: series_2_large_caps | TP = 2.50%, SL = 1.20%
+✅ MARKET order successfully sent for SOL-USDC
+
+shell
+Copier
+Modifier
+
+### ⛔ Sell Rejected by AI (LUTE ≥ 0 or non-critical loss)
+
+🧠 IA Score SOL-USDC | LSTM: 0.3120 | GRU: -0.0405 | ATR: 0.0220 | GURU: -1.00 | LUTE: 0.20 | Final: 0.1950 (<0.200)
+📊 Analysis SOL-USDC | Current price = 84.7000 | Fees = 0.4500 | Estimated net loss = -0.80%
+⛔ Sale rejected: AI contradiction (LUTE ≥ 0) or loss considered recoverable (SL not reached)
+
+markdown
+Copier
+Modifier
+
+## 📋 Decision Matrix
+
+| **Type**        | **Condition**                                                        | **Summary Log**                                                                              | **AI Status** | **Action**                     |
+|-----------------|----------------------------------------------------------------------|----------------------------------------------------------------------------------------------|---------------|---------------------------------|
+| ✅ Buy Accepted | `score_final ≥ 0.600` AND `LUTE > 0` AND `profit ≥ 1.5%`              | High score, favorable AI, validated profitability                                            | LUTE > 0      | MARKET or LIMIT order executed |
+| ❌ Buy Rejected | `score_final < 0.600` OR `LUTE ≤ 0`                                   | Score too low or unfavorable AI, even if profit is sufficient                               | LUTE ≤ 0      | No order sent                  |
+| 💸 Sell Accepted| `score_final < 0.200` AND `LUTE < 0` OR TP/SL reached                 | Validated sell signal or exit objectives reached (Take Profit / Stop Loss)                 | LUTE < 0      | Sale executed                  |
+| ⛔ Sell Rejected| `score_final < 0.200` BUT `LUTE ≥ 0` OR loss < SL threshold           | AI judges the sale premature or loss recoverable (e.g., SL = -1.5% not hit, loss at -0.8%) | LUTE ≥ 0      | Sale blocked, position held    |

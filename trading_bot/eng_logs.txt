@@ -1,0 +1,2363 @@
+2025-08-07 09:10:41 - #def load_data ::: daily update performed...
+2025-08-07 09:10:41 - #fetch_crypto_data ::: daily update performed for ADA-USDC
+2025-08-07 09:10:41 - #fetch_crypto_data ::: daily update performed for AAVE-USDC
+2025-08-07 09:10:41 - #fetch_crypto_data ::: daily update performed for ALGO-USDC
+2025-08-07 09:10:41 - #fetch_crypto_data ::: daily update performed for ARB-USDC
+2025-08-07 09:10:42 - #fetch_crypto_data ::: daily update performed for AVAX-USDC
+2025-08-07 09:10:42 - #fetch_crypto_data ::: daily update performed for BTC-USDC
+2025-08-07 09:10:42 - #fetch_crypto_data ::: daily update performed for CRV-USDC
+2025-08-07 09:10:42 - #fetch_crypto_data ::: daily update performed for DOGE-USDC
+2025-08-07 09:10:42 - #fetch_crypto_data ::: daily update performed for DOT-USDC
+2025-08-07 09:10:42 - #fetch_crypto_data ::: daily update performed for ETC-USDC
+2025-08-07 09:10:43 - #fetch_crypto_data ::: daily update performed for ETH-USDC
+2025-08-07 09:10:43 - #fetch_crypto_data ::: daily update performed for FET-USDC
+2025-08-07 09:10:43 - #fetch_crypto_data ::: daily update performed for FIL-USDC
+2025-08-07 09:10:43 - #fetch_crypto_data ::: daily update performed for GRT-USDC
+2025-08-07 09:10:43 - #fetch_crypto_data ::: daily update performed for HBAR-USDC
+2025-08-07 09:10:44 - #fetch_crypto_data ::: daily update performed for ICP-USDC
+2025-08-07 09:10:44 - #fetch_crypto_data ::: daily update performed for IDEX-USDC
+2025-08-07 09:10:44 - #fetch_crypto_data ::: daily update performed for LINK-USDC
+2025-08-07 09:10:44 - #fetch_crypto_data ::: daily update performed for LTC-USDC
+2025-08-07 09:10:44 - #fetch_crypto_data ::: daily update performed for MATIC-USDC
+2025-08-07 09:10:44 - #fetch_crypto_data ::: daily update performed for NEAR-USDC
+2025-08-07 09:10:45 - #fetch_crypto_data ::: daily update performed for PEPE-USDC
+2025-08-07 09:10:45 - #fetch_crypto_data ::: daily update performed for SOL-USDC
+2025-08-07 09:10:45 - #fetch_crypto_data ::: daily update performed for SUI-USDC
+2025-08-07 09:10:45 - #fetch_crypto_data ::: daily update performed for SUPER-USDC
+2025-08-07 09:10:45 - #fetch_crypto_data ::: daily update performed for SUSHI-USDC
+2025-08-07 09:10:45 - #fetch_crypto_data ::: daily update performed for SWFTC-USDC
+2025-08-07 09:10:46 - #fetch_crypto_data ::: daily update performed for UNI-USDC
+2025-08-07 09:10:46 - #fetch_crypto_data ::: daily update performed for USDT-USDC
+2025-08-07 09:10:46 - #fetch_crypto_data ::: daily update performed for VET-USDC
+2025-08-07 09:10:46 - #fetch_crypto_data ::: daily update performed for XLM-USDC
+2025-08-07 09:10:46 - #fetch_crypto_data ::: daily update performed for XRP-USDC
+2025-08-07 09:10:47 - #fetch_crypto_data ::: daily update performed for YFI-USDC
+2025-08-07 09:10:47 - launching calculations for predictions
+2025-08-07 09:10:56 - 🧠 ========== IA TREND (every 2 min) ==========
+2025-08-07 09:11:06 - Error in log_tendance_ia_periodique: compare_first_real_and_last_pred() takes 1 positional argument but 2 were given
+2025-08-07 09:13:06 - 🧠 ========== IA TREND (every 2 min) ==========
+2025-08-07 09:13:16 - Error in log_tendance_ia_periodique: compare_first_real_and_last_pred() takes 1 positional argument but 2 were given
+2025-08-07 09:14:45 - 🔄 Checking USDC balance...
+2025-08-07 09:14:48 - Updating accounts
+2025-08-07 09:14:48 - IA update time not reached.
+2025-08-07 09:14:52 - Updating accounts
+2025-08-07 09:14:52 - IA update time not reached.
+2025-08-07 09:14:56 - Updating accounts
+2025-08-07 09:14:56 - IA update time not reached.
+2025-08-07 09:15:00 - Updating accounts
+2025-08-07 09:15:00 - #def load_data ::: daily update performed...
+2025-08-07 09:15:01 - #fetch_crypto_data ::: daily update performed for ADA-USDC
+2025-08-07 09:15:01 - #fetch_crypto_data ::: daily update performed for AAVE-USDC
+2025-08-07 09:15:01 - #fetch_crypto_data ::: daily update performed for ALGO-USDC
+2025-08-07 09:15:01 - #fetch_crypto_data ::: daily update performed for ARB-USDC
+2025-08-07 09:15:01 - #fetch_crypto_data ::: daily update performed for AVAX-USDC
+2025-08-07 09:15:01 - #fetch_crypto_data ::: daily update performed for BTC-USDC
+2025-08-07 09:15:02 - #fetch_crypto_data ::: daily update performed for CRV-USDC
+2025-08-07 09:15:02 - #fetch_crypto_data ::: daily update performed for DOGE-USDC
+2025-08-07 09:15:02 - #fetch_crypto_data ::: daily update performed for DOT-USDC
+2025-08-07 09:15:02 - #fetch_crypto_data ::: daily update performed for ETC-USDC
+2025-08-07 09:15:02 - #fetch_crypto_data ::: daily update performed for ETH-USDC
+2025-08-07 09:15:02 - #fetch_crypto_data ::: daily update performed for FET-USDC
+2025-08-07 09:15:02 - #fetch_crypto_data ::: daily update performed for FIL-USDC
+2025-08-07 09:15:02 - #fetch_crypto_data ::: daily update performed for GRT-USDC
+2025-08-07 09:15:03 - #fetch_crypto_data ::: daily update performed for HBAR-USDC
+2025-08-07 09:15:03 - #fetch_crypto_data ::: daily update performed for ICP-USDC
+2025-08-07 09:15:03 - #fetch_crypto_data ::: daily update performed for IDEX-USDC
+2025-08-07 09:15:03 - #fetch_crypto_data ::: daily update performed for LINK-USDC
+2025-08-07 09:15:03 - #fetch_crypto_data ::: daily update performed for LTC-USDC
+2025-08-07 09:15:03 - #fetch_crypto_data ::: daily update performed for MATIC-USDC
+2025-08-07 09:15:03 - #fetch_crypto_data ::: daily update performed for NEAR-USDC
+2025-08-07 09:15:03 - #fetch_crypto_data ::: daily update performed for PEPE-USDC
+2025-08-07 09:15:04 - #fetch_crypto_data ::: daily update performed for SOL-USDC
+2025-08-07 09:15:04 - #fetch_crypto_data ::: daily update performed for SUI-USDC
+2025-08-07 09:15:04 - #fetch_crypto_data ::: daily update performed for SUPER-USDC
+2025-08-07 09:15:04 - #fetch_crypto_data ::: daily update performed for SUSHI-USDC
+2025-08-07 09:15:04 - #fetch_crypto_data ::: daily update performed for SWFTC-USDC
+2025-08-07 09:15:04 - #fetch_crypto_data ::: daily update performed for UNI-USDC
+2025-08-07 09:15:04 - #fetch_crypto_data ::: daily update performed for USDT-USDC
+2025-08-07 09:15:05 - #fetch_crypto_data ::: daily update performed for VET-USDC
+2025-08-07 09:15:05 - #fetch_crypto_data ::: daily update performed for XLM-USDC
+2025-08-07 09:15:05 - #fetch_crypto_data ::: daily update performed for XRP-USDC
+2025-08-07 09:15:06 - #fetch_crypto_data ::: daily update performed for YFI-USDC
+2025-08-07 09:15:06 - launching calculations for predictions
+2025-08-07 09:15:15 - 🔄 Checking USDC balance...
+2025-08-07 09:15:16 - 🧠 ========== IA TREND (every 2 min) ==========
+2025-08-07 09:15:28 - ADA-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 09:15:28 - 📉 ADA-USDC will probably decrease
+2025-08-07 09:15:42 - AAVE-USDC trend: 📈 The crypto price will increase 🚀
+2025-08-07 09:15:42 - 📈 AAVE-USDC will probably increase
+2025-08-07 09:15:46 - 🔄 Checking USDC balance...
+2025-08-07 09:16:01 - ALGO-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 09:16:01 - 📉 ALGO-USDC will probably decrease
+2025-08-07 09:16:16 - 🔄 Checking USDC balance...
+2025-08-07 09:16:16 - ARB-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 09:16:16 - 📉 ARB-USDC will probably decrease
+2025-08-07 09:16:29 - AVAX-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 09:16:29 - 📉 AVAX-USDC will probably decrease
+2025-08-07 09:16:42 - BTC-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 09:16:42 - 📉 BTC-USDC will probably decrease
+2025-08-07 09:16:50 - 🔄 Checking USDC balance...
+2025-08-07 09:16:56 - CRV-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 09:16:56 - 📉 CRV-USDC will probably decrease
+2025-08-07 09:17:07 - Settings updated: selected_crypto_pairs=['ADA-USDC', 'AAVE-USDC', 'ALGO-USDC', 'ARB-USDC', 'BTC-USDC', 'ETH-USDC', 'MATIC-USDC', 'SOL-USDC', 'SUI-USDC', 'XRP-USDC'],buy_percentage_of_capital=0.08, sell_profit_target=0.016,sell_stop_loss_target=0.008, ia=['True']
+2025-08-07 09:17:07 - #def load_data ::: daily update performed...
+2025-08-07 09:17:07 - #fetch_crypto_data ::: daily update performed for ADA-USDC
+2025-08-07 09:17:07 - #fetch_crypto_data ::: daily update performed for AAVE-USDC
+2025-08-07 09:17:07 - #fetch_crypto_data ::: daily update performed for ALGO-USDC
+2025-08-07 09:17:07 - #fetch_crypto_data ::: daily update performed for ARB-USDC
+2025-08-07 09:17:08 - #fetch_crypto_data ::: daily update performed for BTC-USDC
+2025-08-07 09:17:08 - #fetch_crypto_data ::: daily update performed for ETH-USDC
+2025-08-07 09:17:08 - #fetch_crypto_data ::: daily update performed for MATIC-USDC
+2025-08-07 09:17:08 - #fetch_crypto_data ::: daily update performed for SOL-USDC
+2025-08-07 09:17:08 - #fetch_crypto_data ::: daily update performed for SUI-USDC
+2025-08-07 09:17:08 - #fetch_crypto_data ::: daily update performed for XRP-USDC
+2025-08-07 09:17:08 - 📦 Data reloaded for ['ADA-USDC', 'AAVE-USDC', 'ALGO-USDC', 'ARB-USDC', 'BTC-USDC', 'ETH-USDC', 'MATIC-USDC', 'SOL-USDC', 'SUI-USDC', 'XRP-USDC']
+2025-08-07 09:17:11 - DOGE-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 09:17:11 - 📉 DOGE-USDC will probably decrease
+2025-08-07 09:17:12 - ✅ Dynamically selected bullish pairs : ['ADA-USDC', 'AAVE-USDC', 'ALGO-USDC', 'ARB-USDC', 'BTC-USDC', 'ETH-USDC', 'MATIC-USDC', 'SOL-USDC', 'SUI-USDC', 'XRP-USDC']
+2025-08-07 09:17:12 - 🔄 Pairs updated by dynamic auto-selection at 09:17 : ['ADA-USDC', 'AAVE-USDC', 'ALGO-USDC', 'ARB-USDC', 'BTC-USDC', 'ETH-USDC', 'MATIC-USDC', 'SOL-USDC', 'SUI-USDC', 'XRP-USDC']
+2025-08-07 09:17:12 - DCA trading bot started
+2025-08-07 09:17:12 - Currently processing pair : ADA-USDC
+2025-08-07 09:17:14 - The USDC balance is : 128.6297945205066491953751
+2025-08-07 09:17:14 - IA activated.
+2025-08-07 09:17:20 - 🔄 Checking USDC balance...
+2025-08-07 09:17:29 - DOT-USDC trend: 📈 The crypto price will increase 🚀
+2025-08-07 09:17:29 - 📈 DOT-USDC will probably increase
+2025-08-07 09:17:35 - ADA-USDC will lose value, purchase canceled.
+2025-08-07 09:17:35 - Currently processing pair : AAVE-USDC
+2025-08-07 09:17:37 - The USDC balance is : 128.6297945205066491953751
+2025-08-07 09:17:37 - IA activated.
+2025-08-07 09:17:45 - ETC-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 09:17:45 - 📉 ETC-USDC will probably decrease
+2025-08-07 09:17:50 - 🔄 Checking USDC balance...
+2025-08-07 09:17:55 - AAVE-USDC will gain value, purchase in progress.
+2025-08-07 09:17:55 - 🔍 Checking USDC balance...
+2025-08-07 09:17:57 - the current price of AAVE-USDC on the market is: 275.07 USDC
+2025-08-07 09:17:57 - ❌ Error in get_volatility_score: Array must be at least 1D with 2 elements
+2025-08-07 09:17:57 - 🧠 [CHECK IA] Score: 0.0000, LUTE: 0.0000, Gain: 1.00%
+2025-08-07 09:17:57 - ⛔ IA Refusal : Score too low (< 0.6)
+2025-08-07 09:17:57 - ⛔ Purchase blocked [Lutessia] ➜ AAVE-USDC | score=0.0000 | LUTE=0.0 | gain=1.00%
+2025-08-07 09:17:57 - ⛔ Trade blocked by IA Lutessia for AAVE-USDC
+2025-08-07 09:17:57 - Currently processing pair : ALGO-USDC
+2025-08-07 09:17:59 - The USDC balance is : 128.6297945205066491953751
+2025-08-07 09:17:59 - IA activated.
+2025-08-07 09:18:00 - ETH-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 09:18:00 - 📉 ETH-USDC will probably decrease
+2025-08-07 09:18:16 - ALGO-USDC will lose value, purchase canceled.
+2025-08-07 09:18:16 - Currently processing pair : ARB-USDC
+2025-08-07 09:18:16 - FET-USDC trend: 📈 The crypto price will increase 🚀
+2025-08-07 09:18:16 - 📈 FET-USDC will probably increase
+2025-08-07 09:18:17 - The USDC balance is : 128.6297945205066491953751
+2025-08-07 09:18:18 - IA activated.
+2025-08-07 09:18:21 - 🔄 Checking USDC balance...
+2025-08-07 09:18:30 - FIL-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 09:18:30 - 📉 FIL-USDC will probably decrease
+2025-08-07 09:18:31 - ARB-USDC will lose value, purchase canceled.
+2025-08-07 09:18:31 - Currently processing pair : BTC-USDC
+2025-08-07 09:18:33 - The USDC balance is : 128.6297945205066491953751
+2025-08-07 09:18:33 - IA activated.
+2025-08-07 09:18:43 - GRT-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 09:18:43 - 📉 GRT-USDC will probably decrease
+2025-08-07 09:18:48 - BTC-USDC will lose value, purchase canceled.
+2025-08-07 09:18:48 - Currently processing pair : ETH-USDC
+2025-08-07 09:18:50 - The USDC balance is : 128.6297945205066491953751
+2025-08-07 09:18:50 - IA activated.
+2025-08-07 09:18:51 - 🔄 Checking USDC balance...
+2025-08-07 09:18:58 - HBAR-USDC trend: 📈 The crypto price will increase 🚀
+2025-08-07 09:18:58 - 📈 HBAR-USDC will probably increase
+2025-08-07 09:19:06 - ETH-USDC will lose value, purchase canceled.
+2025-08-07 09:19:06 - Currently processing pair : MATIC-USDC
+2025-08-07 09:19:08 - The USDC balance is : 128.6297945205066491953751
+2025-08-07 09:19:08 - IA activated.
+2025-08-07 09:19:13 - ICP-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 09:19:13 - 📉 ICP-USDC will probably decrease
+2025-08-07 09:19:21 - 🔄 Checking USDC balance...
+2025-08-07 09:19:24 - MATIC-USDC will gain value, purchase in progress.
+2025-08-07 09:19:24 - 🔍 Checking USDC balance...
+2025-08-07 09:19:26 - the current price of MATIC-USDC on the market is: 0.2377 USDC
+2025-08-07 09:19:26 - ❌ Error in get_volatility_score: Array must be at least 1D with 2 elements
+2025-08-07 09:19:26 - 🧠 [CHECK IA] Score: 0.0000, LUTE: 0.0000, Gain: 1.00%
+2025-08-07 09:19:26 - ⛔ IA Refusal : Score too low (< 0.6)
+2025-08-07 09:19:26 - ⛔ Purchase blocked [Lutessia] ➜ MATIC-USDC | score=0.0000 | LUTE=0.0 | gain=1.00%
+2025-08-07 09:19:26 - ⛔ Trade blocked by IA Lutessia for MATIC-USDC
+2025-08-07 09:19:26 - Currently processing pair : SOL-USDC
+2025-08-07 09:19:27 - IDEX-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 09:19:27 - 📉 IDEX-USDC will probably decrease
+2025-08-07 09:19:27 - The USDC balance is : 128.6297945205066491953751
+2025-08-07 09:19:27 - IA activated.
+2025-08-07 09:19:43 - SOL-USDC will gain value, purchase in progress.
+2025-08-07 09:19:43 - 🔍 Checking USDC balance...
+2025-08-07 09:19:44 - LINK-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 09:19:44 - 📉 LINK-USDC will probably decrease
+2025-08-07 09:19:46 - the current price of SOL-USDC on the market is: 172.13 USDC
+2025-08-07 09:19:46 - ❌ Error in get_volatility_score: Array must be at least 1D with 2 elements
+2025-08-07 09:19:46 - 🧠 [CHECK IA] Score: 0.0000, LUTE: 0.0000, Gain: 1.00%
+2025-08-07 09:19:46 - ⛔ IA Refusal : Score too low (< 0.6)
+2025-08-07 09:19:46 - ⛔ Purchase blocked [Lutessia] ➜ SOL-USDC | score=0.0000 | LUTE=0.0 | gain=1.00%
+2025-08-07 09:19:46 - ⛔ Trade blocked by IA Lutessia for SOL-USDC
+2025-08-07 09:19:46 - Currently processing pair : SUI-USDC
+2025-08-07 09:19:48 - The USDC balance is : 128.6297945205066491953751
+2025-08-07 09:19:48 - IA activated.
+2025-08-07 09:19:51 - 🔄 Checking USDC balance...
+2025-08-07 09:20:04 - LTC-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 09:20:04 - 📉 LTC-USDC will probably decrease
+2025-08-07 09:20:08 - SUI-USDC will lose value, purchase canceled.
+2025-08-07 09:20:08 - Currently processing pair : XRP-USDC
+2025-08-07 09:20:10 - The USDC balance is : 128.6297945205066491953751
+2025-08-07 09:20:10 - IA activated.
+2025-08-07 09:20:20 - MATIC-USDC trend: 📈 The crypto price will increase 🚀
+2025-08-07 09:20:20 - 📈 MATIC-USDC will probably increase
+2025-08-07 09:20:22 - 🔄 Checking USDC balance...
+2025-08-07 09:20:27 - XRP-USDC will lose value, purchase canceled.
+2025-08-07 09:20:27 - All pairs processed. Converting residues to USDC...
+2025-08-07 09:20:27 - ⚙️ Starting conversion to USDC (threshold: ≥ 1 USDC)
+2025-08-07 09:20:27 - the current price of AVAX-USDC on the market is: 22.73 USDC
+2025-08-07 09:20:27 - ❌ Error in get_volatility_score: Array must be at least 1D with 2 elements
+2025-08-07 09:20:27 - 🚫 Conversion ignored : AVAX (7.8313E-9) ~ 0.0 USDC (< 1.0)
+2025-08-07 09:20:28 - the current price of CRV-USDC on the market is: 0.9356 USDC
+2025-08-07 09:20:28 - ❌ Error in get_volatility_score: Array must be at least 1D with 2 elements
+2025-08-07 09:20:28 - 🚫 Conversion ignored : CRV (0.0063732556659391) ~ 0.0 USDC (< 1.0)
+2025-08-07 09:20:28 - the current price of DOT-USDC on the market is: 3.797 USDC
+2025-08-07 09:20:28 - ❌ Error in get_volatility_score: Array must be at least 1D with 2 elements
+2025-08-07 09:20:28 - 🚫 Conversion ignored : DOT (7.4750129E-9) ~ 0.0 USDC (< 1.0)
+2025-08-07 09:20:28 - the current price of ALGO-USDC on the market is: 0.2586 USDC
+2025-08-07 09:20:28 - ❌ Error in get_volatility_score: Array must be at least 1D with 2 elements
+2025-08-07 09:20:28 - 🔁 Conversion 88.8099907771094498 ALGO (~23.0 USDC)
+2025-08-07 09:20:28 - ✅ Conversion performed for ALGO
+2025-08-07 09:20:28 - the current price of XRP-USDC on the market is: 3.0726 USDC
+2025-08-07 09:20:28 - ❌ Error in get_volatility_score: Array must be at least 1D with 2 elements
+2025-08-07 09:20:28 - 🚫 Conversion ignored : XRP (6.690982827E-7) ~ 0.0 USDC (< 1.0)
+2025-08-07 09:20:28 - the current price of DOGE-USDC on the market is: 0.21431 USDC
+2025-08-07 09:20:28 - ❌ Error in get_volatility_score: Array must be at least 1D with 2 elements
+2025-08-07 09:20:28 - 🚫 Conversion ignored : DOGE (8.1462255E-9) ~ 0.0 USDC (< 1.0)
+2025-08-07 09:20:29 - the current price of ADA-USDC on the market is: 0.7666 USDC
+2025-08-07 09:20:29 - ❌ Error in get_volatility_score: Array must be at least 1D with 2 elements
+2025-08-07 09:20:29 - 🔁 Conversion 22.6851521160193962 ADA (~17.4 USDC)
+2025-08-07 09:20:29 - ✅ Conversion performed for ADA
+2025-08-07 09:20:29 - the current price of LTC-USDC on the market is: 119.83 USDC
+2025-08-07 09:20:29 - ❌ Error in get_volatility_score: Array must be at least 1D with 2 elements
+2025-08-07 09:20:29 - 🚫 Conversion ignored : LTC (8.8126927E-9) ~ 0.0 USDC (< 1.0)
+2025-08-07 09:20:29 - the current price of SOL-USDC on the market is: 172.14 USDC
+2025-08-07 09:20:29 - ❌ Error in get_volatility_score: Array must be at least 1D with 2 elements
+2025-08-07 09:20:29 - 🔁 Conversion 0.0815980208903176 SOL (~14.0 USDC)
+2025-08-07 09:20:29 - ✅ Conversion performed for SOL
+2025-08-07 09:20:29 - the current price of MATIC-USDC on the market is: 0.2368 USDC
+2025-08-07 09:20:29 - ❌ Error in get_volatility_score: Array must be at least 1D with 2 elements
+2025-08-07 09:20:29 - 🚫 Conversion ignored : MATIC (0.00839338574583099) ~ 0.0 USDC (< 1.0)
+2025-08-07 09:20:29 - ✅ Complete conversion finished.
+2025-08-07 09:20:34 - NEAR-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 09:20:34 - 📉 NEAR-USDC will probably decrease
+2025-08-07 09:20:45 - PEPE-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 09:20:45 - 📉 PEPE-USDC will probably decrease
+2025-08-07 09:20:53 - 🔄 Checking USDC balance...
+2025-08-07 09:20:58 - SOL-USDC trend: 📈 The crypto price will increase 🚀
+2025-08-07 09:20:58 - 📈 SOL-USDC will probably increase
+2025-08-07 09:21:08 - SUI-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 09:21:08 - 📉 SUI-USDC will probably decrease
+2025-08-07 09:21:18 - SUPER-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 09:21:18 - 📉 SUPER-USDC will probably decrease
+2025-08-07 09:21:23 - 🔄 Checking USDC balance...
+2025-08-07 09:21:29 - SUSHI-USDC trend: 📈 The crypto price will increase 🚀
+2025-08-07 09:21:29 - 📈 SUSHI-USDC will probably increase
+2025-08-07 09:21:41 - SWFTC-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 09:21:41 - 📉 SWFTC-USDC will probably decrease
+2025-08-07 09:21:51 - UNI-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 09:21:51 - 📉 UNI-USDC will probably decrease
+2025-08-07 09:21:57 - 🔄 Checking USDC balance...
+2025-08-07 09:22:03 - USDT-USDC trend: 📈 The crypto price will increase 🚀
+2025-08-07 09:22:03 - 📈 USDT-USDC will probably increase
+2025-08-07 09:22:14 - VET-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 09:22:14 - 📉 VET-USDC will probably decrease
+2025-08-07 09:22:25 - XLM-USDC trend: 📈 The crypto price will increase 🚀
+2025-08-07 09:22:25 - 📈 XLM-USDC will probably increase
+2025-08-07 09:22:27 - 🔄 Checking USDC balance...
+2025-08-07 09:22:29 - Currently processing pair : ADA-USDC
+2025-08-07 09:22:31 - The USDC balance is : 128.6297945205066491953751
+2025-08-07 09:22:31 - IA activated.
+2025-08-07 09:22:37 - XRP-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 09:22:37 - 📉 XRP-USDC will probably decrease
+2025-08-07 09:22:47 - ADA-USDC will lose value, purchase canceled.
+2025-08-07 09:22:47 - Currently processing pair : AAVE-USDC
+2025-08-07 09:22:49 - The USDC balance is : 128.6297945205066491953751
+2025-08-07 09:22:49 - IA activated.
+2025-08-07 09:22:53 - YFI-USDC trend: 📈 The crypto price will increase 🚀
+2025-08-07 09:22:53 - 📈 YFI-USDC will probably increase
+2025-08-07 09:22:58 - 🔄 Checking USDC balance...
+2025-08-07 09:23:00 - AAVE-USDC will gain value, purchase in progress.
+2025-08-07 09:23:00 - 🔍 Checking USDC balance...
+2025-08-07 09:23:02 - the current price of AAVE-USDC on the market is: 275.32 USDC
+2025-08-07 09:23:02 - ❌ Error in get_volatility_score: Array must be at least 1D with 2 elements
+2025-08-07 09:23:02 - 🧠 [CHECK IA] Score: 0.0000, LUTE: 0.0000, Gain: 1.00%
+2025-08-07 09:23:02 - ⛔ IA Refusal : Score too low (< 0.6)
+2025-08-07 09:23:02 - ⛔ Purchase blocked [Lutessia] ➜ AAVE-USDC | score=0.0000 | LUTE=0.0 | gain=1.00%
+2025-08-07 09:23:02 - ⛔ Trade blocked by IA Lutessia for AAVE-USDC
+2025-08-07 09:23:02 - Currently processing pair : ALGO-USDC
+2025-08-07 09:23:04 - The USDC balance is : 128.6297945205066491953751
+2025-08-07 09:23:04 - IA activated.
+2025-08-07 09:23:12 - ADA-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 09:23:12 - 📉 ADA-USDC will probably decrease
+2025-08-07 09:23:17 - ALGO-USDC will lose value, purchase canceled.
+2025-08-07 09:23:17 - Currently processing pair : ARB-USDC
+2025-08-07 09:23:18 - The USDC balance is : 128.6297945205066491953751
+2025-08-07 09:23:18 - IA activated.
+2025-08-07 09:23:25 - AAVE-USDC trend: 📈 The crypto price will increase 🚀
+2025-08-07 09:23:25 - 📈 AAVE-USDC will probably increase
+2025-08-07 09:23:28 - 🔄 Checking USDC balance...
+2025-08-07 09:23:32 - ARB-USDC will lose value, purchase canceled.
+2025-08-07 09:23:32 - Currently processing pair : BTC-USDC
+2025-08-07 09:23:34 - The USDC balance is : 128.6297945205066491953751
+2025-08-07 09:23:34 - IA activated.
+2025-08-07 09:23:35 - ALGO-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 09:23:35 - 📉 ALGO-USDC will probably decrease
+2025-08-07 09:23:46 - BTC-USDC will lose value, purchase canceled.
+2025-08-07 09:23:46 - Currently processing pair : ETH-USDC
+2025-08-07 09:23:47 - ARB-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 09:23:47 - 📉 ARB-USDC will probably decrease
+2025-08-07 09:23:47 - The USDC balance is : 128.6297945205066491953751
+2025-08-07 09:23:47 - IA activated.
+2025-08-07 09:24:03 - 🔄 Checking USDC balance...
+2025-08-07 03:24:03 - BTC-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 09:24:03 - 📉 BTC-USDC will probably decrease
+2025-08-07 09:24:04 - ETH-USDC will lose value, purchase canceled.
+2025-08-07 09:24:04 - Currently processing pair : MATIC-USDC
+2025-08-07 09:24:06 - The USDC balance is : 128.6297945205066491953751
+2025-08-07 09:24:06 - IA activated.
+2025-08-07 09:24:16 - ETH-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 09:24:16 - 📉 ETH-USDC will probably decrease
+2025-08-07 09:24:19 - MATIC-USDC will gain value, purchase in progress.
+2025-08-07 09:24:19 - 🔍 Checking USDC balance...
+2025-08-07 09:24:21 - the current price of MATIC-USDC on the market is: 0.2374 USDC
+2025-08-07 09:24:21 - ❌ Error in get_volatility_score: Array must be at least 1D with 2 elements
+2025-08-07 09:24:21 - 🧠 [CHECK IA] Score: 0.0000, LUTE: 0.0000, Gain: 1.00%
+2025-08-07 09:24:21 - ⛔ IA Refusal : Score too low (< 0.6)
+2025-08-07 09:24:21 - ⛔ Purchase blocked [Lutessia] ➜ MATIC-USDC | score=0.0000 | LUTE=0.0 | gain=1.00%
+2025-08-07 09:24:21 - ⛔ Trade blocked by IA Lutessia for MATIC-USDC
+2025-08-07 09:24:21 - Currently processing pair : SOL-USDC
+2025-08-07 09:24:22 - The USDC balance is : 128.6297945205066491953751
+2025-08-07 09:24:22 - IA activated.
+2025-08-07 09:24:27 - MATIC-USDC trend: 📈 The crypto price will increase 🚀
+2025-08-07 09:24:27 - 📈 MATIC-USDC will probably increase
+2025-08-07 09:24:37 - SOL-USDC will gain value, purchase in progress.
+2025-08-07 09:24:37 - 🔍 Checking USDC balance...
+2025-08-07 09:24:37 - 🔄 Checking USDC balance...
+2025-08-07 09:24:39 - the current price of SOL-USDC on the market is: 171.97 USDC
+2025-08-07 09:24:39 - ❌ Error in get_volatility_score: Array must be at least 1D with 2 elements
+2025-08-07 09:24:39 - 🧠 [CHECK IA] Score: 0.0000, LUTE: 0.0000, Gain: 1.00%
+2025-08-07 09:24:39 - ⛔ IA Refusal : Score too low (< 0.6)
+2025-08-07 09:24:39 - ⛔ Purchase blocked [Lutessia] ➜ SOL-USDC | score=0.0000 | LUTE=0.0 | gain=1.00%
+2025-08-07 09:24:39 - ⛔ Trade blocked by IA Lutessia for SOL-USDC
+2025-08-07 09:24:39 - Currently processing pair : SUI-USDC
+2025-08-07 09:24:39 - SOL-USDC trend: 📈 The crypto price will increase 🚀
+2025-08-07 09:24:39 - 📈 SOL-USDC will probably increase
+2025-08-07 09:24:40 - The USDC balance is : 128.6297945205066491953751
+2025-08-07 09:24:40 - IA activated.
+2025-08-07 09:24:52 - SUI-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 09:24:52 - 📉 SUI-USDC will probably decrease
+2025-08-07 09:24:53 - 🧠 ========== IA TREND (every 2 min) ==========
+2025-08-07 09:24:54 - SUI-USDC will lose value, purchase canceled.
+2025-08-07 09:24:54 - Currently processing pair : XRP-USDC
+2025-08-07 09:24:56 - The USDC balance is : 128.6297945205066491953751
+2025-08-07 09:24:56 - IA activated.
+2025-08-07 09:25:08 - 🔄 Checking USDC balance...
+2025-08-07 09:25:12 - XRP-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 09:25:12 - 📉 XRP-USDC will probably decrease
+2025-08-07 09:25:13 - ADA-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 09:25:13 - 📉 ADA-USDC will probably decrease
+2025-08-07 09:25:16 - XRP-USDC will lose value, purchase canceled.
+2025-08-07 09:25:16 - All pairs processed. Converting residues to USDC...
+2025-08-07 09:25:16 - ⚙️ Starting conversion to USDC (threshold: ≥ 1 USDC)
+2025-08-07 09:25:16 - the current price of AVAX-USDC on the market is: 22.73 USDC
+2025-08-07 09:25:16 - ❌ Error in get_volatility_score: Array must be at least 1D with 2 elements
+2025-08-07 09:25:16 - 🚫 Conversion ignored : AVAX (7.8313E-9) ~ 0.0 USDC (< 1.0)
+2025-08-07 09:25:16 - the current price of CRV-USDC on the market is: 0.9344 USDC
+2025-08-07 09:25:16 - ❌ Error in get_volatility_score: Array must be at least 1D with 2 elements
+2025-08-07 09:25:16 - 🚫 Conversion ignored : CRV (0.0063732556659391) ~ 0.0 USDC (< 1.0)
+2025-08-07 09:25:16 - the current price of DOT-USDC on the market is: 3.797 USDC
+2025-08-07 09:25:16 - ❌ Error in get_volatility_score: Array must be at least 1D with 2 elements
+2025-08-07 09:25:16 - 🚫 Conversion ignored : DOT (7.4750129E-9) ~ 0.0 USDC (< 1.0)
+2025-08-07 09:25:16 - the current price of ALGO-USDC on the market is: 0.2584 USDC
+2025-08-07 09:25:16 - ❌ Error in get_volatility_score: Array must be at least 1D with 2 elements
+2025-08-07 09:25:16 - 🔁 Conversion 88.8099907771094498 ALGO (~22.9 USDC)
+2025-08-07 09:25:16 - ✅ Conversion performed for ALGO
+2025-08-07 09:25:17 - the current price of XRP-USDC on the market is: 3.0711 USDC
+2025-08-07 09:25:17 - ❌ Error in get_volatility_score: Array must be at least 1D with 2 elements
+2025-08-07 09:25:17 - 🚫 Conversion ignored : XRP (6.690982827E-7) ~ 0.0 USDC (< 1.0)
+2025-08-07 09:25:17 - Updating accounts
+2025-08-07 09:25:17 - #def load_data ::: daily update performed...
+2025-08-07 09:25:17 - the current price of DOGE-USDC on the market is: 0.21463 USDC
+2025-08-07 09:25:17 - ❌ Error in get_volatility_score: Array must be at least 1D with 2 elements
+2025-08-07 09:25:17 - 🚫 Conversion ignored : DOGE (8.1462255E-9) ~ 0.0 USDC (< 1.0)
+2025-08-07 09:25:17 - #fetch_crypto_data ::: daily update performed for ADA-USDC
+2025-08-07 09:25:17 - the current price of ADA-USDC on the market is: 0.7673 USDC
+2025-08-07 09:25:17 - ❌ Error in get_volatility_score: Array must be at least 1D with 2 elements
+2025-08-07 09:25:17 - 🔁 Conversion 22.6851521160193962 ADA (~17.4 USDC)
+2025-08-07 09:25:17 - ✅ Conversion performed for ADA
+2025-08-07 09:25:17 - #fetch_crypto_data ::: daily update performed for AAVE-USDC
+2025-08-07 09:25:17 - the current price of LTC-USDC on the market is: 120 USDC
+2025-08-07 09:25:17 - ❌ Error in get_volatility_score: Array must be at least 1D with 2 elements
+2025-08-07 09:25:17 - 🚫 Conversion ignored : LTC (8.8126927E-9) ~ 0.0 USDC (< 1.0)
+2025-08-07 09:25:17 - #fetch_crypto_data ::: daily update performed for ALGO-USDC
+2025-08-07 09:25:17 - the current price of SOL-USDC on the market is: 172.03 USDC
+2025-08-07 09:25:17 - ❌ Error in get_volatility_score: Array must be at least 1D with 2 elements
+2025-08-07 09:25:17 - 🔁 Conversion 0.0815980208903176 SOL (~14.0 USDC)
+2025-08-07 09:25:18 - #fetch_crypto_data ::: daily update performed for ARB-USDC
+2025-08-07 09:25:18 - ✅ Conversion performed for SOL
+2025-08-07 09:25:18 - the current price of MATIC-USDC on the market is: 0.2374 USDC
+2025-08-07 09:25:18 - ❌ Error in get_volatility_score: Array must be at least 1D with 2 elements
+2025-08-07 09:25:18 - 🚫 Conversion ignored : MATIC (0.00839338574583099) ~ 0.0 USDC (< 1.0)
+2025-08-07 09:25:18 - ✅ Complete conversion finished.
+2025-08-07 09:25:18 - ⏸ Putting the robot on pause.
+2025-08-07 09:25:18 - #fetch_crypto_data ::: daily update performed for BTC-USDC
+2025-08-07 09:25:18 - #fetch_crypto_data ::: daily update performed for ETH-USDC
+2025-08-07 09:25:18 - #fetch_crypto_data ::: daily update performed for MATIC-USDC
+2025-08-07 09:25:18 - #fetch_crypto_data ::: daily update performed for SOL-USDC
+2025-08-07 09:25:19 - #fetch_crypto_data ::: daily update performed for SUI-USDC
+2025-08-07 09:25:19 - #fetch_crypto_data ::: daily update performed for XRP-USDC
+2025-08-07 09:25:19 - launching calculations for predictions
+2025-08-07 09:25:25 - AAVE-USDC trend: 📈 The crypto price will increase 🚀
+2025-08-07 09:25:25 - 📈 AAVE-USDC will probably increase
+2025-08-07 09:25:35 - ALGO-USDC trend: 📈 The crypto price will increase 🚀
+2025-08-07 09:25:35 - 📈 ALGO-USDC will probably increase
+2025-08-07 09:25:39 - 🔄 Checking USDC balance...
+2025-08-07 09:25:45 - ARB-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 09:25:45 - 📉 ARB-USDC will probably decrease
+2025-08-07 09:25:55 - BTC-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 09:25:55 - 📉 BTC-USDC will probably decrease
+2025-08-07 09:26:04 - ETH-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 09:26:04 - 📉 ETH-USDC will probably decrease
+2025-08-07 09:26:13 - 🔄 Checking USDC balance...
+2025-08-07 09:26:14 - MATIC-USDC trend: 📈 The crypto price will increase 🚀
+2025-08-07 09:26:14 - 📈 MATIC-USDC will probably increase
+2025-08-07 09:26:24 - SOL-USDC trend: 📈 The crypto price will increase 🚀
+2025-08-07 09:26:24 - 📈 SOL-USDC will probably increase
+2025-08-07 09:26:37 - SUI-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 09:26:37 - 📉 SUI-USDC will probably decrease
+2025-08-07 09:26:45 - 🔄 Checking USDC balance...
+2025-08-07 09:26:48 - XRP-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 09:26:48 - 📉 XRP-USDC will probably decrease
+2025-08-07 09:27:13 - ADA-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 09:27:13 - 📉 ADA-USDC will probably decrease
+2025-08-07 09:27:18 - Currently processing pair : ADA-USDC
+2025-08-07 09:27:18 - 🔄 Checking USDC balance...
+2025-08-07 09:27:19 - The USDC balance is : 128.6297945205066491953751
+2025-08-07 09:27:19 - IA activated.
+2025-08-07 09:27:21 - AAVE-USDC trend: 📈 The crypto price will increase 🚀
+2025-08-07 09:27:21 - 📈 AAVE-USDC will probably increase
+2025-08-07 09:27:30 - ADA-USDC will lose value, purchase canceled.
+2025-08-07 09:27:30 - Currently processing pair : AAVE-USDC
+2025-08-07 09:27:31 - ALGO-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 09:27:31 - 📉 ALGO-USDC will probably decrease
+2025-08-07 09:27:32 - The USDC balance is : 128.6297945205066491953751
+2025-08-07 09:27:32 - IA activated.
+2025-08-07 09:27:40 - ARB-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 09:27:40 - 📉 ARB-USDC will probably decrease
+2025-08-07 09:27:42 - AAVE-USDC will gain value, purchase in progress.
+2025-08-07 09:27:42 - 🔍 Checking USDC balance...
+2025-08-07 09:27:44 - the current price of AAVE-USDC on the market is: 274.51 USDC
+2025-08-07 09:27:44 - ❌ Error in get_volatility_score: Array must be at least 1D with 2 elements
+2025-08-07 09:27:44 - 🧠 [CHECK IA] Score: 0.0000, LUTE: 0.0000, Gain: 1.00%
+2025-08-07 09:27:44 - ⛔ IA Refusal : Score too low (< 0.6)
+2025-08-07 09:27:44 - ⛔ Purchase blocked [Lutessia] ➜ AAVE-USDC | score=0.0000 | LUTE=0.0 | gain=1.00%
+2025-08-07 09:27:44 - ⛔ Trade blocked by IA Lutessia for AAVE-USDC
+2025-08-07 09:27:44 - Currently processing pair : ALGO-USDC
+2025-08-07 09:27:45 - The USDC balance is : 128.6297945205066491953751
+2025-08-07 09:27:45 - IA activated.
+2025-08-07 09:27:48 - BTC-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 09:27:48 - 📉 BTC-USDC will probably decrease
+2025-08-07 09:27:50 - 🔄 Checking USDC balance...
+2025-08-07 09:27:56 - ALGO-USDC will lose value, purchase canceled.
+2025-08-07 09:27:56 - Currently processing pair : ARB-USDC
+2025-08-07 09:27:57 - ETH-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 09:27:57 - 📉 ETH-USDC will probably decrease
+2025-08-07 09:27:57 - The USDC balance is : 128.6297945205066491953751
+2025-08-07 09:27:57 - IA activated.
+2025-08-07 09:28:12 - ARB-USDC will gain value, purchase in progress.
+2025-08-07 09:28:12 - 🔍 Checking USDC balance...
+2025-08-07 09:28:12 - MATIC-USDC trend: 📈 The crypto price will increase 🚀
+2025-08-07 09:28:12 - 📈 MATIC-USDC will probably increase
+2025-08-07 09:28:14 - the current price of ARB-USDC on the market is: 0.4098 USDC
+2025-08-07 09:28:14 - ❌ Error in get_volatility_score: Array must be at least 1D with 2 elements
+2025-08-07 09:28:14 - 🧠 [CHECK IA] Score: 0.0000, LUTE: 0.0000, Gain: 1.00%
+2025-08-07 09:28:14 - ⛔ IA Refusal : Score too low (< 0.6)
+2025-08-07 09:28:14 - ⛔ Purchase blocked [Lutessia] ➜ ARB-USDC | score=0.0000 | LUTE=0.0 | gain=1.00%
+2025-08-07 09:28:14 - ⛔ Trade blocked by IA Lutessia for ARB-USDC
+2025-08-07 09:28:14 - Currently processing pair : BTC-USDC
+2025-08-07 09:28:15 - The USDC balance is : 128.6297945205066491953751
+2025-08-07 09:28:15 - IA activated.
+2025-08-07 09:28:22 - 🔄 Checking USDC balance...
+2025-08-07 09:28:26 - SOL-USDC trend: 📈 The crypto price will increase 🚀
+2025-08-07 09:28:26 - 📈 SOL-USDC will probably increase
+2025-08-07 09:28:30 - BTC-USDC will lose value, purchase canceled.
+2025-08-07 09:28:30 - Currently processing pair : ETH-USDC
+2025-08-07 09:28:32 - The USDC balance is : 128.6297945205066491953751
+2025-08-07 09:28:32 - IA activated.
+2025-08-07 09:28:36 - SUI-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 09:28:36 - 📉 SUI-USDC will probably decrease
+2025-08-07 09:28:42 - ETH-USDC will lose value, purchase canceled.
+2025-08-07 09:28:42 - Currently processing pair : MATIC-USDC
+2025-08-07 09:28:43 - The USDC balance is : 128.6297945205066491953751
+2025-08-07 09:28:43 - IA activated.
+2025-08-07 09:28:45 - XRP-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 09:28:45 - 📉 XRP-USDC will probably decrease
+2025-08-07 09:28:48 - 🧠 ========== IA TREND (every 2 min) ==========
+2025-08-07 09:28:50 - Updating accounts
+2025-08-07 09:28:50 - IA update time not reached.
+2025-08-07 09:28:52 - 🔄 Checking USDC balance...
+2025-08-07 09:28:52 - MATIC-USDC will gain value, purchase in progress.
+2025-08-07 09:28:52 - 🔍 Checking USDC balance...
+2025-08-07 09:28:54 - Updating accounts
+2025-08-07 09:28:54 - IA update time not reached.
+2025-08-07 09:28:54 - the current price of MATIC-USDC on the market is: 0.2377 USDC
+2025-08-07 09:28:54 - ❌ Error in get_volatility_score: Array must be at least 1D with 2 elements
+2025-08-07 09:28:54 - 🧠 [CHECK IA] Score: 0.0000, LUTE: 0.0000, Gain: 1.00%
+2025-08-07 09:28:54 - ⛔ IA Refusal : Score too low (< 0.6)
+2025-08-07 09:28:54 - ⛔ Purchase blocked [Lutessia] ➜ MATIC-USDC | score=0.0000 | LUTE=0.0 | gain=1.00%
+2025-08-07 09:28:54 - ⛔ Trade blocked by IA Lutessia for MATIC-USDC
+2025-08-07 09:28:54 - Currently processing pair : SOL-USDC
+2025-08-07 09:28:56 - The USDC balance is : 128.6297945205066491953751
+2025-08-07 09:28:56 - IA activated.
+2025-08-07 09:28:57 - ADA-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 09:28:57 - 📉 ADA-USDC will probably decrease
+2025-08-07 09:28:58 - Updating accounts
+2025-08-07 09:28:58 - IA update time not reached.
+2025-08-07 09:29:03 - Updating accounts
+2025-08-07 09:29:03 - IA update time not reached.
+2025-08-07 09:29:07 - Updating accounts
+2025-08-07 09:29:07 - IA update time not reached.
+2025-08-07 09:29:07 - SOL-USDC will gain value, purchase in progress.
+2025-08-07 09:29:07 - 🔍 Checking USDC balance...
+2025-08-07 09:29:09 - the current price of SOL-USDC on the market is: 172.05 USDC
+2025-08-07 09:29:09 - ❌ Error in get_volatility_score: Array must be at least 1D with 2 elements
+2025-08-07 09:29:09 - 🧠 [CHECK IA] Score: 0.0000, LUTE: 0.0000, Gain: 1.00%
+2025-08-07 09:29:09 - ⛔ IA Refusal : Score too low (< 0.6)
+2025-08-07 09:29:09 - ⛔ Purchase blocked [Lutessia] ➜ SOL-USDC | score=0.0000 | LUTE=0.0 | gain=1.00%
+2025-08-07 09:29:09 - ⛔ Trade blocked by IA Lutessia for SOL-USDC
+2025-08-07 09:29:09 - Currently processing pair : SUI-USDC
+2025-08-07 09:29:09 - AAVE-USDC trend: 📈 The crypto price will increase 🚀
+2025-08-07 09:29:09 - 📈 AAVE-USDC will probably increase
+2025-08-07 09:29:11 - The USDC balance is : 128.6297945205066491953751
+2025-08-07 09:29:11 - IA activated.
+2025-08-07 09:29:12 - Updating accounts
+2025-08-07 09:29:12 - IA update time not reached.
+2025-08-07 09:29:17 - Updating accounts
+2025-08-07 09:29:17 - IA update time not reached.
+2025-08-07 09:29:21 - Updating accounts
+2025-08-07 09:29:21 - IA update time not reached.
+2025-08-07 09:29:22 - 🔄 Checking USDC balance...
+2025-08-07 09:29:26 - Updating accounts
+2025-08-07 09:29:26 - IA update time not reached.
+2025-08-07 09:29:26 - ALGO-USDC trend: 📈 The crypto price will increase 🚀
+2025-08-07 09:29:26 - 📈 ALGO-USDC will probably increase
+2025-08-07 09:29:28 - SUI-USDC will lose value, purchase canceled.
+2025-08-07 09:29:28 - Currently processing pair : XRP-USDC
+2025-08-07 09:29:30 - The USDC balance is : 128.6297945205066491953751
+2025-08-07 09:29:30 - IA activated.
+2025-08-07 09:29:30 - Updating accounts
+2025-08-07 09:29:30 - IA update time not reached.
+2025-08-07 09:29:34 - Updating accounts
+2025-08-07 09:29:34 - IA update time not reached.
+2025-08-07 09:29:39 - Updating accounts
+2025-08-07 09:29:39 - IA update time not reached.
+2025-08-07 09:29:40 - ARB-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 09:29:40 - 📉 ARB-USDC will probably decrease
+2025-08-07 09:29:43 - Updating accounts
+2025-08-07 09:29:43 - IA update time not reached.
+2025-08-07 09:29:43 - XRP-USDC will lose value, purchase canceled.
+2025-08-07 09:29:43 - All pairs processed. Converting residues to USDC...
+2025-08-07 09:29:43 - ⚙️ Starting conversion to USDC (threshold: ≥ 1 USDC)
+2025-08-07 09:29:43 - the current price of AVAX-USDC on the market is: 22.74 USDC
+2025-08-07 09:29:43 - ❌ Error in get_volatility_score: Array must be at least 1D with 2 elements
+2025-08-07 09:29:43 - 🚫 Conversion ignored : AVAX (7.8313E-9) ~ 0.0 USDC (< 1.0)
+2025-08-07 09:29:44 - the current price of CRV-USDC on the market is: 0.9329 USDC
+2025-08-07 09:29:44 - ❌ Error in get_volatility_score: Array must be at least 1D with 2 elements
+2025-08-07 09:29:44 - 🚫 Conversion ignored : CRV (0.0063732556659391) ~ 0.0 USDC (< 1.0)
+2025-08-07 09:29:44 - the current price of DOT-USDC on the market is: 3.794 USDC
+2025-08-07 09:29:44 - ❌ Error in get_volatility_score: Array must be at least 1D with 2 elements
+2025-08-07 09:29:44 - 🚫 Conversion ignored : DOT (7.4750129E-9) ~ 0.0 USDC (< 1.0)
+2025-08-07 09:29:44 - the current price of ALGO-USDC on the market is: 0.2589 USDC
+2025-08-07 09:29:44 - ❌ Error in get_volatility_score: Array must be at least 1D with 2 elements
+2025-08-07 09:29:44 - 🔁 Conversion 88.8099907771094498 ALGO (~23.0 USDC)
+2025-08-07 09:29:44 - ✅ Conversion performed for ALGO
+2025-08-07 09:29:44 - the current price of XRP-USDC on the market is: 3.0715 USDC
+2025-08-07 09:29:44 - ❌ Error in get_volatility_score: Array must be at least 1D with 2 elements
+2025-08-07 09:29:44 - 🚫 Conversion ignored : XRP (6.690982827E-7) ~ 0.0 USDC (< 1.0)
+2025-08-07 09:29:44 - the current price of DOGE-USDC on the market is: 0.21434 USDC
+2025-08-07 09:29:44 - ❌ Error in get_volatility_score: Array must be at least 1D with 2 elements
+2025-08-07 09:29:44 - 🚫 Conversion ignored : DOGE (8.1462255E-9) ~ 0.0 USDC (< 1.0)
+2025-08-07 09:29:44 - the current price of ADA-USDC on the market is: 0.7679 USDC
+2025-08-07 09:29:44 - ❌ Error in get_volatility_score: Array must be at least 1D with 2 elements
+2025-08-07 09:29:44 - 🔁 Conversion 22.6851521160193962 ADA (~17.4 USDC)
+2025-08-07 09:29:45 - ✅ Conversion performed for ADA
+2025-08-07 09:29:45 - the current price of LTC-USDC on the market is: 120.02 USDC
+2025-08-07 09:29:45 - ❌ Error in get_volatility_score: Array must be at least 1D with 2 elements
+2025-08-07 09:29:45 - 🚫 Conversion ignored : LTC (8.8126927E-9) ~ 0.0 USDC (< 1.0)
+2025-08-07 09:29:45 - the current price of SOL-USDC on the market is: 172.05 USDC
+2025-08-07 09:29:45 - ❌ Error in get_volatility_score: Array must be at least 1D with 2 elements
+2025-08-07 09:29:45 - 🔁 Conversion 0.0815980208903176 SOL (~14.0 USDC)
+2025-08-07 09:29:45 - ✅ Conversion performed for SOL
+2025-08-07 09:29:45 - the current price of MATIC-USDC on the market is: 0.2376 USDC
+2025-08-07 09:29:45 - ❌ Error in get_volatility_score: Array must be at least 1D with 2 elements
+2025-08-07 09:29:45 - 🚫 Conversion ignored : MATIC (0.00839338574583099) ~ 0.0 USDC (< 1.0)
+2025-08-07 09:29:45 - ✅ Complete conversion finished.
+2025-08-07 09:29:45 - ⏸ Putting the robot on pause.
+2025-08-07 09:29:47 - Updating accounts
+2025-08-07 09:29:47 - IA update time not reached.
+2025-08-07 09:29:50 - BTC-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 09:29:50 - 📉 BTC-USDC will probably decrease
+2025-08-07 09:29:52 - Updating accounts
+2025-08-07 09:29:52 - IA update time not reached.
+2025-08-07 09:29:52 - 🔄 Checking USDC balance...
+2025-08-07 09:29:56 - Updating accounts
+2025-08-07 09:29:56 - IA update time not reached.
+2025-08-07 09:29:56 - ETH-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 09:29:56 - 📉 ETH-USDC will probably decrease
+2025-08-07 09:30:00 - Updating accounts
+2025-08-07 09:30:00 - #def load_data ::: daily update performed...
+2025-08-07 09:30:01 - #fetch_crypto_data ::: daily update performed for ADA-USDC
+2025-08-07 09:30:01 - #fetch_crypto_data ::: daily update performed for AAVE-USDC
+2025-08-07 09:30:01 - #fetch_crypto_data ::: daily update performed for ALGO-USDC
+2025-08-07 09:30:01 - #fetch_crypto_data ::: daily update performed for ARB-USDC
+2025-08-07 09:30:01 - #fetch_crypto_data ::: daily update performed for BTC-USDC
+2025-08-07 09:30:01 - #fetch_crypto_data ::: daily update performed for ETH-USDC
+2025-08-07 09:30:01 - #fetch_crypto_data ::: daily update performed for MATIC-USDC
+2025-08-07 09:30:02 - #fetch_crypto_data ::: daily update performed for SOL-USDC
+2025-08-07 09:30:02 - #fetch_crypto_data ::: daily update performed for SUI-USDC
+2025-08-07 09:30:02 - #fetch_crypto_data ::: daily update performed for XRP-USDC
+2025-08-07 09:30:02 - launching calculations for predictions
+2025-08-07 09:30:02 - MATIC-USDC trend: 📈 The crypto price will increase 🚀
+2025-08-07 09:30:02 - 📈 MATIC-USDC will probably increase
+2025-08-07 09:30:12 - SOL-USDC trend: 📈 The crypto price will increase 🚀
+2025-08-07 09:30:12 - 📈 SOL-USDC will probably increase
+2025-08-07 09:30:26 - 🔄 Checking USDC balance...
+2025-08-07 09:30:30 - SUI-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 09:30:30 - 📉 SUI-USDC will probably decrease
+2025-08-07 09:30:43 - XRP-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 09:30:43 - 📉 XRP-USDC will probably decrease
+2025-08-07 09:31:00 - 🔄 Checking USDC balance...
+2025-08-07 09:31:34 - 🔄 Checking USDC balance...
+2025-08-07 09:31:43 - ADA-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 09:31:43 - 📉 ADA-USDC will probably decrease
+2025-08-07 09:31:45 - Currently processing pair : ADA-USDC
+2025-08-07 09:31:47 - The USDC balance is : 128.6297945205066491953751
+2025-08-07 09:31:47 - IA activated.
+2025-08-07 09:31:51 - AAVE-USDC trend: 📈 The crypto price will increase 🚀
+2025-08-07 09:31:51 - 📈 AAVE-USDC will probably increase
+2025-08-07 09:31:58 - ADA-USDC will lose value, purchase canceled.
+2025-08-07 09:31:58 - Currently processing pair : AAVE-USDC
+2025-08-07 09:31:59 - The USDC balance is : 128.6297945205066491953751
+2025-08-07 09:31:59 - IA activated.
+2025-08-07 09:32:02 - ALGO-USDC trend: 📈 The crypto price will increase 🚀
+2025-08-07 09:32:02 - 📈 ALGO-USDC will probably increase
+2025-08-07 09:32:04 - 🔄 Checking USDC balance...
+2025-08-07 09:32:11 - AAVE-USDC will gain value, purchase in progress.
+2025-08-07 09:32:11 - 🔍 Checking USDC balance...
+2025-08-07 09:32:13 - ARB-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 09:32:13 - 📉 ARB-USDC will probably decrease
+2025-08-07 09:32:13 - the current price of AAVE-USDC on the market is: 274.15 USDC
+2025-08-07 09:32:13 - ❌ Error in get_volatility_score: Array must be at least 1D with 2 elements
+2025-08-07 09:32:13 - 🧠 [CHECK IA] Score: 0.0000, LUTE: 0.0000, Gain: 1.00%
+2025-08-07 09:32:13 - ⛔ IA Refusal : Score too low (< 0.6)
+2025-08-07 09:32:13 - ⛔ Purchase blocked [Lutessia] ➜ AAVE-USDC | score=0.0000 | LUTE=0.0 | gain=1.00%
+2025-08-07 09:32:13 - ⛔ Trade blocked by IA Lutessia for AAVE-USDC
+2025-08-07 09:32:13 - Currently processing pair : ALGO-USDC
+2025-08-07 09:32:15 - The USDC balance is : 128.6297945205066491953751
+2025-08-07 09:32:15 - IA activated.
+2025-08-07 09:32:23 - BTC-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 09:32:23 - 📉 BTC-USDC will probably decrease
+2025-08-07 09:32:25 - ALGO-USDC will lose value, purchase canceled.
+2025-08-07 09:32:25 - Currently processing pair : ARB-USDC
+2025-08-07 09:32:27 - The USDC balance is : 128.6297945205066491953751
+2025-08-07 09:32:27 - IA activated.
+2025-08-07 09:32:32 - ETH-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 09:32:32 - 📉 ETH-USDC will probably decrease
+2025-08-07 09:32:40 - 🔄 Checking USDC balance...
+2025-08-07 09:32:43 - 🧠 ========== IA TREND (every 2 min) ==========
+2025-08-07 09:32:43 - ARB-USDC will lose value, purchase canceled.
+2025-08-07 09:32:43 - Currently processing pair : BTC-USDC
+2025-08-07 09:32:45 - The USDC balance is : 128.6297945205066491953751
+2025-08-07 09:32:45 - IA activated.
+2025-08-07 09:32:51 - MATIC-USDC trend: 📈 The crypto price will increase 🚀
+2025-08-07 09:32:51 - 📈 MATIC-USDC will probably increase
+2025-08-07 09:32:59 - ADA-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 09:32:59 - 📉 ADA-USDC will probably decrease
+2025-08-07 09:33:04 - BTC-USDC will lose value, purchase canceled.
+2025-08-07 09:33:04 - Currently processing pair : ETH-USDC
+2025-08-07 09:33:06 - The USDC balance is : 128.6297945205066491953751
+2025-08-07 09:33:06 - IA activated.
+2025-08-07 09:33:08 - SOL-USDC trend: 📈 The crypto price will increase 🚀
+2025-08-07 09:33:08 - 📈 SOL-USDC will probably increase
+2025-08-07 09:33:14 - 🔄 Checking USDC balance...
+2025-08-07 09:33:15 - AAVE-USDC trend: 📈 The crypto price will increase 🚀
+2025-08-07 09:33:15 - 📈 AAVE-USDC will probably increase
+2025-08-07 09:33:22 - ETH-USDC will lose value, purchase canceled.
+2025-08-07 09:33:22 - Currently processing pair : MATIC-USDC
+2025-08-07 09:33:24 - The USDC balance is : 128.6297945205066491953751
+2025-08-07 09:33:24 - IA activated.
+2025-08-07 09:33:26 - SUI-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 09:33:26 - 📉 SUI-USDC will probably decrease
+2025-08-07 09:33:30 - ALGO-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 09:33:30 - 📉 ALGO-USDC will probably decrease
+2025-08-07 09:33:40 - MATIC-USDC will gain value, purchase in progress.
+2025-08-07 09:33:40 - 🔍 Checking USDC balance...
+2025-08-07 09:33:42 - XRP-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 09:33:42 - 📉 XRP-USDC will probably decrease
+2025-08-07 09:33:42 - the current price of MATIC-USDC on the market is: 0.2377 USDC
+2025-08-07 09:33:42 - ❌ Error in get_volatility_score: Array must be at least 1D with 2 elements
+2025-08-07 09:33:42 - 🧠 [CHECK IA] Score: 0.0000, LUTE: 0.0000, Gain: 1.00%
+2025-08-07 09:33:42 - ⛔ IA Refusal : Score too low (< 0.6)
+2025-08-07 09:33:42 - ⛔ Purchase blocked [Lutessia] ➜ MATIC-USDC | score=0.0000 | LUTE=0.0 | gain=1.00%
+2025-08-07 09:33:42 - ⛔ Trade blocked by IA Lutessia for MATIC-USDC
+2025-08-07 09:33:42 - Currently processing pair : SOL-USDC
+2025-08-07 09:33:43 - ARB-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 09:33:43 - 📉 ARB-USDC will probably decrease
+2025-08-07 09:33:44 - The USDC balance is : 128.6297945205066491953751
+2025-08-07 09:33:44 - IA activated.
+2025-08-07 09:33:46 - Updating accounts
+2025-08-07 09:33:46 - IA update time not reached.
+2025-08-07 09:33:48 - 🔄 Checking USDC balance...
+2025-08-07 09:33:51 - Updating accounts
+2025-08-07 09:33:51 - IA update time not reached.
+2025-08-07 09:33:53 - BTC-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 09:33:53 - 📉 BTC-USDC will probably decrease
+2025-08-07 09:33:55 - SOL-USDC will gain value, purchase in progress.
+2025-08-07 09:33:55 - 🔍 Checking USDC balance...
+2025-08-07 09:33:55 - Updating accounts
+2025-08-07 09:33:55 - IA update time not reached.
+2025-08-07 09:33:57 - the current price of SOL-USDC on the market is: 172.21 USDC
+2025-08-07 09:33:57 - ❌ Error in get_volatility_score: Array must be at least 1D with 2 elements
+2025-08-07 09:33:57 - 🧠 [CHECK IA] Score: 0.0000, LUTE: 0.0000, Gain: 1.00%
+2025-08-07 09:33:57 - ⛔ IA Refusal : Score too low (< 0.6)
+2025-08-07 09:33:57 - ⛔ Purchase blocked [Lutessia] ➜ SOL-USDC | score=0.0000 | LUTE=0.0 | gain=1.00%
+2025-08-07 09:33:57 - ⛔ Trade blocked by IA Lutessia for SOL-USDC
+2025-08-07 09:33:57 - Currently processing pair : SUI-USDC
+2025-08-07 09:33:58 - The USDC balance is : 128.6297945205066491953751
+2025-08-07 09:33:58 - IA activated.
+2025-08-07 09:33:59 - Updating accounts
+2025-08-07 09:33:59 - IA update time not reached.
+2025-08-07 09:34:04 - Updating accounts
+2025-08-07 09:34:04 - IA update time not reached.
+2025-08-07 09:34:05 - ETH-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 09:34:05 - 📉 ETH-USDC will probably decrease
+2025-08-07 09:34:08 - Updating accounts
+2025-08-07 09:34:08 - IA update time not reached.
+2025-08-07 09:34:11 - SUI-USDC will lose value, purchase canceled.
+2025-08-07 09:34:11 - Currently processing pair : XRP-USDC
+2025-08-07 09:34:13 - The USDC balance is : 128.6297945205066491953751
+2025-08-07 09:34:13 - IA activated.
+2025-08-07 09:34:13 - Updating accounts
+2025-08-07 09:34:13 - IA update time not reached.
+2025-08-07 09:34:15 - MATIC-USDC trend: 📈 The crypto price will increase 🚀
+2025-08-07 09:34:15 - 📈 MATIC-USDC will probably increase
+2025-08-07 09:34:17 - Updating accounts
+2025-08-07 09:34:17 - IA update time not reached.
+2025-08-07 09:34:19 - 🔄 Checking USDC balance...
+2025-08-07 09:34:22 - Updating accounts
+2025-08-07 09:34:22 - IA update time not reached.
+2025-08-07 09:34:26 - XRP-USDC will lose value, purchase canceled.
+2025-08-07 09:34:26 - All pairs processed. Converting residues to USDC...
+2025-08-07 09:34:26 - ⚙️ Starting conversion to USDC (threshold: ≥ 1 USDC)
+2025-08-07 09:34:26 - the current price of AVAX-USDC on the market is: 22.75 USDC
+2025-08-07 09:34:26 - ❌ Error in get_volatility_score: Array must be at least 1D with 2 elements
+2025-08-07 09:34:26 - 🚫 Conversion ignored : AVAX (7.8313E-9) ~ 0.0 USDC (< 1.0)
+2025-08-07 09:34:26 - the current price of CRV-USDC on the market is: 0.9359 USDC
+2025-08-07 09:34:26 - ❌ Error in get_volatility_score: Array must be at least 1D with 2 elements
+2025-08-07 09:34:26 - 🚫 Conversion ignored : CRV (0.0063732556659391) ~ 0.0 USDC (< 1.0)
+2025-08-07 09:34:26 - the current price of DOT-USDC on the market is: 3.789 USDC
+2025-08-07 09:34:26 - ❌ Error in get_volatility_score: Array must be at least 1D with 2 elements
+2025-08-07 09:34:26 - 🚫 Conversion ignored : DOT (7.4750129E-9) ~ 0.0 USDC (< 1.0)
+2025-08-07 09:34:26 - the current price of ALGO-USDC on the market is: 0.2585 USDC
+2025-08-07 09:34:26 - ❌ Error in get_volatility_score: Array must be at least 1D with 2 elements
+2025-08-07 09:34:26 - 🔁 Conversion 88.8099907771094498 ALGO (~23.0 USDC)
+2025-08-07 09:34:27 - ✅ Conversion performed for ALGO
+2025-08-07 09:34:27 - the current price of XRP-USDC on the market is: 3.0739 USDC
+2025-08-07 09:34:27 - ❌ Error in get_volatility_score: Array must be at least 1D with 2 elements
+2025-08-07 09:34:27 - 🚫 Conversion ignored : XRP (6.690982827E-7) ~ 0.0 USDC (< 1.0)
+2025-08-07 09:34:27 - the current price of DOGE-USDC on the market is: 0.21483 USDC
+2025-08-07 09:34:27 - ❌ Error in get_volatility_score: Array must be at least 1D with 2 elements
+2025-08-07 09:34:27 - 🚫 Conversion ignored : DOGE (8.1462255E-9) ~ 0.0 USDC (< 1.0)
+2025-08-07 09:34:27 - the current price of ADA-USDC on the market is: 0.7689 USDC
+2025-08-07 09:34:27 - ❌ Error in get_volatility_score: Array must be at least 1D with 2 elements
+2025-08-07 09:34:27 - 🔁 Conversion 22.6851521160193962 ADA (~17.4 USDC)
+2025-08-07 09:34:27 - SOL-USDC trend: 📈 The crypto price will increase 🚀
+2025-08-07 09:34:27 - 📈 SOL-USDC will probably increase
+2025-08-07 09:34:27 - ✅ Conversion performed for ADA
+2025-08-07 09:34:27 - the current price of LTC-USDC on the market is: 120.24 USDC
+2025-08-07 09:34:27 - ❌ Error in get_volatility_score: Array must be at least 1D with 2 elements
+2025-08-07 09:34:27 - 🚫 Conversion ignored : LTC (8.8126927E-9) ~ 0.0 USDC (< 1.0)
+2025-08-07 09:34:28 - the current price of SOL-USDC on the market is: 172.27 USDC
+2025-08-07 09:34:28 - ❌ Error in get_volatility_score: Array must be at least 1D with 2 elements
+2025-08-07 09:34:28 - 🔁 Conversion 0.0815980208903176 SOL (~14.1 USDC)
+2025-08-07 09:34:28 - ✅ Conversion performed for SOL
+2025-08-07 09:34:28 - the current price of MATIC-USDC on the market is: 0.2377 USDC
+2025-08-07 09:34:28 - ❌ Error in get_volatility_score: Array must be at least 1D with 2 elements
+2025-08-07 09:34:28 - 🚫 Conversion ignored : MATIC (0.00839338574583099) ~ 0.0 USDC (< 1.0)
+2025-08-07 09:34:28 - ✅ Complete conversion finished.
+2025-08-07 09:34:30 - Updating accounts
+2025-08-07 09:34:30 - IA update time not reached.
+2025-08-07 09:34:34 - SUI-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 09:34:34 - 📉 SUI-USDC will probably decrease
+2025-08-07 09:34:35 - Updating accounts
+2025-08-07 09:34:35 - IA update time not reached.
+2025-08-07 09:34:39 - Updating accounts
+2025-08-07 09:34:39 - IA update time not reached.
+2025-08-07 09:34:42 - XRP-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 09:34:42 - 📉 XRP-USDC will probably decrease
+2025-08-07 09:34:43 - Updating accounts
+2025-08-07 09:34:43 - IA update time not reached.
+2025-08-07 09:34:48 - Updating accounts
+2025-08-07 09:34:48 - IA update time not reached.
+2025-08-07 09:34:52 - Updating accounts
+2025-08-07 09:34:52 - IA update time not reached.
+2025-08-07 09:34:53 - 🔄 Checking USDC balance...
+2025-08-07 09:34:56 - Updating accounts
+2025-08-07 09:34:56 - IA update time not reached.
+2025-08-07 09:35:01 - Updating accounts
+2025-08-07 09:35:01 - #def load_data ::: daily update performed...
+2025-08-07 09:35:01 - #fetch_crypto_data ::: daily update performed for ADA-USDC
+2025-08-07 09:35:01 - #fetch_crypto_data ::: daily update performed for AAVE-USDC
+2025-08-07 09:35:01 - #fetch_crypto_data ::: daily update performed for ALGO-USDC
+2025-08-07 09:35:01 - #fetch_crypto_data ::: daily update performed for ARB-USDC
+2025-08-07 09:35:02 - #fetch_crypto_data ::: daily update performed for BTC-USDC
+2025-08-07 09:35:02 - #fetch_crypto_data ::: daily update performed for ETH-USDC
+2025-08-07 09:35:02 - #fetch_crypto_data ::: daily update performed for MATIC-USDC
+2025-08-07 09:35:02 - #fetch_crypto_data ::: daily update performed for SOL-USDC
+2025-08-07 09:35:03 - #fetch_crypto_data ::: daily update performed for SUI-USDC
+2025-08-07 09:35:03 - #fetch_crypto_data ::: daily update performed for XRP-USDC
+2025-08-07 09:35:03 - launching calculations for predictions
+2025-08-07 09:35:26 - 🔄 Checking USDC balance...
+2025-08-07 09:36:00 - 🔄 Checking USDC balance...
+2025-08-07 09:36:28 - Currently processing pair : ADA-USDC
+2025-08-07 09:36:30 - The USDC balance is : 128.6297945205066491953751
+2025-08-07 09:36:30 - IA activated.
+2025-08-07 09:36:32 - ADA-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 09:36:32 - 📉 ADA-USDC will probably decrease
+2025-08-07 09:36:35 - 🔄 Checking USDC balance...
+2025-08-07 09:36:39 - ADA-USDC will lose value, purchase canceled.
+2025-08-07 09:36:39 - Currently processing pair : AAVE-USDC
+2025-08-07 09:36:40 - AAVE-USDC trend: 📈 The crypto price will increase 🚀
+2025-08-07 09:36:40 - 📈 AAVE-USDC will probably increase
+2025-08-07 09:36:41 - The USDC balance is : 128.6297945205066491953751
+2025-08-07 09:36:41 - IA activated.
+2025-08-07 09:36:42 - 🧠 ========== IA TREND (every 2 min) ==========
+2025-08-07 09:36:53 - ALGO-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 09:36:53 - 📉 ALGO-USDC will probably decrease
+2025-08-07 09:36:55 - AAVE-USDC will gain value, purchase in progress.
+2025-08-07 09:36:55 - 🔍 Checking USDC balance...
+2025-08-07 09:36:56 - ADA-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 09:36:56 - 📉 ADA-USDC will probably decrease
+2025-08-07 09:36:56 - the current price of AAVE-USDC on the market is: 274.62 USDC
+2025-08-07 09:36:56 - ❌ Error in get_volatility_score: Array must be at least 1D with 2 elements
+2025-08-07 09:36:57 - 🧠 [CHECK IA] Score: 0.0000, LUTE: 0.0000, Gain: 1.00%
+2025-08-07 09:36:57 - ⛔ IA Refusal : Score too low (< 0.6)
+2025-08-07 09:36:57 - ⛔ Purchase blocked [Lutessia] ➜ AAVE-USDC | score=0.0000 | LUTE=0.0 | gain=1.00%
+2025-08-07 09:36:57 - ⛔ Trade blocked by IA Lutessia for AAVE-USDC
+2025-08-07 09:36:57 - Currently processing pair : ALGO-USDC
+2025-08-07 09:36:58 - The USDC balance is : 128.6297945205066491953751
+2025-08-07 09:36:58 - IA activated.
+2025-08-07 09:37:05 - 🔄 Checking USDC balance...
+2025-08-07 09:37:05 - ARB-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 09:37:05 - 📉 ARB-USDC will probably decrease
+2025-08-07 09:37:09 - AAVE-USDC trend: 📈 The crypto price will increase 🚀
+2025-08-07 09:37:09 - 📈 AAVE-USDC will probably increase
+2025-08-07 09:37:12 - ALGO-USDC will gain value, purchase in progress.
+2025-08-07 09:37:12 - 🔍 Checking USDC balance...
+2025-08-07 09:37:14 - the current price of ALGO-USDC on the market is: 0.2584 USDC
+2025-08-07 09:37:14 - ❌ Error in get_volatility_score: Array must be at least 1D with 2 elements
+2025-08-07 09:37:14 - 🧠 [CHECK IA] Score: 0.0000, LUTE: 0.0000, Gain: 1.00%
+2025-08-07 09:37:14 - ⛔ IA Refusal : Score too low (< 0.6)
+2025-08-07 09:37:14 - ⛔ Purchase blocked [Lutessia] ➜ ALGO-USDC | score=0.0000 | LUTE=0.0 | gain=1.00%
+2025-08-07 09:37:14 - ⛔ Trade blocked by IA Lutessia for ALGO-USDC
+2025-08-07 09:37:14 - Currently processing pair : ARB-USDC
+2025-08-07 09:37:15 - The USDC balance is : 128.6297945205066491953751
+2025-08-07 09:37:15 - IA activated.
+2025-08-07 09:37:17 - BTC-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 09:37:17 - 📉 BTC-USDC will probably decrease
+2025-08-07 09:37:22 - ALGO-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 09:37:22 - 📉 ALGO-USDC will probably decrease
+2025-08-07 09:37:29 - ARB-USDC will lose value, purchase canceled.
+2025-08-07 09:37:29 - Currently processing pair : BTC-USDC
+2025-08-07 09:37:31 - ETH-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 09:37:31 - 📉 ETH-USDC will probably decrease
+2025-08-07 09:37:31 - The USDC balance is : 128.6297945205066491953751
+2025-08-07 09:37:31 - IA activated.
+2025-08-07 09:37:35 - ARB-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 09:37:35 - 📉 ARB-USDC will probably decrease
+2025-08-07 09:37:35 - 🔄 Checking USDC balance...
+2025-08-07 09:37:49 - BTC-USDC will lose value, purchase canceled.
+2025-08-07 09:37:49 - Currently processing pair : ETH-USDC
+2025-08-07 09:37:49 - MATIC-USDC trend: 📈 The crypto price will increase 🚀
+2025-08-07 09:37:49 - 📈 MATIC-USDC will probably increase
+2025-08-07 09:37:51 - The USDC balance is : 128.6297945205066491953751
+2025-08-07 09:37:51 - IA activated.
+2025-08-07 09:37:53 - BTC-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 09:37:53 - 📉 BTC-USDC will probably decrease
+2025-08-07 09:38:06 - ETH-USDC will lose value, purchase canceled.
+2025-08-07 09:38:06 - Currently processing pair : MATIC-USDC
+2025-08-07 09:38:06 - 🔄 Checking USDC balance...
+2025-08-07 09:38:07 - ETH-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 09:38:07 - 📉 ETH-USDC will probably decrease
+2025-08-07 09:38:08 - The USDC balance is : 128.6297945205066491953751
+2025-08-07 09:38:08 - IA activated.
+2025-08-07 09:38:19 - SUI-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 09:38:19 - 📉 SUI-USDC will probably decrease
+2025-08-07 09:38:25 - MATIC-USDC trend: 📈 The crypto price will increase 🚀
+2025-08-07 09:38:25 - 📈 MATIC-USDC will probably increase
+2025-08-07 09:38:25 - MATIC-USDC will gain value, purchase in progress.
+2025-08-07 09:38:26 - 🔍 Checking USDC balance...
+2025-08-07 09:38:27 - the current price of MATIC-USDC on the market is: 0.238 USDC
+2025-08-07 09:38:27 - ❌ Error in get_volatility_score: Array must be at least 1D with 2 elements
+2025-08-07 09:38:27 - 🧠 [CHECK IA] Score: 0.0000, LUTE: 0.0000, Gain: 1.00%
+2025-08-07 09:38:27 - ⛔ IA Refusal : Score too low (< 0.6)
+2025-08-07 09:38:27 - ⛔ Purchase blocked [Lutessia] ➜ MATIC-USDC | score=0.0000 | LUTE=0.0 | gain=1.00%
+2025-08-07 09:38:27 - ⛔ Trade blocked by IA Lutessia for MATIC-USDC
+2025-08-07 09:38:27 - Currently processing pair : SOL-USDC
+2025-08-07 09:38:29 - The USDC balance is : 128.6297945205066491953751
+2025-08-07 09:38:29 - IA activated.
+2025-08-07 09:38:34 - XRP-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 09:38:34 - 📉 XRP-USDC will probably decrease
+2025-08-07 09:38:37 - SOL-USDC trend: 📈 The crypto price will increase 🚀
+2025-08-07 09:38:37 - 📈 SOL-USDC will probably increase
+2025-08-07 09:38:38 - Updating accounts
+2025-08-07 09:38:38 - IA update time not reached.
+2025-08-07 09:38:39 - 🔄 Checking USDC balance...
+2025-08-07 09:38:40 - SOL-USDC will gain value, purchase in progress.
+2025-08-07 09:38:40 - 🔍 Checking USDC balance...
+2025-08-07 09:38:42 - the current price of SOL-USDC on the market is: 171.93 USDC
+2025-08-07 09:38:42 - ❌ Error in get_volatility_score: Array must be at least 1D with 2 elements
+2025-08-07 09:38:42 - 🧠 [CHECK IA] Score: 0.0000, LUTE: 0.0000, Gain: 1.00%
+2025-08-07 09:38:42 - ⛔ IA Refusal : Score too low (< 0.6)
+2025-08-07 09:38:42 - ⛔ Purchase blocked [Lutessia] ➜ SOL-USDC | score=0.0000 | LUTE=0.0 | gain=1.00%
+2025-08-07 09:38:42 - ⛔ Trade blocked by IA Lutessia for SOL-USDC
+2025-08-07 09:38:42 - Currently processing pair : SUI-USDC
+2025-08-07 09:38:43 - Updating accounts
+2025-08-07 09:38:43 - IA update time not reached.
+2025-08-07 09:38:43 - The USDC balance is : 128.6297945205066491953751
+2025-08-07 09:38:44 - IA activated.
+2025-08-07 09:38:44 - SUI-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 09:38:44 - 📉 SUI-USDC will probably decrease
+2025-08-07 09:38:47 - Updating accounts
+2025-08-07 09:38:47 - IA update time not reached.
+2025-08-07 09:38:51 - Updating accounts
+2025-08-07 09:38:51 - IA update time not reached.
+2025-08-07 09:38:53 - SUI-USDC will lose value, purchase canceled.
+2025-08-07 09:38:53 - Currently processing pair : XRP-USDC
+2025-08-07 09:38:54 - XRP-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 09:38:54 - 📉 XRP-USDC will probably decrease
+2025-08-07 09:38:55 - The USDC balance is : 128.6297945205066491953751
+2025-08-07 09:38:55 - IA activated.
+2025-08-07 09:38:56 - Updating accounts
+2025-08-07 09:38:56 - IA update time not reached.
+2025-08-07 09:39:00 - Updating accounts
+2025-08-07 09:39:00 - IA update time not reached.
+2025-08-07 09:39:01 - XRP-USDC will lose value, purchase canceled.
+2025-08-07 09:39:01 - All pairs processed. Converting residues to USDC...
+2025-08-07 09:39:01 - ⚙️ Starting conversion to USDC (threshold: ≥ 1 USDC)
+2025-08-07 09:39:01 - the current price of AVAX-USDC on the market is: 22.76 USDC
+2025-08-07 09:39:01 - ❌ Error in get_volatility_score: Array must be at least 1D with 2 elements
+2025-08-07 09:39:01 - 🚫 Conversion ignored : AVAX (7.8313E-9) ~ 0.0 USDC (< 1.0)
+2025-08-07 09:39:02 - the current price of CRV-USDC on the market is: 0.9369 USDC
+2025-08-07 09:39:02 - ❌ Error in get_volatility_score: Array must be at least 1D with 2 elements
+2025-08-07 09:39:02 - 🚫 Conversion ignored : CRV (0.0063732556659391) ~ 0.0 USDC (< 1.0)
+2025-08-07 09:39:02 - the current price of DOT-USDC on the market is: 3.794 USDC
+2025-08-07 09:39:02 - ❌ Error in get_volatility_score: Array must be at least 1D with 2 elements
+2025-08-07 09:39:02 - 🚫 Conversion ignored : DOT (7.4750129E-9) ~ 0.0 USDC (< 1.0)
+2025-08-07 09:39:02 - the current price of ALGO-USDC on the market is: 0.2592 USDC
+2025-08-07 09:39:02 - ❌ Error in get_volatility_score: Array must be at least 1D with 2 elements
+2025-08-07 09:39:02 - 🔁 Conversion 88.8099907771094498 ALGO (~23.0 USDC)
+2025-08-07 09:39:02 - ✅ Conversion performed for ALGO
+2025-08-07 09:39:02 - the current price of XRP-USDC on the market is: 3.0782 USDC
+2025-08-07 09:39:02 - ❌ Error in get_volatility_score: Array must be at least 1D with 2 elements
+2025-08-07 09:39:02 - 🚫 Conversion ignored : XRP (6.690982827E-7) ~ 0.0 USDC (< 1.0)
+2025-08-07 09:39:02 - the current price of DOGE-USDC on the market is: 0.21512 USDC
+2025-08-07 09:39:02 - ❌ Error in get_volatility_score: Array must be at least 1D with 2 elements
+2025-08-07 09:39:02 - 🚫 Conversion ignored : DOGE (8.1462255E-9) ~ 0.0 USDC (< 1.0)
+2025-08-07 09:39:02 - the current price of ADA-USDC on the market is: 0.7696 USDC
+2025-08-07 09:39:02 - ❌ Error in get_volatility_score: Array must be at least 1D with 2 elements
+2025-08-07 09:39:02 - 🔁 Conversion 22.6851521160193962 ADA (~17.5 USDC)
+2025-08-07 09:39:03 - ✅ Conversion performed for ADA
+2025-08-07 09:39:03 - the current price of LTC-USDC on the market is: 120.07 USDC
+2025-08-07 09:39:03 - ❌ Error in get_volatility_score: Array must be at least 1D with 2 elements
+2025-08-07 09:39:03 - 🚫 Conversion ignored : LTC (8.8126927E-9) ~ 0.0 USDC (< 1.0)
+2025-08-07 09:39:03 - the current price of SOL-USDC on the market is: 172.22 USDC
+2025-08-07 09:39:03 - ❌ Error in get_volatility_score: Array must be at least 1D with 2 elements
+2025-08-07 09:39:03 - 🔁 Conversion 0.0815980208903176 SOL (~14.1 USDC)
+2025-08-07 09:39:03 - ✅ Conversion performed for SOL
+2025-08-07 09:39:03 - the current price of MATIC-USDC on the market is: 0.238 USDC
+2025-08-07 09:39:03 - ❌ Error in get_volatility_score: Array must be at least 1D with 2 elements
+2025-08-07 09:39:03 - 🚫 Conversion ignored : MATIC (0.00839338574583099) ~ 0.0 USDC (< 1.0)
+2025-08-07 09:39:03 - ✅ Complete conversion finished.
+2025-08-07 09:39:03 - ⏸ Putting the robot on pause.
+2025-08-07 09:39:04 - Updating accounts
+2025-08-07 09:39:04 - IA update time not reached.
+2025-08-07 09:39:09 - Updating accounts
+2025-08-07 09:39:09 - IA update time not reached.
+2025-08-07 09:39:13 - 🔄 Checking USDC balance...
+2025-08-07 09:39:13 - Updating accounts
+2025-08-07 09:39:13 - IA update time not reached.
+2025-08-07 09:39:17 - Updating accounts
+2025-08-07 09:39:17 - IA update time not reached.
+2025-08-07 09:39:22 - Updating accounts
+2025-08-07 09:39:22 - IA update time not reached.
+2025-08-07 09:39:26 - Updating accounts
+2025-08-07 09:39:26 - IA update time not reached.
+2025-08-07 09:39:30 - Updating accounts
+2025-08-07 09:39:30 - IA update time not reached.
+2025-08-07 09:39:35 - Updating accounts
+2025-08-07 09:39:35 - IA update time not reached.
+2025-08-07 09:39:39 - Updating accounts
+2025-08-07 09:39:39 - IA update time not reached.
+2025-08-07 09:39:43 - Updating accounts
+2025-08-07 09:39:43 - IA update time not reached.
+2025-08-07 09:39:47 - 🔄 Checking USDC balance...
+2025-08-07 09:39:48 - Updating accounts
+2025-08-07 09:39:48 - IA update time not reached.
+2025-08-07 09:39:52 - Updating accounts
+2025-08-07 09:39:52 - IA update time not reached.
+2025-08-07 09:39:56 - Updating accounts
+2025-08-07 09:39:56 - IA update time not reached.
+2025-08-07 09:40:01 - Updating accounts
+2025-08-07 09:40:01 - #def load_data ::: daily update performed...
+2025-08-07 09:40:01 - #fetch_crypto_data ::: daily update performed for ADA-USDC
+2025-08-07 09:40:01 - #fetch_crypto_data ::: daily update performed for AAVE-USDC
+2025-08-07 09:40:01 - #fetch_crypto_data ::: daily update performed for ALGO-USDC
+2025-08-07 09:40:01 - #fetch_crypto_data ::: daily update performed for ARB-USDC
+2025-08-07 09:40:01 - #fetch_crypto_data ::: daily update performed for BTC-USDC
+2025-08-07 09:40:02 - #fetch_crypto_data ::: daily update performed for ETH-USDC
+2025-08-07 09:40:02 - #fetch_crypto_data ::: daily update performed for MATIC-USDC
+2025-08-07 09:40:02 - #fetch_crypto_data ::: daily update performed for SOL-USDC
+2025-08-07 09:40:02 - #fetch_crypto_data ::: daily update performed for SUI-USDC
+2025-08-07 09:40:02 - #fetch_crypto_data ::: daily update performed for XRP-USDC
+2025-08-07 09:40:02 - launching calculations for predictions
+2025-08-07 09:40:21 - 🔄 Checking USDC balance...
+2025-08-07 09:40:51 - 🔄 Checking USDC balance...
+2025-08-07 09:40:54 - 🧠 ========== IA TREND (every 2 min) ==========
+2025-08-07 09:41:04 - Currently processing pair : ADA-USDC
+2025-08-07 09:41:06 - The USDC balance is : 128.6297945205066491953751
+2025-08-07 09:41:06 - IA activated.
+2025-08-07 09:41:22 - 🔄 Checking USDC balance...
+2025-08-07 09:41:22 - ADA-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 09:41:22 - 📉 ADA-USDC will probably decrease
+2025-08-07 09:41:35 - ADA-USDC will gain value, purchase in progress.
+2025-08-07 09:41:35 - 🔍 Checking USDC balance...
+2025-08-07 09:41:37 - the current price of ADA-USDC on the market is: 0.7696 USDC
+2025-08-07 09:41:37 - ❌ Error in get_volatility_score: Array must be at least 1D with 2 elements
+2025-08-07 09:41:37 - 🧠 [CHECK IA] Score: 0.0000, LUTE: 0.0000, Gain: 1.00%
+2025-08-07 09:41:37 - ⛔ IA Refusal : Score too low (< 0.6)
+2025-08-07 09:41:37 - ⛔ Purchase blocked [Lutessia] ➜ ADA-USDC | score=0.0000 | LUTE=0.0 | gain=1.00%
+2025-08-07 09:41:37 - ⛔ Trade blocked by IA Lutessia for ADA-USDC
+2025-08-07 09:41:37 - Currently processing pair : AAVE-USDC
+2025-08-07 09:41:38 - The USDC balance is : 128.6297945205066491953751
+2025-08-07 09:41:38 - IA activated.
+2025-08-07 09:41:44 - AAVE-USDC trend: 📈 The crypto price will increase 🚀
+2025-08-07 09:41:44 - 📈 AAVE-USDC will probably increase
+2025-08-07 09:41:52 - 🔄 Checking USDC balance...
+2025-08-07 09:42:02 - AAVE-USDC will gain value, purchase in progress.
+2025-08-07 09:42:02 - 🔍 Checking USDC balance...
+2025-08-07 09:42:03 - the current price of AAVE-USDC on the market is: 275.61 USDC
+2025-08-07 09:42:03 - ❌ Error in get_volatility_score: Array must be at least 1D with 2 elements
+2025-08-07 09:42:03 - 🧠 [CHECK IA] Score: 0.0000, LUTE: 0.0000, Gain: 1.00%
+2025-08-07 09:42:03 - ⛔ IA Refusal : Score too low (< 0.6)
+2025-08-07 09:42:03 - ⛔ Purchase blocked [Lutessia] ➜ AAVE-USDC | score=0.0000 | LUTE=0.0 | gain=1.00%
+2025-08-07 09:42:03 - ⛔ Trade blocked by IA Lutessia for AAVE-USDC
+2025-08-07 09:42:03 - Currently processing pair : ALGO-USDC
+2025-08-07 09:42:05 - The USDC balance is : 128.6297945205066491953751
+2025-08-07 09:42:05 - IA activated.
+2025-08-07 09:42:05 - ALGO-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 09:42:05 - 📉 ALGO-USDC will probably decrease
+2025-08-07 09:42:23 - 🔄 Checking USDC balance...
+2025-08-07 09:42:29 - ALGO-USDC will gain value, purchase in progress.
+2025-08-07 09:42:30 - 🔍 Checking USDC balance...
+2025-08-07 09:42:32 - the current price of ALGO-USDC on the market is: 0.2595 USDC
+2025-08-07 09:42:32 - ❌ Error in get_volatility_score: Array must be at least 1D with 2 elements
+2025-08-07 09:42:32 - 🧠 [CHECK IA] Score: 0.0000, LUTE: 0.0000, Gain: 1.00%
+2025-08-07 09:42:32 - ⛔ IA Refusal : Score too low (< 0.6)
+2025-08-07 09:42:32 - ⛔ Purchase blocked [Lutessia] ➜ ALGO-USDC | score=0.0000 | LUTE=0.0 | gain=1.00%
+2025-08-07 09:42:32 - ⛔ Trade blocked by IA Lutessia for ALGO-USDC
+2025-08-07 09:42:32 - Currently processing pair : ARB-USDC
+2025-08-07 09:42:34 - The USDC balance is : 128.6297945205066491953751
+2025-08-07 09:42:34 - IA activated.
+2025-08-07 09:42:48 - BTC-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 09:42:48 - 📉 BTC-USDC will probably decrease
+2025-08-07 09:42:53 - 🔄 Checking USDC balance...
+2025-08-07 09:42:56 - ARB-USDC will lose value, purchase canceled.
+2025-08-07 09:42:56 - Currently processing pair : BTC-USDC
+2025-08-07 09:42:58 - The USDC balance is : 128.6297945205066491953751
+2025-08-07 09:42:58 - IA activated.
+2025-08-07 09:43:06 - ETH-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 09:43:06 - 📉 ETH-USDC will probably decrease
+2025-08-07 09:43:13 - ADA-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 09:43:13 - 📉 ADA-USDC will probably decrease
+2025-08-07 09:43:17 - BTC-USDC will lose value, purchase canceled.
+2025-08-07 09:43:17 - Currently processing pair : ETH-USDC
+2025-08-07 09:43:19 - The USDC balance is : 128.6297945205066491953751
+2025-08-07 09:43:19 - IA activated.
+2025-08-07 09:43:24 - 🔄 Checking USDC balance...
+2025-08-07 09:43:26 - MATIC-USDC trend: 📈 The crypto price will increase 🚀
+2025-08-07 09:43:26 - 📈 MATIC-USDC will probably increase
+2025-08-07 09:43:38 - AAVE-USDC trend: 📈 The crypto price will increase 🚀
+2025-08-07 09:43:38 - 📈 AAVE-USDC will probably increase
+2025-08-07 09:43:45 - ETH-USDC will lose value, purchase canceled.
+2025-08-07 09:43:45 - Stop requested. Finalizing ongoing processes.
+2025-08-07 09:43:45 - All pairs processed. Converting residues to USDC...
+2025-08-07 09:43:45 - ⚙️ Starting conversion to USDC (threshold: ≥ 1 USDC)
+2025-08-07 09:43:45 - the current price of AVAX-USDC on the market is: 22.77 USDC
+2025-08-07 09:43:45 - ❌ Error in get_volatility_score: Array must be at least 1D with 2 elements
+2025-08-07 09:43:45 - 🚫 Conversion ignored : AVAX (7.8313E-9) ~ 0.0 USDC (< 1.0)
+2025-08-07 09:43:46 - the current price of CRV-USDC on the market is: 0.9362 USDC
+2025-08-07 09:43:46 - ❌ Error in get_volatility_score: Array must be at least 1D with 2 elements
+2025-08-07 09:43:46 - 🚫 Conversion ignored : CRV (0.0063732556659391) ~ 0.0 USDC (< 1.0)
+2025-08-07 09:43:46 - the current price of DOT-USDC on the market is: 3.786 USDC
+2025-08-07 09:43:46 - ❌ Error in get_volatility_score: Array must be at least 1D with 2 elements
+2025-08-07 09:43:46 - 🚫 Conversion ignored : DOT (7.4750129E-9) ~ 0.0 USDC (< 1.0)
+2025-08-07 09:43:46 - the current price of ALGO-USDC on the market is: 0.2586 USDC
+2025-08-07 09:43:46 - ❌ Error in get_volatility_score: Array must be at least 1D with 2 elements
+2025-08-07 09:43:46 - 🔁 Conversion 88.8099907771094498 ALGO (~23.0 USDC)
+2025-08-07 09:43:46 - ✅ Conversion performed for ALGO
+2025-08-07 09:43:47 - the current price of XRP-USDC on the market is: 3.0727 USDC
+2025-08-07 09:43:47 - ❌ Error in get_volatility_score: Array must be at least 1D with 2 elements
+2025-08-07 09:43:47 - 🚫 Conversion ignored : XRP (6.690982827E-7) ~ 0.0 USDC (< 1.0)
+2025-08-07 09:43:47 - the current price of DOGE-USDC on the market is: 0.21487 USDC
+2025-08-07 09:43:47 - ❌ Error in get_volatility_score: Array must be at least 1D with 2 elements
+2025-08-07 09:43:47 - 🚫 Conversion ignored : DOGE (8.1462255E-9) ~ 0.0 USDC (< 1.0)
+2025-08-07 09:43:47 - the current price of ADA-USDC on the market is: 0.7685 USDC
+2025-08-07 09:43:47 - ❌ Error in get_volatility_score: Array must be at least 1D with 2 elements
+2025-08-07 09:43:47 - 🔁 Conversion 22.6851521160193962 ADA (~17.4 USDC)
+2025-08-07 09:43:48 - ✅ Conversion performed for ADA
+2025-08-07 09:43:48 - SOL-USDC trend: 📈 The crypto price will increase 🚀
+2025-08-07 09:43:48 - 📈 SOL-USDC will probably increase
+2025-08-07 09:43:48 - the current price of LTC-USDC on the market is: 120.14 USDC
+2025-08-07 09:43:48 - ❌ Error in get_volatility_score: Array must be at least 1D with 2 elements
+2025-08-07 09:43:48 - 🚫 Conversion ignored : LTC (8.8126927E-9) ~ 0.0 USDC (< 1.0)
+2025-08-07 09:43:48 - the current price of SOL-USDC on the market is: 172 USDC
+2025-08-07 09:43:48 - ❌ Error in get_volatility_score: Array must be at least 1D with 2 elements
+2025-08-07 09:43:48 - 🔁 Conversion 0.0815980208903176 SOL (~14.0 USDC)
+2025-08-07 09:43:49 - ✅ Conversion performed for SOL
+2025-08-07 09:43:49 - ✅ Complete conversion finished.
+2025-08-07 09:43:49 - ⏸ Putting the robot on pause.
+2025-08-07 09:43:52 - ALGO-USDC trend: 📈 The crypto price will increase 🚀
+2025-08-07 09:43:52 - 📈 ALGO-USDC will probably increase
+2025-08-07 09:43:54 - 🔄 Checking USDC balance...
+2025-08-07 09:43:57 - SUI-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 09:43:57 - 📉 SUI-USDC will probably decrease
+2025-08-07 09:44:01 - ARB-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 09:44:01 - 📉 ARB-USDC will probably decrease
+2025-08-07 09:44:07 - XRP-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 09:44:07 - 📉 XRP-USDC will probably decrease
+2025-08-07 09:44:09 - BTC-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 09:44:09 - 📉 BTC-USDC will probably decrease
+2025-08-07 09:44:15 - ETH-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 09:44:15 - 📉 ETH-USDC will probably decrease
+2025-08-07 09:44:26 - MATIC-USDC trend: 📈 The crypto price will increase 🚀
+2025-08-07 09:44:26 - 📈 MATIC-USDC will probably increase
+2025-08-07 09:44:28 - 🔄 Checking USDC balance...
+2025-08-07 09:44:32 - SOL-USDC trend: 📈 The crypto price will increase 🚀
+2025-08-07 09:44:32 - 📈 SOL-USDC will probably increase
+2025-08-07 09:44:40 - SUI-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 09:44:40 - 📉 SUI-USDC will probably decrease
+2025-08-07 09:44:52 - XRP-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 09:44:52 - 📉 XRP-USDC will probably decrease
+2025-08-07 09:44:56 - Updating accounts
+2025-08-07 09:44:56 - IA update time not reached.
+2025-08-07 09:45:00 - Updating accounts
+2025-08-07 09:45:00 - #def load_data ::: daily update performed...
+2025-08-07 09:45:01 - #fetch_crypto_data ::: daily update performed for ADA-USDC
+2025-08-07 09:45:01 - #fetch_crypto_data ::: daily update performed for AAVE-USDC
+2025-08-07 09:45:01 - #fetch_crypto_data ::: daily update performed for ALGO-USDC
+2025-08-07 09:45:01 - #fetch_crypto_data ::: daily update performed for ARB-USDC
+2025-08-07 09:45:01 - #fetch_crypto_data ::: daily update performed for BTC-USDC
+2025-08-07 09:45:02 - #fetch_crypto_data ::: daily update performed for ETH-USDC
+2025-08-07 09:45:02 - #fetch_crypto_data ::: daily update performed for MATIC-USDC
+2025-08-07 09:45:02 - #fetch_crypto_data ::: daily update performed for SOL-USDC
+2025-08-07 09:45:02 - #fetch_crypto_data ::: daily update performed for SUI-USDC
+2025-08-07 09:45:02 - #fetch_crypto_data ::: daily update performed for XRP-USDC
+2025-08-07 09:45:02 - launching calculations for predictions
+2025-08-07 09:45:02 - 🔄 Checking USDC balance...
+2025-08-07 09:45:33 - 🔄 Checking USDC balance...
+2025-08-07 09:45:49 - Finalization of processes completed. Stopping the bot.
+2025-08-07 09:46:07 - 🧠 ========== IA TREND (every 2 min) ==========
+2025-08-07 09:46:07 - 🔄 Checking USDC balance...
+2025-08-07 09:46:19 - ADA-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 09:46:19 - 📉 ADA-USDC will probably decrease
+2025-08-07 09:46:30 - AAVE-USDC trend: 📈 The crypto price will increase 🚀
+2025-08-07 09:46:30 - 📈 AAVE-USDC will probably increase
+2025-08-07 09:46:37 - 🔄 Checking USDC balance...
+2025-08-07 09:46:42 - ALGO-USDC trend: 📈 The crypto price will increase 🚀
+2025-08-07 09:46:42 - 📈 ALGO-USDC will probably increase
+2025-08-07 09:46:44 - ADA-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 09:46:44 - 📉 ADA-USDC will probably decrease
+2025-08-07 09:46:54 - ARB-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 09:46:54 - 📉 ARB-USDC will probably decrease
+2025-08-07 09:46:58 - AAVE-USDC trend: 📈 The crypto price will increase 🚀
+2025-08-07 09:46:58 - 📈 AAVE-USDC will probably increase
+2025-08-07 09:47:08 - 🔄 Checking USDC balance...
+2025-08-07 09:47:11 - BTC-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 09:47:11 - 📉 BTC-USDC will probably decrease
+2025-08-07 09:47:13 - ALGO-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 09:47:13 - 📉 ALGO-USDC will probably decrease
+2025-08-07 09:47:23 - ETH-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 09:47:23 - 📉 ETH-USDC will probably decrease
+2025-08-07 09:47:24 - ARB-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 09:47:24 - 📉 ARB-USDC will probably decrease
+2025-08-07 09:47:34 - MATIC-USDC trend: 📈 The crypto price will increase 🚀
+2025-08-07 09:47:34 - 📈 MATIC-USDC will probably increase
+2025-08-07 09:47:36 - BTC-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 09:47:36 - 📉 BTC-USDC will probably decrease
+2025-08-07 09:47:42 - 🔄 Checking USDC balance...
+2025-08-07 09:47:46 - SOL-USDC trend: 📈 The crypto price will increase 🚀
+2025-08-07 09:47:46 - 📈 SOL-USDC will probably increase
+2025-08-07 09:47:46 - ETH-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 09:47:46 - 📉 ETH-USDC will probably decrease
+2025-08-07 09:48:02 - SUI-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 09:48:02 - 📉 SUI-USDC will probably decrease
+2025-08-07 09:48:03 - MATIC-USDC trend: 📈 The crypto price will increase 🚀
+2025-08-07 09:48:03 - 📈 MATIC-USDC will probably increase
+2025-08-07 09:48:13 - 🔄 Checking USDC balance...
+2025-08-07 09:48:12 - XRP-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 09:48:12 - 📉 XRP-USDC will probably decrease
+2025-08-07 09:48:13 - SOL-USDC trend: 📈 The crypto price will increase 🚀
+2025-08-07 09:48:13 - 📈 SOL-USDC will probably increase
+2025-08-07 09:48:13 - 🔄 Checking USDC balance...
+2025-08-07 09:48:19 - SUI-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 09:48:19 - 📉 SUI-USDC will probably decrease
+2025-08-07 09:48:26 - XRP-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 09:48:26 - 📉 XRP-USDC will probably decrease
+2025-08-07 09:48:30 - Updating accounts
+2025-08-07 09:48:30 - IA update time not reached.
+2025-08-07 09:48:34 - Updating accounts
+2025-08-07 09:48:34 - IA update time not reached.
+2025-08-07 09:48:39 - Updating accounts
+2025-08-07 09:48:39 - IA update time not reached.
+2025-08-07 09:48:43 - Updating accounts
+2025-08-07 09:48:43 - IA update time not reached.
+2025-08-07 09:48:47 - 🔄 Checking USDC balance...
+2025-08-07 09:48:47 - Updating accounts
+2025-08-07 09:48:47 - IA update time not reached.
+2025-08-07 09:48:52 - Updating accounts
+2025-08-07 09:48:52 - IA update time not reached.
+2025-08-07 09:48:56 - Updating accounts
+2025-08-07 09:48:56 - IA update time not reached.
+2025-08-07 09:49:00 - Updating accounts
+2025-08-07 09:49:00 - IA update time not reached.
+2025-08-07 09:49:05 - Updating accounts
+2025-08-07 09:49:05 - IA update time not reached.
+2025-08-07 09:49:09 - Updating accounts
+2025-08-07 09:49:09 - IA update time not reached.
+2025-08-07 09:49:13 - Updating accounts
+2025-08-07 09:49:13 - IA update time not reached.
+2025-08-07 09:49:18 - Updating accounts
+2025-08-07 09:49:18 - IA update time not reached.
+2025-08-07 09:49:21 - 🔄 Checking USDC balance...
+2025-08-07 09:49:22 - Updating accounts
+2025-08-07 09:49:22 - IA update time not reached.
+2025-08-07 09:49:26 - Updating accounts
+2025-08-07 09:49:26 - IA update time not reached.
+2025-08-07 09:49:31 - Updating accounts
+2025-08-07 09:49:31 - IA update time not reached.
+2025-08-07 09:49:35 - Updating accounts
+2025-08-07 09:49:35 - IA update time not reached.
+2025-08-07 09:49:39 - Updating accounts
+2025-08-07 09:49:39 - IA update time not reached.
+2025-08-07 09:49:44 - Updating accounts
+2025-08-07 09:49:44 - IA update time not reached.
+2025-08-07 09:49:48 - Updating accounts
+2025-08-07 09:49:48 - IA update time not reached.
+2025-08-08 02:49:52 - Updating accounts
+2025-08-07 09:49:52 - IA update time not reached.
+2025-08-07 09:49:52 - 🔄 Checking USDC balance...
+2025-08-07 09:49:57 - Updating accounts
+2025-08-07 09:49:57 - IA update time not reached.
+2025-08-07 09:50:01 - Updating accounts
+2025-08-07 09:50:01 - #def load_data ::: daily update performed...
+2025-08-07 09:50:01 - #fetch_crypto_data ::: daily update performed for ADA-USDC
+2025-08-07 09:50:02 - #fetch_crypto_data ::: daily update performed for AAVE-USDC
+2025-08-07 09:50:02 - #fetch_crypto_data ::: daily update performed for ALGO-USDC
+2025-08-07 09:50:02 - #fetch_crypto_data ::: daily update performed for ARB-USDC
+2025-08-07 09:50:02 - #fetch_crypto_data ::: daily update performed for BTC-USDC
+2025-08-07 09:50:03 - #fetch_crypto_data ::: daily update performed for ETH-USDC
+2025-08-07 09:50:03 - #fetch_crypto_data ::: daily update performed for MATIC-USDC
+2025-08-07 09:50:03 - #fetch_crypto_data ::: daily update performed for SOL-USDC
+2025-08-07 09:50:03 - #fetch_crypto_data ::: daily update performed for SUI-USDC
+2025-08-07 09:50:03 - #fetch_crypto_data ::: daily update performed for XRP-USDC
+2025-08-07 09:50:03 - launching calculations for predictions
+2025-08-07 09:50:12 - 🧠 ========== IA TREND (every 2 min) ==========
+2025-08-07 09:50:22 - ADA-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 09:50:22 - 📉 ADA-USDC will probably decrease
+2025-08-07 09:50:22 - 📉 ADA-USDC will probably decrease
+2025-08-07 09:50:22 - 🔄 Checking USDC balance...
+2025-08-07 09:50:32 - AAVE-USDC trend: 📈 The crypto price will increase 🚀
+2025-08-07 09:50:32 - 📈 AAVE-USDC will probably increase
+2025-08-07 09:50:42 - ALGO-USDC trend: 📈 The crypto price will increase 🚀
+2025-08-07 09:50:42 - 📈 ALGO-USDC will probably increase
+2025-08-07 09:50:53 - ARB-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 09:50:53 - 📉 ARB-USDC will probably decrease
+2025-08-07 09:51:00 - 🔄 Checking USDC balance...
+2025-08-07 09:51:03 - BTC-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 09:51:03 - 📉 BTC-USDC will probably decrease
+2025-08-07 09:51:12 - ETH-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 09:51:12 - 📉 ETH-USDC will probably decrease
+2025-08-07 09:51:22 - MATIC-USDC trend: 📈 The crypto price will increase 🚀
+2025-08-07 09:51:22 - 📈 MATIC-USDC will probably increase
+2025-08-07 09:51:34 - SOL-USDC trend: 📈 The crypto price will increase 🚀
+2025-08-07 09:51:34 - 📈 SOL-USDC will probably increase
+2025-08-07 09:51:35 - 🔄 Checking USDC balance...
+2025-08-07 09:51:46 - SUI-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 09:51:46 - 📉 SUI-USDC will probably decrease
+2025-08-07 09:51:58 - XRP-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 09:51:58 - 📉 XRP-USDC will probably decrease
+2025-08-07 09:51:59 - ADA-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 09:51:59 - 📉 ADA-USDC will probably decrease
+2025-08-07 09:52:09 - 🔄 Checking USDC balance...
+2025-08-07 09:52:13 - AAVE-USDC trend: 📈 The crypto price will increase 🚀
+2025-08-07 09:52:13 - 📈 AAVE-USDC will probably increase
+2025-08-07 09:52:19 - ALGO-USDC trend: 📈 The crypto price will increase 🚀
+2025-08-07 09:52:19 - 📈 ALGO-USDC will probably increase
+2025-08-07 09:52:25 - ARB-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 09:52:25 - 📉 ARB-USDC will probably decrease
+2025-08-07 09:52:31 - BTC-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 09:52:31 - 📉 BTC-USDC will probably decrease
+2025-08-07 09:52:37 - ETH-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 09:52:37 - 📉 ETH-USDC will probably decrease
+2025-08-07 09:52:39 - 🔄 Checking USDC balance...
+2025-08-07 09:52:43 - MATIC-USDC trend: 📈 The crypto price will increase 🚀
+2025-08-07 09:52:44 - 📈 MATIC-USDC will probably increase
+2025-08-07 09:52:50 - SOL-USDC trend: 📈 The crypto price will increase 🚀
+2025-08-07 09:52:50 - 📈 SOL-USDC will probably increase
+2025-08-07 09:52:57 - SUI-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 09:52:57 - 📉 SUI-USDC will probably decrease
+2025-08-07 09:53:03 - XRP-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 09:53:03 - 📉 XRP-USDC will probably decrease
+2025-08-07 09:53:08 - Updating accounts
+2025-08-07 09:53:08 - IA update time not reached.
+2025-08-07 09:53:12 - Updating accounts
+2025-08-07 09:53:12 - IA update time not reached.
+2025-08-07 09:53:13 - 🔄 Checking USDC balance...
+2025-08-07 09:53:16 - Updating accounts
+2025-08-07 09:53:16 - IA update time not reached.
+2025-08-07 09:53:21 - Updating accounts
+2025-08-07 09:53:21 - IA update time not reached.
+2025-08-07 09:53:25 - Updating accounts
+2025-08-07 09:53:25 - IA update time not reached.
+2025-08-07 09:53:29 - Updating accounts
+2025-08-07 09:53:29 - IA update time not reached.
+2025-08-07 09:53:34 - Updating accounts
+2025-08-07 09:53:34 - IA update time not reached.
+2025-08-07 09:53:38 - Updating accounts
+2025-08-07 09:53:38 - IA update time not reached.
+2025-08-07 09:53:42 - Updating accounts
+2025-08-07 09:53:42 - IA update time not reached.
+2025-08-07 09:53:47 - Updating accounts
+2025-08-07 09:53:47 - IA update time not reached.
+2025-08-07 09:53:47 - 🔄 Checking USDC balance...
+2025-08-07 09:53:51 - Updating accounts
+2025-08-07 09:53:51 - IA update time not reached.
+2025-08-07 09:53:55 - Updating accounts
+2025-08-07 09:53:55 - IA update time not reached.
+2025-08-07 09:53:58 - 🧠 ========== IA TREND (every 2 min) ==========
+2025-08-07 09:53:59 - Updating accounts
+2025-08-07 09:53:59 - IA update time not reached.
+2025-08-07 09:54:04 - Updating accounts
+2025-08-07 09:54:04 - IA update time not reached.
+2025-08-07 09:54:05 - ADA-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 09:54:05 - 📉 ADA-USDC will probably decrease
+2025-08-07 09:54:08 - Updating accounts
+2025-08-07 09:54:08 - IA update time not reached.
+2025-08-07 09:54:11 - AAVE-USDC trend: 📈 The crypto price will increase 🚀
+2025-08-07 09:54:11 - 📈 AAVE-USDC will probably increase
+2025-08-07 09:54:12 - Updating accounts
+2025-08-07 09:54:12 - IA update time not reached.
+2025-08-07 09:54:17 - Updating accounts
+2025-08-07 09:54:17 - IA update time not reached.
+2025-08-07 09:54:18 - ALGO-USDC trend: 📈 The crypto price will increase 🚀
+2025-08-07 09:54:18 - 📈 ALGO-USDC will probably increase
+2025-08-07 09:54:21 - 🔄 Checking USDC balance...
+2025-08-07 09:54:21 - Updating accounts
+2025-08-07 09:54:21 - IA update time not reached.
+2025-08-07 09:54:24 - ARB-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 09:54:24 - 📉 ARB-USDC will probably decrease
+2025-08-07 09:54:25 - Updating accounts
+2025-08-07 09:54:25 - IA update time not reached.
+2025-08-07 09:54:30 - Updating accounts
+2025-08-07 09:54:30 - IA update time not reached.
+2025-08-07 09:54:31 - BTC-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 09:54:31 - 📉 BTC-USDC will probably decrease
+2025-08-07 09:54:36 - Updating accounts
+2025-08-07 09:54:36 - IA update time not reached.
+2025-08-07 09:54:41 - Updating accounts
+2025-08-07 09:54:41 - IA update time not reached.
+2025-08-07 09:54:41 - ETH-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 09:54:41 - 📉 ETH-USDC will probably decrease
+2025-08-07 09:54:45 - Updating accounts
+2025-08-07 09:54:45 - IA update time not reached.
+2025-08-07 09:54:48 - MATIC-USDC trend: 📈 The crypto price will increase 🚀
+2025-08-07 09:54:48 - 📈 MATIC-USDC will probably increase
+2025-08-07 09:54:49 - Updating accounts
+2025-08-07 09:54:49 - IA update time not reached.
+2025-08-07 09:54:54 - Updating accounts
+2025-08-07 09:54:54 - IA update time not reached.
+2025-08-07 09:54:54 - 🔄 Checking USDC balance...
+2025-08-07 09:54:55 - SOL-USDC trend: 📈 The crypto price will increase 🚀
+2025-08-07 09:54:55 - 📈 SOL-USDC will probably increase
+2025-08-07 09:54:58 - Updating accounts
+2025-08-07 09:54:58 - IA update time not reached.
+2025-08-07 09:55:02 - Updating accounts
+2025-08-07 09:55:02 - #def load_data ::: daily update performed...
+2025-08-07 09:55:03 - #fetch_crypto_data ::: daily update performed for ADA-USDC
+2025-08-07 09:55:03 - SUI-USDC trend: 📈 The crypto price will increase 🚀
+2025-08-07 09:55:03 - 📈 SUI-USDC will probably increase
+2025-08-07 09:55:03 - #fetch_crypto_data ::: daily update performed for AAVE-USDC
+2025-08-07 09:55:03 - #fetch_crypto_data ::: daily update performed for ALGO-USDC
+2025-08-07 09:55:04 - #fetch_crypto_data ::: daily update performed for ARB-USDC
+2025-08-07 09:55:04 - #fetch_crypto_data ::: daily update performed for BTC-USDC
+2025-08-07 09:55:04 - #fetch_crypto_data ::: daily update performed for ETH-USDC
+2025-08-07 09:55:04 - #fetch_crypto_data ::: daily update performed for MATIC-USDC
+2025-08-07 09:55:05 - #fetch_crypto_data ::: daily update performed for SOL-USDC
+2025-08-07 09:55:05 - #fetch_crypto_data ::: daily update performed for SUI-USDC
+2025-08-07 09:55:05 - 🔄 Checking USDC balance...
+2025-08-07 09:55:05 - #fetch_crypto_data ::: daily update performed for XRP-USDC
+2025-08-07 09:55:05 - launching calculations for predictions
+2025-08-07 09:55:12 - XRP-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 09:55:12 - 📉 XRP-USDC will probably decrease
+2025-08-07 09:55:28 - 🔄 Checking USDC balance...
+2025-08-07 09:56:02 - 🔄 Checking USDC balance...
+2025-08-07 09:56:26 - ADA-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 09:56:26 - 📉 ADA-USDC will probably decrease
+2025-08-07 09:56:34 - AAVE-USDC trend: 📈 The crypto price will increase 🚀
+2025-08-07 09:56:34 - 📈 AAVE-USDC will probably increase
+2025-08-07 09:56:44 - 🔄 Checking USDC balance...
+2025-08-07 09:56:51 - ALGO-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 09:56:51 - 📉 ALGO-USDC will probably decrease
+2025-08-07 09:56:58 - ARB-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 09:56:58 - 📉 ARB-USDC will probably decrease
+2025-08-07 09:57:05 - BTC-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 09:57:05 - 📉 BTC-USDC will probably decrease
+2025-08-07 09:57:12 - 🧠 ========== IA TREND (every 2 min) ==========
+2025-08-07 09:57:13 - ETH-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 09:57:13 - 📉 ETH-USDC will probably decrease
+2025-08-07 09:57:15 - 🔄 Checking USDC balance...
+2025-08-07 09:57:23 - ADA-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 09:57:23 - 📉 ADA-USDC will probably decrease
+2025-08-07 09:57:24 - MATIC-USDC trend: 📈 The crypto price will increase 🚀
+2025-08-07 09:57:24 - 📈 MATIC-USDC will probably increase
+2025-08-07 09:57:35 - AAVE-USDC trend: 📈 The crypto price will increase 🚀
+2025-08-07 09:57:35 - 📈 AAVE-USDC will probably increase
+2025-08-07 09:57:36 - SOL-USDC trend: 📈 The crypto price will increase 🚀
+2025-08-07 09:57:36 - 📈 SOL-USDC will probably increase
+2025-08-07 09:57:46 - ALGO-USDC trend: 📈 The crypto price will increase 🚀
+2025-08-07 09:57:46 - 📈 ALGO-USDC will probably increase
+2025-08-07 09:57:47 - SUI-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 09:57:47 - 📉 SUI-USDC will probably decrease
+2025-08-07 09:57:56 - ARB-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 09:57:56 - 📉 ARB-USDC will probably decrease
+2025-08-07 09:57:58 - XRP-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 09:57:58 - 📉 XRP-USDC will probably decrease
+2025-08-07 09:58:02 - Updating accounts
+2025-08-07 09:58:02 - IA update time not reached.
+2025-08-07 09:58:03 - BTC-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 09:58:03 - 📉 BTC-USDC will probably decrease
+2025-08-07 09:58:06 - Updating accounts
+2025-08-07 09:58:06 - IA update time not reached.
+2025-08-07 09:58:10 - ETH-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 09:58:10 - 📉 ETH-USDC will probably decrease
+2025-08-07 09:58:11 - Updating accounts
+2025-08-07 09:58:11 - IA update time not reached.
+2025-08-07 09:58:15 - Updating accounts
+2025-08-07 09:58:15 - IA update time not reached.
+2025-08-07 09:58:16 - MATIC-USDC trend: 📈 The crypto price will increase 🚀
+2025-08-07 09:58:16 - 📈 MATIC-USDC will probably increase
+2025-08-07 09:58:19 - Updating accounts
+2025-08-07 09:58:19 - IA update time not reached.
+2025-08-07 09:58:23 - SOL-USDC trend: 📈 The crypto price will increase 🚀
+2025-08-07 09:58:23 - 📈 SOL-USDC will probably increase
+2025-08-07 09:58:23 - 🔄 Checking USDC balance...
+2025-08-07 09:58:24 - Updating accounts
+2025-08-07 09:58:24 - IA update time not reached.
+2025-08-07 09:58:28 - Updating accounts
+2025-08-07 09:58:28 - IA update time not reached.
+2025-08-07 09:58:30 - SUI-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 09:58:30 - 📉 SUI-USDC will probably decrease
+2025-08-07 09:58:32 - Updating accounts
+2025-08-07 09:58:32 - IA update time not reached.
+2025-08-07 09:58:37 - Updating accounts
+2025-08-07 09:58:37 - IA update time not reached.
+2025-08-07 09:58:37 - XRP-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 09:58:37 - 📉 XRP-USDC will probably decrease
+2025-08-07 09:58:41 - Updating accounts
+2025-08-07 09:58:41 - IA update time not reached.
+2025-08-07 09:58:46 - Updating accounts
+2025-08-07 09:58:46 - IA update time not reached.
+2025-08-07 09:58:51 - Updating accounts
+2025-08-07 09:58:51 - IA update time not reached.
+2025-08-07 09:58:55 - Updating accounts
+2025-08-07 09:58:55 - IA update time not reached.
+2025-08-07 09:58:59 - Updating accounts
+2025-08-07 09:58:59 - IA update time not reached.
+2025-08-07 09:59:03 - Updating accounts
+2025-08-07 09:59:03 - IA update time not reached.
+2025-08-07 09:59:08 - Updating accounts
+2025-08-07 09:59:08 - IA update time not reached.
+2025-08-07 09:59:12 - Updating accounts
+2025-08-07 09:59:12 - IA update time not reached.
+2025-08-07 09:59:16 - Updating accounts
+2025-08-07 09:59:16 - IA update time not reached.
+2025-08-07 09:59:21 - Updating accounts
+2025-08-07 09:59:21 - IA update time not reached.
+2025-08-07 09:59:25 - Updating accounts
+2025-08-07 09:59:25 - IA update time not reached.
+2025-08-07 09:59:29 - Updating accounts
+2025-08-07 09:59:29 - IA update time not reached.
+2025-08-07 09:59:31 - 🔄 Checking USDC balance...
+2025-08-07 09:59:33 - Updating accounts
+2025-08-07 09:59:33 - IA update time not reached.
+2025-08-07 09:59:39 - Updating accounts
+2025-08-07 09:59:39 - IA update time not reached.
+2025-08-07 09:59:43 - Updating accounts
+2025-08-07 09:59:43 - IA update time not reached.
+2025-08-07 09:59:47 - Updating accounts
+2025-08-07 09:59:47 - IA update time not reached.
+2025-08-07 09:59:52 - Updating accounts
+2025-08-07 09:59:52 - IA update time not reached.
+2025-08-07 09:59:56 - Updating accounts
+2025-08-07 09:59:56 - IA update time not reached.
+2025-08-07 10:00:00 - Updating accounts
+2025-08-07 10:00:00 - #def load_data ::: daily update performed...
+2025-08-07 10:00:00 - #fetch_crypto_data ::: daily update performed for ADA-USDC
+2025-08-07 10:00:00 - #fetch_crypto_data ::: daily update performed for AAVE-USDC
+2025-08-07 10:00:01 - #fetch_crypto_data ::: daily update performed for ALGO-USDC
+2025-08-07 10:00:01 - #fetch_crypto_data ::: daily update performed for ARB-USDC
+2025-08-07 10:00:01 - #fetch_crypto_data ::: daily update performed for BTC-USDC
+2025-08-07 10:00:01 - #fetch_crypto_data ::: daily update performed for ETH-USDC
+2025-08-07 10:00:01 - #fetch_crypto_data ::: daily update performed for MATIC-USDC
+2025-08-07 10:00:01 - #fetch_crypto_data ::: daily update performed for SOL-USDC
+2025-08-07 10:00:01 - #fetch_crypto_data ::: daily update performed for SUI-USDC
+2025-08-07 10:00:01 - #fetch_crypto_data ::: daily update performed for XRP-USDC
+2025-08-07 10:00:01 - launching calculations for predictions
+2025-08-07 10:00:05 - 🔄 Checking USDC balance...
+2025-08-07 10:00:35 - 🔄 Checking USDC balance...
+2025-08-07 10:00:37 - 🧠 ========== IA TREND (every 2 min) ==========
+2025-08-07 10:00:48 - ADA-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 10:00:48 - 📉 ADA-USDC will probably decrease
+2025-08-07 10:01:00 - AAVE-USDC trend: 📈 The crypto price will increase 🚀
+2025-08-07 10:01:00 - 📈 AAVE-USDC will probably increase
+2025-08-07 10:01:06 - 🔄 Checking USDC balance...
+2025-08-07 10:01:11 - ALGO-USDC trend: 📈 The crypto price will increase 🚀
+2025-08-07 10:01:11 - 📈 ALGO-USDC will probably increase
+2025-08-07 10:01:22 - ARB-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 10:01:22 - 📉 ARB-USDC will probably decrease
+2025-08-07 10:01:52 - BTC-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 10:01:52 - 📉 BTC-USDC will probably decrease
+2025-08-07 10:01:52 - 🔄 Checking USDC balance...
+2025-08-07 10:02:02 - ETH-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 10:02:02 - 📉 ETH-USDC will probably decrease
+2025-08-07 10:02:09 - ADA-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 10:02:09 - 📉 ADA-USDC will probably decrease
+2025-08-07 10:02:13 - MATIC-USDC trend: 📈 The crypto price will increase 🚀
+2025-08-07 10:02:13 - 📈 MATIC-USDC will probably increase
+2025-08-07 10:02:19 - AAVE-USDC trend: 📈 The crypto price will increase 🚀
+2025-08-07 10:02:19 - 📈 AAVE-USDC will probably increase
+2025-08-07 10:02:22 - 🔄 Checking USDC balance...
+2025-08-07 10:02:24 - SOL-USDC trend: 📈 The crypto price will increase 🚀
+2025-08-07 10:02:24 - 📈 SOL-USDC will probably increase
+2025-08-07 09:57:29 - ALGO-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 09:57:29 - 📉 ALGO-USDC will probably decrease
+2025-08-07 09:57:35 - ARB-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 09:57:35 - 📉 ARB-USDC will probably decrease
+2025-08-07 09:57:46 - BTC-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 09:57:46 - 📉 BTC-USDC will probably decrease
+2025-08-07 09:57:54 - ETH-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 09:57:54 - 📉 ETH-USDC will probably decrease
+2025-08-07 09:58:02 - MATIC-USDC trend: 📈 The crypto price will increase 🚀
+2025-08-07 09:58:02 - 📈 MATIC-USDC will probably increase
+2025-08-07 09:58:03 - Updating accounts
+2025-08-07 09:58:03 - IA update time not reached.
+2025-08-07 09:58:07 - SOL-USDC trend: 📈 The crypto price will increase 🚀
+2025-08-07 09:58:07 - 📈 SOL-USDC will probably increase
+2025-08-07 09:58:12 - SUI-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 09:58:12 - 📉 SUI-USDC will probably decrease
+2025-08-07 09:58:15 - Updating accounts
+2025-08-07 09:58:15 - IA update time not reached.
+2025-08-07 09:58:16 - XRP-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 09:58:16 - 📉 XRP-USDC will probably decrease
+2025-08-07 09:58:19 - Updating accounts
+2025-08-07 09:58:19 - IA update time not reached.
+2025-08-07 09:58:23 - SOL-USDC trend: 📈 The crypto price will increase 🚀
+2025-08-07 09:58:23 - 📈 SOL-USDC will probably increase
+2025-08-07 09:58:23 - 🔄 Checking USDC balance...
+2025-08-07 09:58:24 - Updating accounts
+2025-08-07 09:58:24 - IA update time not reached.
+2025-08-07 09:58:28 - Updating accounts
+2025-08-07 09:58:28 - IA update time not reached.
+2025-08-07 09:58:30 - SUI-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 09:58:30 - 📉 SUI-USDC will probably decrease
+2025-08-07 09:58:32 - Updating accounts
+2025-08-07 09:58:32 - IA update time not reached.
+2025-08-07 09:58:37 - Updating accounts
+2025-08-07 09:58:37 - IA update time not reached.
+2025-08-07 09:58:37 - XRP-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 09:58:37 - 📉 XRP-USDC will probably decrease
+2025-08-07 09:58:41 - Updating accounts
+2025-08-07 09:58:41 - IA update time not reached.
+2025-08-07 09:58:46 - Updating accounts
+2025-08-07 09:58:46 - IA update time not reached.
+2025-08-07 09:58:51 - Updating accounts
+2025-08-07 09:58:51 - IA update time not reached.
+2025-08-07 09:58:55 - Updating accounts
+2025-08-07 09:58:55 - IA update time not reached.
+2025-08-07 09:58:59 - Updating accounts
+2025-08-07 09:58:59 - IA update time not reached.
+2025-08-07 09:59:03 - Updating accounts
+2025-08-07 09:59:03 - IA update time not reached.
+2025-08-07 09:59:08 - Updating accounts
+2025-08-07 09:59:08 - IA update time not reached.
+2025-08-07 09:59:12 - Updating accounts
+2025-08-07 09:59:12 - IA update time not reached.
+2025-08-07 09:59:16 - Updating accounts
+2025-08-07 09:59:16 - IA update time not reached.
+2025-08-07 09:59:21 - Updating accounts
+2025-08-07 09:59:21 - IA update time not reached.
+2025-08-07 09:59:25 - Updating accounts
+2025-08-07 09:59:25 - IA update time not reached.
+2025-08-07 09:59:29 - Updating accounts
+2025-08-07 09:59:29 - IA update time not reached.
+2025-08-07 09:59:31 - 🔄 Checking USDC balance...
+2025-08-07 09:59:33 - Updating accounts
+2025-08-07 09:59:33 - IA update time not reached.
+2025-08-07 09:59:39 - Updating accounts
+2025-08-07 09:59:39 - IA update time not reached.
+2025-08-07 09:59:43 - Updating accounts
+2025-08-07 09:59:43 - IA update time not reached.
+2025-08-07 09:59:47 - Updating accounts
+2025-08-07 09:59:47 - IA update time not reached.
+2025-08-07 09:59:52 - Updating accounts
+2025-08-07 09:59:52 - IA update time not reached.
+2025-08-07 09:59:56 - Updating accounts
+2025-08-07 09:59:56 - IA update time not reached.
+2025-08-07 10:00:00 - Updating accounts
+2025-08-07 10:00:00 - #def load_data ::: daily update performed...
+2025-08-07 10:00:00 - #fetch_crypto_data ::: daily update performed for ADA-USDC
+2025-08-07 10:00:00 - #fetch_crypto_data ::: daily update performed for AAVE-USDC
+2025-08-07 10:00:01 - #fetch_crypto_data ::: daily update performed for ALGO-USDC
+2025-08-07 10:00:01 - #fetch_crypto_data ::: daily update performed for ARB-USDC
+2025-08-07 10:00:01 - #fetch_crypto_data ::: daily update performed for BTC-USDC
+2025-08-07 10:00:01 - #fetch_crypto_data ::: daily update performed for ETH-USDC
+2025-08-07 10:00:01 - #fetch_crypto_data ::: daily update performed for MATIC-USDC
+2025-08-07 10:00:01 - #fetch_crypto_data ::: daily update performed for SOL-USDC
+2025-08-07 10:00:01 - #fetch_crypto_data ::: daily update performed for SUI-USDC
+2025-08-07 10:00:01 - #fetch_crypto_data ::: daily update performed for XRP-USDC
+2025-08-07 10:00:01 - launching calculations for predictions
+2025-08-07 10:00:05 - 🔄 Checking USDC balance...
+2025-08-07 10:00:35 - 🔄 Checking USDC balance...
+2025-08-07 10:00:37 - 🧠 ========== IA TREND (every 2 min) ==========
+2025-08-07 10:00:48 - ADA-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 10:00:48 - 📉 ADA-USDC will probably decrease
+2025-08-07 10:01:00 - AAVE-USDC trend: 📈 The crypto price will increase 🚀
+2025-08-07 10:01:00 - 📈 AAVE-USDC will probably increase
+2025-08-07 10:01:06 - 🔄 Checking USDC balance...
+2025-08-07 10:01:11 - ALGO-USDC trend: 📈 The crypto price will increase 🚀
+2025-08-07 10:01:11 - 📈 ALGO-USDC will probably increase
+2025-08-07 10:01:22 - ARB-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 10:01:22 - 📉 ARB-USDC will probably decrease
+2025-08-07 10:01:52 - BTC-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 10:01:52 - 📉 BTC-USDC will probably decrease
+2025-08-07 10:01:52 - 🔄 Checking USDC balance...
+2025-08-07 10:02:02 - ETH-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 10:02:02 - 📉 ETH-USDC will probably decrease
+2025-08-07 10:02:09 - ADA-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 10:02:09 - 📉 ADA-USDC will probably decrease
+2025-08-07 10:02:13 - MATIC-USDC trend: 📈 The crypto price will increase 🚀
+2025-08-07 10:02:13 - 📈 MATIC-USDC will probably increase
+2025-08-07 10:02:19 - AAVE-USDC trend: 📈 The crypto price will increase 🚀
+2025-08-07 10:02:19 - 📈 AAVE-USDC will probably increase
+2025-08-07 10:02:22 - 🔄 Checking USDC balance...
+2025-08-07 10:02:24 - SOL-USDC trend: 📈 The crypto price will increase 🚀
+2025-08-07 10:02:24 - 📈 SOL-USDC will probably increase
+2025-08-07 10:02:29 - ALGO-USDC trend: 📈 The crypto price will increase 🚀
+2025-08-07 10:02:29 - 📈 ALGO-USDC will probably increase
+2025-08-07 10:02:34 - SUI-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 10:02:34 - 📉 SUI-USDC will probably decrease
+2025-08-07 10:02:39 - ARB-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 10:02:39 - 📉 ARB-USDC will probably decrease
+2025-08-07 10:02:44 - BTC-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 10:02:44 - 📉 BTC-USDC will probably decrease
+2025-08-07 10:02:49 - ETH-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 10:02:49 - 📉 ETH-USDC will probably decrease
+2025-08-07 10:02:54 - MATIC-USDC trend: 📈 The crypto price will increase 🚀
+2025-08-07 10:02:54 - 📈 MATIC-USDC will probably increase
+2025-08-07 10:03:00 - SOL-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 10:03:00 - 📉 SOL-USDC will probably decrease
+2025-08-07 10:03:06 - SUI-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 10:03:06 - 📉 SUI-USDC will probably decrease
+2025-08-07 10:03:13 - XRP-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 10:03:13 - 📉 XRP-USDC will probably decrease
+2025-08-07 10:03:19 - 🔄 Checking USDC balance...
+2025-08-07 10:03:24 - Updating accounts
+2025-08-07 10:03:24 - IA update time not reached.
+2025-08-07 10:03:28 - Updating accounts
+2025-08-07 10:03:28 - IA update time not reached.
+2025-08-07 10:03:32 - Updating accounts
+2025-08-07 10:03:32 - IA update time not reached.
+2025-08-07 10:03:37 - Updating accounts
+2025-08-07 10:03:37 - IA update time not reached.
+2025-08-07 10:03:41 - Updating accounts
+2025-08-07 10:03:41 - IA update time not reached.
+2025-08-07 10:03:45 - Updating accounts
+2025-08-07 10:03:45 - IA update time not reached.
+2025-08-07 10:03:50 - Updating accounts
+2025-08-07 10:03:50 - IA update time not reached.
+2025-08-07 10:03:54 - Updating accounts
+2025-08-07 10:03:54 - IA update time not reached.
+2025-08-07 10:03:57 - 🔄 Checking USDC balance...
+2025-08-07 10:03:58 - Updating accounts
+2025-08-07 10:03:58 - IA update time not reached.
+2025-08-07 10:04:03 - Updating accounts
+2025-08-07 10:04:03 - IA update time not reached.
+2025-08-07 10:04:07 - Updating accounts
+2025-08-07 10:04:07 - IA update time not reached.
+2025-08-07 10:04:11 - Updating accounts
+2025-08-07 10:04:11 - IA update time not reached.
+2025-08-07 10:04:16 - Updating accounts
+2025-08-07 10:04:16 - IA update time not reached.
+2025-08-07 10:04:20 - Updating accounts
+2025-08-07 10:04:20 - IA update time not reached.
+2025-08-07 10:04:24 - Updating accounts
+2025-08-07 10:04:24 - IA update time not reached.
+2025-08-07 10:04:28 - Updating accounts
+2025-08-07 10:04:28 - IA update time not reached.
+2025-08-07 10:04:31 - 🔄 Checking USDC balance...
+2025-08-07 10:04:33 - Updating accounts
+2025-08-07 10:04:33 - IA update time not reached.
+2025-08-07 10:04:37 - Updating accounts
+2025-08-07 10:04:37 - IA update time not reached.
+2025-08-07 10:04:41 - Updating accounts
+2025-08-07 10:04:41 - IA update time not reached.
+2025-08-07 10:04:44 - 🧠 ========== IA TREND (every 2 min) ==========
+2025-08-07 10:04:46 - Updating accounts
+2025-08-07 10:04:46 - IA update time not reached.
+2025-08-07 10:04:50 - Updating accounts
+2025-08-07 10:04:50 - IA update time not reached.
+2025-08-07 10:04:53 - ADA-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 10:04:53 - 📉 ADA-USDC will probably decrease
+2025-08-07 10:04:54 - Updating accounts
+2025-08-07 10:04:54 - IA update time not reached.
+2025-08-07 10:04:58 - Updating accounts
+2025-08-07 10:04:58 - IA update time not reached.
+2025-08-07 10:05:00 - AAVE-USDC trend: 📈 The crypto price will increase 🚀
+2025-08-07 10:05:00 - 📈 AAVE-USDC will probably increase
+2025-08-07 10:05:03 - Updating accounts
+2025-08-07 10:05:03 - #def load_data ::: daily update performed...
+2025-08-07 10:05:03 - #fetch_crypto_data ::: daily update performed for ADA-USDC
+2025-08-07 10:05:04 - #fetch_crypto_data ::: daily update performed for AAVE-USDC
+2025-08-07 10:05:04 - #fetch_crypto_data ::: daily update performed for ALGO-USDC
+2025-08-07 10:05:04 - #fetch_crypto_data ::: daily update performed for ARB-USDC
+2025-08-07 10:05:05 - #fetch_crypto_data ::: daily update performed for BTC-USDC
+2025-08-07 10:05:05 - #fetch_crypto_data ::: daily update performed for ETH-USDC
+2025-08-07 10:05:05 - #fetch_crypto_data ::: daily update performed for MATIC-USDC
+2025-08-07 10:05:05 - #fetch_crypto_data ::: daily update performed for SOL-USDC
+2025-08-07 10:05:05 - #fetch_crypto_data ::: daily update performed for SUI-USDC
+2025-08-07 10:05:05 - 🔄 Checking USDC balance...
+2025-08-07 10:05:05 - #fetch_crypto_data ::: daily update performed for XRP-USDC
+2025-08-07 10:05:05 - launching calculations for predictions
+2025-08-07 10:05:08 - ALGO-USDC trend: 📈 The crypto price will increase 🚀
+2025-08-07 10:05:08 - 📈 ALGO-USDC will probably increase
+2025-08-07 10:05:17 - ARB-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 10:05:17 - 📉 ARB-USDC will probably decrease
+2025-08-07 10:05:25 - BTC-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 10:05:25 - 📉 BTC-USDC will probably decrease
+2025-08-07 10:05:35 - ETH-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 10:05:35 - 📉 ETH-USDC will probably decrease
+2025-08-07 10:05:36 - 🔄 Checking USDC balance...
+2025-08-07 10:05:43 - MATIC-USDC trend: 📈 The crypto price will increase 🚀
+2025-08-07 10:05:43 - 📈 MATIC-USDC will probably increase
+2025-08-07 10:05:51 - SOL-USDC trend: 📈 The crypto price will increase 🚀
+2025-08-07 10:05:51 - 📈 SOL-USDC will probably increase
+2025-08-07 10:06:00 - SUI-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 10:06:00 - 📉 SUI-USDC will probably decrease
+2025-08-07 10:06:06 - 🔄 Checking USDC balance...
+2025-08-07 10:06:08 - XRP-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 10:06:08 - 📉 XRP-USDC will probably decrease
+2025-08-07 10:06:30 - ADA-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 10:06:30 - 📉 ADA-USDC will probably decrease
+2025-08-07 10:06:35 - AAVE-USDC trend: 📈 The crypto price will increase 🚀
+2025-08-07 10:06:35 - 📈 AAVE-USDC will probably increase
+2025-08-07 10:06:40 - 🔄 Checking USDC balance...
+2025-08-07 10:06:59 - ALGO-USDC trend: 📈 The crypto price will increase 🚀
+2025-08-07 10:06:59 - 📈 ALGO-USDC will probably increase
+2025-08-07 10:07:05 - ARB-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 10:07:05 - 📉 ARB-USDC will probably decrease
+2025-08-07 10:07:10 - BTC-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 10:07:10 - 📉 BTC-USDC will probably decrease
+2025-08-07 10:07:16 - ETH-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 10:07:16 - 📉 ETH-USDC will probably decrease
+2025-08-07 10:07:21 - MATIC-USDC trend: 📈 The crypto price will increase 🚀
+2025-08-07 10:07:21 - 📈 MATIC-USDC will probably increase
+2025-08-07 10:07:27 - SOL-USDC trend: 📈 The crypto price will increase 🚀
+2025-08-07 10:07:27 - 📈 SOL-USDC will probably increase
+2025-08-07 10:07:32 - SUI-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 10:07:32 - 📉 SUI-USDC will probably decrease
+2025-08-07 10:07:38 - XRP-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 10:07:38 - 📉 XRP-USDC will probably decrease
+2025-08-07 10:07:42 - Updating accounts
+2025-08-07 10:07:42 - IA update time not reached.
+2025-08-07 10:07:46 - 🔄 Checking USDC balance...
+2025-08-07 10:07:47 - Updating accounts
+2025-08-07 10:07:47 - IA update time not reached.
+2025-08-07 10:07:51 - Updating accounts
+2025-08-07 10:07:51 - IA update time not reached.
+2025-08-07 10:07:55 - Updating accounts
+2025-08-07 10:07:55 - IA update time not reached.
+2025-08-07 10:07:59 - Updating accounts
+2025-08-07 10:07:59 - IA update time not reached.
+2025-08-07 10:08:04 - Updating accounts
+2025-08-07 10:08:04 - IA update time not reached.
+2025-08-07 10:08:08 - Updating accounts
+2025-08-07 10:08:08 - IA update time not reached.
+2025-08-07 10:08:08 - 🧠 ========== IA TREND (every 2 min) ==========
+2025-08-07 10:08:12 - Updating accounts
+2025-08-07 10:08:12 - IA update time not reached.
+2025-08-07 10:08:14 - ADA-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 10:08:14 - 📉 ADA-USDC will probably decrease
+2025-08-07 10:08:17 - Updating accounts
+2025-08-07 10:08:17 - IA update time not reached.
+2025-08-07 10:08:20 - AAVE-USDC trend: 📈 The crypto price will increase 🚀
+2025-08-07 10:08:20 - 📈 AAVE-USDC will probably increase
+2025-08-07 10:08:20 - 🔄 Checking USDC balance...
+2025-08-07 10:08:21 - Updating accounts
+2025-08-07 10:08:21 - IA update time not reached.
+2025-08-07 10:08:25 - ALGO-USDC trend: 📈 The crypto price will increase 🚀
+2025-08-07 10:08:25 - 📈 ALGO-USDC will probably increase
+2025-08-07 10:08:25 - Updating accounts
+2025-08-07 10:08:25 - IA update time not reached.
+2025-08-07 10:08:30 - Updating accounts
+2025-08-07 10:08:30 - IA update time not reached.
+2025-08-07 10:08:31 - ARB-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 10:08:31 - 📉 ARB-USDC will probably decrease
+2025-08-07 10:08:34 - Updating accounts
+2025-08-07 10:08:34 - IA update time not reached.
+2025-08-07 10:08:36 - BTC-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 10:08:36 - 📉 BTC-USDC will probably decrease
+2025-08-07 10:08:38 - Updating accounts
+2025-08-07 10:08:38 - IA update time not reached.
+2025-08-07 10:08:42 - ETH-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 10:08:42 - 📉 ETH-USDC will probably decrease
+2025-08-07 10:08:43 - Updating accounts
+2025-08-07 10:08:43 - IA update time not reached.
+2025-08-07 10:08:47 - Updating accounts
+2025-08-07 10:08:47 - IA update time not reached.
+2025-08-07 10:08:47 - MATIC-USDC trend: 📈 The crypto price will increase 🚀
+2025-08-07 10:08:47 - 📈 MATIC-USDC will probably increase
+2025-08-07 10:08:51 - Updating accounts
+2025-08-07 10:08:51 - IA update time not reached.
+2025-08-07 10:08:54 - SOL-USDC trend: 📈 The crypto price will increase 🚀
+2025-08-07 10:08:54 - 📈 SOL-USDC will probably increase
+2025-08-07 10:08:54 - 🔄 Checking USDC balance...
+2025-08-07 10:08:57 - Updating accounts
+2025-08-07 10:08:57 - IA update time not reached.
+2025-08-07 10:09:02 - Updating accounts
+2025-08-07 10:09:02 - IA update time not reached.
+2025-08-07 10:09:02 - SUI-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 10:09:02 - 📉 SUI-USDC will probably decrease
+2025-08-07 10:09:06 - Updating accounts
+2025-08-07 10:09:06 - IA update time not reached.
+2025-08-07 10:09:08 - XRP-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 10:09:08 - 📉 XRP-USDC will probably decrease
+2025-08-07 10:09:10 - Updating accounts
+2025-08-07 10:09:10 - IA update time not reached.
+2025-08-07 10:09:15 - Updating accounts
+2025-08-07 10:09:15 - IA update time not reached.
+2025-08-07 10:09:19 - Updating accounts
+2025-08-07 10:09:19 - IA update time not reached.
+2025-08-07 10:09:23 - Updating accounts
+2025-08-07 10:09:23 - IA update time not reached.
+2025-08-07 10:09:24 - 🔄 Checking USDC balance...
+2025-08-07 10:09:25 - Updating accounts
+2025-08-07 10:09:25 - IA update time not reached.
+2025-08-07 10:09:28 - Updating accounts
+2025-08-07 10:09:28 - IA update time not reached.
+2025-08-07 10:09:32 - Updating accounts
+2025-08-07 10:09:32 - IA update time not reached.
+2025-08-07 10:09:36 - Updating accounts
+2025-08-07 10:09:36 - IA update time not reached.
+2025-08-07 10:09:40 - Updating accounts
+2025-08-07 10:09:40 - IA update time not reached.
+2025-08-07 10:09:45 - Updating accounts
+2025-08-07 10:09:45 - IA update time not reached.
+2025-08-07 10:09:49 - Updating accounts
+2025-08-07 10:09:49 - IA update time not reached.
+2025-08-07 10:09:53 - Updating accounts
+2025-08-07 10:09:53 - IA update time not reached.
+2025-08-07 10:09:58 - Updating accounts
+2025-08-07 10:09:58 - IA update time not reached.
+2025-08-07 10:09:59 - 🔄 Checking USDC balance...
+2025-08-07 10:10:02 - Updating accounts
+2025-08-07 10:10:02 - #def load_data ::: daily update performed...
+2025-08-07 10:10:02 - #fetch_crypto_data ::: daily update performed for ADA-USDC
+2025-08-07 10:10:02 - #fetch_crypto_data ::: daily update performed for AAVE-USDC
+2025-08-07 10:10:02 - #fetch_crypto_data ::: daily update performed for ALGO-USDC
+2025-08-07 10:10:02 - #fetch_crypto_data ::: daily update performed for ARB-USDC
+2025-08-07 10:10:03 - #fetch_crypto_data ::: daily update performed for BTC-USDC
+2025-08-07 10:10:03 - #fetch_crypto_data ::: daily update performed for ETH-USDC
+2025-08-07 10:10:04 - #fetch_crypto_data ::: daily update performed for MATIC-USDC
+2025-08-07 10:10:04 - #fetch_crypto_data ::: daily update performed for SOL-USDC
+2025-08-07 10:10:04 - #fetch_crypto_data ::: daily update performed for SUI-USDC
+2025-08-07 10:10:04 - #fetch_crypto_data ::: daily update performed for XRP-USDC
+2025-08-07 10:10:04 - launching calculations for predictions
+2025-08-07 10:10:30 - 🔄 Checking USDC balance...
+2025-08-07 10:11:04 - 🔄 Checking USDC balance...
+2025-08-07 10:11:38 - 🔄 Checking USDC balance...
+2025-08-07 10:12:21 - 🔄 Checking USDC balance...
+2025-08-07 10:12:29 - SOL-USDC trend: 📈 The crypto price will increase 🚀
+2025-08-07 10:12:29 - 📈 SOL-USDC will probably increase
+2025-08-07 10:12:35 - SUI-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 10:12:35 - 📉 SUI-USDC will probably decrease
+2025-08-07 10:12:41 - XRP-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 10:12:41 - 📉 XRP-USDC will probably decrease
+2025-08-07 10:12:43 - MATIC-USDC trend: 📈 The crypto price will increase 🚀
+2025-08-07 10:12:43 - 📈 MATIC-USDC will probably increase
+2025-08-07 10:12:46 - Updating accounts
+2025-08-07 10:12:46 - IA update time not reached.
+2025-08-07 10:12:49 - SOL-USDC trend: 📈 The crypto price will increase 🚀
+2025-08-07 10:12:49 - 📈 SOL-USDC will probably increase
+2025-08-07 10:12:50 - Updating accounts
+2025-08-07 10:12:50 - IA update time not reached.
+2025-08-07 10:12:52 - 🔄 Checking USDC balance...
+2025-08-07 10:12:55 - SUI-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 10:12:55 - 📉 SUI-USDC will probably decrease
+2025-08-07 10:12:55 - Updating accounts
+2025-08-07 10:12:55 - IA update time not reached.
+2025-08-07 10:12:59 - Updating accounts
+2025-08-07 10:12:59 - IA update time not reached.
+2025-08-07 10:13:00 - XRP-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 10:13:00 - 📉 XRP-USDC will probably decrease
+2025-08-07 10:13:04 - Updating accounts
+2025-08-07 10:13:04 - IA update time not reached.
+2025-08-07 10:13:08 - Updating accounts
+2025-08-07 10:13:08 - IA update time not reached.
+2025-08-07 10:13:13 - Updating accounts
+2025-08-07 10:13:13 - IA update time not reached.
+2025-08-07 10:13:17 - Updating accounts
+2025-08-07 10:13:17 - IA update time not reached.
+2025-08-07 10:13:21 - Updating accounts
+2025-08-07 10:13:21 - IA update time not reached.
+2025-08-07 10:13:24 - 🔄 Checking USDC balance...
+2025-08-07 10:13:28 - Updating accounts
+2025-08-07 10:13:28 - IA update time not reached.
+2025-08-07 10:13:32 - Updating accounts
+2025-08-07 10:13:32 - IA update time not reached.
+2025-08-07 10:13:37 - Updating accounts
+2025-08-07 10:13:37 - IA update time not reached.
+2025-08-07 10:13:41 - Updating accounts
+2025-08-07 10:13:41 - IA update time not reached.
+2025-08-07 10:13:45 - Updating accounts
+2025-08-07 10:13:45 - IA update time not reached.
+2025-08-07 10:13:50 - Updating accounts
+2025-08-07 10:13:50 - IA update time not reached.
+2025-08-07 10:13:52 - 🔄 Checking USDC balance...
+2025-08-07 10:13:52 - Updating accounts
+2025-08-07 10:13:52 - IA update time not reached.
+2025-08-07 10:13:56 - Updating accounts
+2025-08-07 10:13:56 - IA update time not reached.
+2025-08-07 10:14:00 - Updating accounts
+2025-08-07 10:14:00 - IA update time not reached.
+2025-08-07 10:14:05 - Updating accounts
+2025-08-07 10:14:05 - IA update time not reached.
+2025-08-07 10:14:09 - Updating accounts
+2025-08-07 10:14:09 - IA update time not reached.
+2025-08-07 10:14:13 - Updating accounts
+2025-08-07 10:14:13 - IA update time not reached.
+2025-08-07 10:14:18 - Updating accounts
+2025-08-07 10:14:18 - IA update time not reached.
+2025-08-07 10:14:22 - Updating accounts
+2025-08-07 10:14:22 - IA update time not reached.
+2025-08-07 10:14:26 - Updating accounts
+2025-08-07 10:14:26 - IA update time not reached.
+2025-08-07 10:14:30 - Updating accounts
+2025-08-07 10:14:30 - IA update time not reached.
+2025-08-07 10:14:34 - 🔄 Checking USDC balance...
+2025-08-07 10:14:35 - Updating accounts
+2025-08-07 10:14:35 - IA update time not reached.
+2025-08-07 10:14:39 - Updating accounts
+2025-08-07 10:14:39 - IA update time not reached.
+2025-08-07 10:14:43 - Updating accounts
+2025-08-07 10:14:43 - IA update time not reached.
+2025-08-07 10:14:47 - Updating accounts
+2025-08-07 10:14:47 - IA update time not reached.
+2025-08-07 10:14:52 - Updating accounts
+2025-08-07 10:14:52 - IA update time not reached.
+2025-08-07 10:14:56 - Updating accounts
+2025-08-07 10:14:56 - IA update time not reached.
+2025-08-07 10:15:00 - Updating accounts
+2025-08-07 10:15:00 - #def load_data ::: daily update performed...
+2025-08-07 10:15:00 - 🧠 ========== IA TREND (every 2 min) ==========
+2025-08-07 10:15:01 - #fetch_crypto_data ::: daily update performed for ADA-USDC
+2025-08-07 10:15:01 - #fetch_crypto_data ::: daily update performed for AAVE-USDC
+2025-08-07 10:15:01 - #fetch_crypto_data ::: daily update performed for ALGO-USDC
+2025-08-07 10:15:02 - #fetch_crypto_data ::: daily update performed for ARB-USDC
+2025-08-07 10:15:02 - #fetch_crypto_data ::: daily update performed for BTC-USDC
+2025-08-07 10:15:02 - #fetch_crypto_data ::: daily update performed for ETH-USDC
+2025-08-07 10:15:02 - #fetch_crypto_data ::: daily update performed for MATIC-USDC
+2025-08-07 10:15:03 - #fetch_crypto_data ::: daily update performed for SOL-USDC
+2025-08-07 10:15:03 - #fetch_crypto_data ::: daily update performed for SUI-USDC
+2025-08-07 10:15:03 - #fetch_crypto_data ::: daily update performed for XRP-USDC
+2025-08-07 10:15:03 - launching calculations for predictions
+2025-08-07 10:15:08 - 🔄 Checking USDC balance...
+2025-08-07 10:15:09 - ADA-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 10:15:09 - 📉 ADA-USDC will probably decrease
+2025-08-07 10:15:18 - AAVE-USDC trend: 📈 The crypto price will increase 🚀
+2025-08-07 10:15:18 - 📈 AAVE-USDC will probably increase
+2025-08-07 10:15:26 - ALGO-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 10:15:26 - 📉 ALGO-USDC will probably decrease
+2025-08-07 10:15:35 - ARB-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 10:15:35 - 📉 ARB-USDC will probably decrease
+2025-08-07 10:15:39 - 🔄 Checking USDC balance...
+2025-08-07 10:15:48 - BTC-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 10:15:48 - 📉 BTC-USDC will probably decrease
+2025-08-07 10:15:57 - ETH-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 10:15:57 - 📉 ETH-USDC will probably decrease
+2025-08-07 10:16:06 - MATIC-USDC trend: 📈 The crypto price will increase 🚀
+2025-08-07 10:16:06 - 📈 MATIC-USDC will probably increase
+2025-08-07 10:16:10 - 🔄 Checking USDC balance...
+2025-08-07 10:16:14 - SOL-USDC trend: 📈 The crypto price will increase 🚀
+2025-08-07 10:16:14 - 📈 SOL-USDC will probably increase
+2025-08-07 10:16:23 - SUI-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 10:16:23 - 📉 SUI-USDC will probably decrease
+2025-08-07 10:16:31 - XRP-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 10:16:31 - 📉 XRP-USDC will probably decrease
+2025-08-07 10:16:40 - ADA-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 10:16:40 - 📉 ADA-USDC will probably decrease
+2025-08-07 10:16:44 - 🔄 Checking USDC balance...
+2025-08-07 10:16:45 - AAVE-USDC trend: 📈 The crypto price will increase 🚀
+2025-08-07 10:16:45 - 📈 AAVE-USDC will probably increase
+2025-08-07 10:16:51 - ALGO-USDC trend: 📈 The crypto price will increase 🚀
+2025-08-07 10:16:51 - 📈 ALGO-USDC will probably increase
+2025-08-07 10:16:56 - ARB-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 10:16:56 - 📉 ARB-USDC will probably decrease
+2025-08-07 10:17:02 - BTC-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 10:17:02 - 📉 BTC-USDC will probably decrease
+2025-08-07 10:17:07 - ETH-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 10:17:07 - 📉 ETH-USDC will probably decrease
+2025-08-07 10:17:13 - MATIC-USDC trend: 📈 The crypto price will increase 🚀
+2025-08-07 10:17:13 - 📈 MATIC-USDC will probably increase
+2025-08-07 10:17:18 - SOL-USDC trend: 📈 The crypto price will increase 🚀
+2025-08-07 10:17:18 - 📈 SOL-USDC will probably increase
+2025-08-07 10:17:19 - 🔄 Checking USDC balance...
+2025-08-07 10:17:24 - SUI-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 10:17:24 - 📉 SUI-USDC will probably decrease
+2025-08-07 10:17:29 - XRP-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 10:17:29 - 📉 XRP-USDC will probably decrease
+2025-08-07 10:17:34 - Updating accounts
+2025-08-07 10:17:34 - IA update time not reached.
+2025-08-07 10:17:38 - Updating accounts
+2025-08-07 10:17:38 - IA update time not reached.
+2025-08-07 10:17:42 - Updating accounts
+2025-08-07 10:17:42 - IA update time not reached.
+2025-08-07 10:17:47 - Updating accounts
+2025-08-07 10:17:47 - IA update time not reached.
+2025-08-07 10:17:51 - Updating accounts
+2025-08-07 10:17:51 - IA update time not reached.
+2025-08-07 10:17:53 - 🔄 Checking USDC balance...
+2025-08-07 10:17:55 - Updating accounts
+2025-08-07 10:17:55 - IA update time not reached.
+2025-08-07 10:18:00 - Updating accounts
+2025-08-07 10:18:00 - IA update time not reached.
+2025-08-07 10:18:04 - Updating accounts
+2025-08-07 10:18:04 - IA update time not reached.
+2025-08-07 10:18:08 - Updating accounts
+2025-08-07 10:18:08 - IA update time not reached.
+2025-08-07 10:18:13 - Updating accounts
+2025-08-07 10:18:13 - IA update time not reached.
+2025-08-07 10:18:17 - Updating accounts
+2025-08-07 10:18:17 - IA update time not reached.
+2025-08-07 10:18:21 - Updating accounts
+2025-08-07 10:18:21 - IA update time not reached.
+2025-08-07 10:18:24 - 🔄 Checking USDC balance...
+2025-08-07 10:18:25 - Updating accounts
+2025-08-07 10:18:25 - IA update time not reached.
+2025-08-07 10:18:28 - Updating accounts
+2025-08-07 10:18:28 - IA update time not reached.
+2025-08-07 10:18:32 - Updating accounts
+2025-08-07 10:18:32 - IA update time not reached.
+2025-08-07 10:18:36 - Updating accounts
+2025-08-0710:18:36 - IA update time not reached.
+2025-08-07 10:18:39 - Updating accounts
+2025-08-07 10:18:39 - IA update time not reached.
+2025-08-07 10:18:43 - Updating accounts
+2025-08-07 10:18:43 - IA update time not reached.
+2025-08-07 10:18:47 - Updating accounts
+2025-08-07 10:18:47 - IA update time not reached.
+2025-08-07 10:18:51 - Updating accounts
+2025-08-07 10:18:51 - IA update time not reached.
+2025-08-07 10:18:54 - Updating accounts
+2025-08-07 10:18:54 - IA update time not reached.
+2025-08-07 10:18:54 - 🔄 Checking USDC balance...
+2025-08-07 10:18:55 - SOL-USDC trend: 📈 The crypto price will increase 🚀
+2025-08-07 10:18:55 - 📈 SOL-USDC will probably increase
+2025-08-07 10:18:58 - Updating accounts
+2025-08-07 10:18:58 - IA update time not reached.
+2025-08-07 10:19:02 - Updating accounts
+2025-08-07 10:19:02 - IA update time not reached.
+2025-08-07 10:19:02 - SUI-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 10:19:02 - 📉 SUI-USDC will probably decrease
+2025-08-07 10:19:06 - Updating accounts
+2025-08-07 10:19:06 - IA update time not reached.
+2025-08-07 10:19:08 - XRP-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 10:19:08 - 📉 XRP-USDC will probably decrease
+2025-08-07 10:19:10 - Updating accounts
+2025-08-07 10:19:10 - IA update time not reached.
+2025-08-07 10:19:15 - Updating accounts
+2025-08-07 10:19:15 - IA update time not reached.
+2025-08-07 10:19:19 - Updating accounts
+2025-08-07 10:19:19 - IA update time not reached.
+2025-08-07 10:19:23 - Updating accounts
+2025-08-07 10:19:23 - IA update time not reached.
+2025-08-07 10:19:26 - Updating accounts
+2025-08-07 10:19:26 - IA update time not reached.
+2025-08-07 10:19:30 - Updating accounts
+2025-08-07 10:19:30 - IA update time not reached.
+2025-08-07 10:19:34 - Updating accounts
+2025-08-07 10:19:34 - IA update time not reached.
+2025-08-07 10:19:39 - Updating accounts
+2025-08-07 10:19:39 - IA update time not reached.
+2025-08-07 10:19:43 - Updating accounts
+2025-08-07 10:19:43 - IA update time not reached.
+2025-08-07 10:19:44 - 🔄 Checking USDC balance...
+2025-08-07 10:19:44 - Updating accounts
+2025-08-07 10:19:44 - IA update time not reached.
+2025-08-07 10:19:45 - SOL-USDC trend: 📈 The crypto price will increase 🚀
+2025-08-07 10:19:45 - 📈 SOL-USDC will probably increase
+2025-08-07 10:19:49 - Updating accounts
+2025-08-07 10:19:49 - IA update time not reached.
+2025-08-07 10:19:51 - SUI-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 10:19:51 - 📉 SUI-USDC will probably decrease
+2025-08-07 10:19:53 - Updating accounts
+2025-08-07 10:19:53 - IA update time not reached.
+2025-08-07 10:19:57 - XRP-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 10:19:57 - 📉 XRP-USDC will probably decrease
+2025-08-07 10:19:57 - Updating accounts
+2025-08-07 10:19:57 - IA update time not reached.
+2025-08-07 10:20:02 - Updating accounts
+2025-08-07 10:20:02 - #def load_data ::: daily update performed...
+2025-08-07 10:20:02 - #fetch_crypto_data ::: daily update performed for ADA-USDC
+2025-08-07 10:20:02 - #fetch_crypto_data ::: daily update performed for AAVE-USDC
+2025-08-07 10:20:03 - #fetch_crypto_data ::: daily update performed for ALGO-USDC
+2025-08-07 10:20:03 - #fetch_crypto_data ::: daily update performed for ARB-USDC
+2025-08-07 10:20:03 - #fetch_crypto_data ::: daily update performed for BTC-USDC
+2025-08-07 10:20:03 - #fetch_crypto_data ::: daily update performed for ETH-USDC
+2025-08-07 10:20:03 - #fetch_crypto_data ::: daily update performed for MATIC-USDC
+2025-08-07 10:20:03 - #fetch_crypto_data ::: daily update performed for SOL-USDC
+2025-08-07 10:20:04 - #fetch_crypto_data ::: daily update performed for SUI-USDC
+2025-08-07 10:20:04 - #fetch_crypto_data ::: daily update performed for XRP-USDC
+2025-08-07 10:20:04 - launching calculations for predictions
+2025-08-07 10:20:13 - 🔄 Checking USDC balance...
+2025-08-07 10:21:04 - 🔄 Checking USDC balance...
+2025-08-07 10:21:10 - ADA-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 10:21:10 - 📉 ADA-USDC will probably decrease
+2025-08-07 10:21:15 - AAVE-USDC trend: 📈 The crypto price will increase 🚀
+2025-08-07 10:21:15 - 📈 AAVE-USDC will probably increase
+2025-08-07 10:21:20 - ALGO-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 10:21:20 - 📉 ALGO-USDC will probably decrease
+2025-08-07 10:21:21 - 🔄 Checking USDC balance...
+2025-08-07 10:21:26 - ARB-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 10:21:26 - 📉 ARB-USDC will probably decrease
+2025-08-07 10:21:31 - BTC-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 10:21:31 - 📉 BTC-USDC will probably decrease
+2025-08-07 10:21:36 - ETH-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 10:21:36 - 📉 ETH-USDC will probably decrease
+2025-08-07 10:21:42 - MATIC-USDC trend: 📈 The crypto price will increase 🚀
+2025-08-07 10:21:42 - 📈 MATIC-USDC will probably increase
+2025-08-07 10:21:47 - SOL-USDC trend: 📈 The crypto price will increase 🚀
+2025-08-07 10:21:47 - 📈 SOL-USDC will probably increase
+2025-08-07 10:21:52 - SUI-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 10:21:52 - 📉 SUI-USDC will probably decrease
+2025-08-07 10:21:55 - 🔄 Checking USDC balance...
+2025-08-07 10:21:57 - 🧠 ========== IA TREND (every 2 min) ==========
+2025-08-07 10:21:58 - XRP-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 10:21:58 - 📉 XRP-USDC will probably decrease
+2025-08-07 10:22:02 - Updating accounts
+2025-08-07 10:22:02 - IA update time not reached.
+2025-08-07 10:22:02 - ADA-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 10:22:02 - 📉 ADA-USDC will probably decrease
+2025-08-07 10:22:06 - Updating accounts
+2025-08-07 10:22:06 - IA update time not reached.
+2025-08-07 10:22:08 - AAVE-USDC trend: 📈 The crypto price will increase 🚀
+2025-08-07 10:22:08 - 📈 AAVE-USDC will probably increase
+2025-08-07 10:22:10 - Updating accounts
+2025-08-07 10:22:10 - IA update time not reached.
+2025-08-07 10:22:14 - ALGO-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 10:22:14 - 📉 ALGO-USDC will probably decrease
+2025-08-07 10:22:15 - Updating accounts
+2025-08-07 10:22:15 - IA update time not reached.
+2025-08-07 10:22:19 - ARB-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 10:22:19 - 📉 ARB-USDC will probably decrease
+2025-08-07 10:22:19 - Updating accounts
+2025-08-07 10:22:19 - IA update time not reached.
+2025-08-07 10:22:24 - Updating accounts
+2025-08-07 10:22:24 - IA update time not reached.
+2025-08-07 10:22:24 - BTC-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 10:22:24 - 📉 BTC-USDC will probably decrease
+2025-08-07 10:22:28 - Updating accounts
+2025-08-07 10:22:28 - IA update time not reached.
+2025-08-07 10:22:29 - 🔄 Checking USDC balance...
+2025-08-07 10:22:29 - ETH-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 10:22:29 - 📉 ETH-USDC will probably decrease
+2025-08-07 10:22:32 - Updating accounts
+2025-08-07 10:22:32 - IA update time not reached.
+2025-08-07 10:22:35 - MATIC-USDC trend: 📈 The crypto price will increase 🚀
+2025-08-07 10:22:35 - 📈 MATIC-USDC will probably increase
+2025-08-07 10:22:37 - Updating accounts
+2025-08-07 10:22:37 - IA update time not reached.
+2025-08-07 10:22:40 - SOL-USDC trend: 📈 The crypto price will increase 🚀
+2025-08-07 10:22:40 - 📈 SOL-USDC will probably increase
+2025-08-07 10:22:41 - Updating accounts
+2025-08-07 10:22:41 - IA update time not reached.
+2025-08-07 10:22:45 - Updating accounts
+2025-08-07 10:22:45 - IA update time not reached.
+2025-08-07 10:22:45 - SUI-USDC trend: 📈 The crypto price will increase 🚀
+2025-08-07 10:22:45 - 📈 SUI-USDC will probably increase
+2025-08-07 10:22:50 - Updating accounts
+2025-08-07 10:22:50 - IA update time not reached.
+2025-08-07 10:22:50 - XRP-USDC trend: 📉 The crypto price will decrease ⚠️
+2025-08-07 10:22:50 - 📉 XRP-USDC will probably decrease
+2025-08-07 10:22:54 - Updating accounts
+2025-08-07 10:22:54 - IA update time not reached.
+2025-08-07 10:22:58 - Updating accounts
+2025-08-07 10:22:58 - IA update time not reached.
+2025-08-07 10:23:02 - Updating accounts
+2025-08-07 10:23:02 - IA update time not reached.
+2025-08-07 10:23:07 - Updating accounts
+2025-08-07 10:23:07 - IA update time not reached.
+2025-08-07 10:23:11 - Updating accounts
+2025-08-07 10:23:11 - IA update time not reached.
+2025-08-07 10:23:15 - Updating accounts
+2025-08-07 10:23:15 - IA update time not reached.
+2025-08-07 10:23:19 - Updating accounts
+2025-08-07 10:23:19 - IA update time not reached.
+2025-08-07 10:23:24 - Updating accounts
+2025-08-07 10:23:24 - IA update time not reached.
+2025-08-07 10:23:28 - Updating accounts
+2025-08-07 10:23:28 - IA update time not reached.
+2025-08-07 10:23:32 - Updating accounts
+2025-08-07 10:23:32 - IA update time not reached.
+2025-08-07 10:23:36 - Updating accounts
+2025-08-07 10:23:36 - IA update time not reached.
+2025-08-07 10:23:41 - Updating accounts
+2025-08-07 10:23:41 - IA update time not reached.
+2025-08-07 10:23:45 - Updating accounts
+2025-08-07 10:23:45 - IA update time not reached.
+2025-08-07 10:23:49 - 🔄 Checking USDC balance...
+2025-08-07 10:23:49 - Updating accounts
+2025-08-07 10:23:49 - IA update time not reached.
+2025-08-07 10:23:54 - Updating accounts
+2025-08-07 10:23:54 - IA update time not reached.
+2025-08-07 10:23:58 - Updating accounts
+2025-08-07 10:23:58 - IA update time not reached.
+2025-08-07 10:24:03 - Updating accounts
+2025-08-07 10:24:03 - IA update time not reached.
+2025-08-07 10:24:07 - Updating accounts
+2025-08-07 10:24:07 - IA update time not reached.
+2025-08-07 10:24:11 - Updating accounts
+2025-08-07 10:24:11 - IA update time not reached.
+2025-08-07 10:24:16 - Updating accounts
+2025-08-07 10:24:16 - IA update time not reached.
+2025-08-07 10:24:20 - Updating accounts
+2025-08-07 10:24:20 - IA update time not reached.
+2025-08-07 10:24:24 - Updating accounts
+2025-08-07 10:24:24 - IA update time not reached.
+2025-08-07 10:24:28 - Updating accounts
+2025-08-07 10:24:28 - IA update time not reached.
+2025-08-07 10:24:31 - 🔄 Checking USDC balance...
+2025-08-07 10:24:32 - Updating accounts
+2025-08-07 10:24:32 - IA update time not reached.
+2025-08-07 10:24:36 - Updating accounts
+2025-08-07 10:24:36 - IA update time not reached.
+2025-08-07 10:24:41 - Updating accounts
+2025-08-07 10:24:41 - IA update time not reached.
+2025-08-07 10:24:46 - Updating accounts
+2025-08-07 10:24:46 - IA update time not reached.
+2025-08-07 10:24:50 - Updating accounts
+2025-08-07 10:24:50 - IA update time not reached.
+2025-08-07 10:24:54 - Updating accounts
+2025-08-07 10:24:54 - IA update time not reached.
+2025-08-07 10:24:58 - Updating accounts
+2025-08-07 10:24:58 - IA update time not reached.
+2025-08-07 10:25:03 - Updating accounts
+2025-08-07 10:25:03 - #def load_data ::: daily update performed...
+2025-08-07 10:25:03 - #fetch_crypto_data ::: daily update performed for ADA-USDC
+2025-08-07 10:25:03 - #fetch_crypto_data ::: daily update performed for AAVE-USDC
+2025-08-07 10:25:03 - #fetch_crypto_data ::: daily update performed for ALGO-USDC
+2025-08-07 10:25:03 - #fetch_crypto_data ::: daily update performed for ARB-USDC
+2025-08-07 10:25:04 - #fetch_crypto_data ::: daily update performed for BTC-USDC
+2025-08-07 10:25:04 - #fetch_crypto_data ::: daily update performed for ETH-USDC
+2025-08-07 10:25:04 - #fetch_crypto_data ::: daily update performed for MATIC-USDC
+2025-08-07 10:25:04 - #fetch_crypto_data ::: daily update performed for SOL-USDC
+2025-08-07 10:25:04 - #fetch_crypto_data ::: daily update performed for SUI-USDC
+2025-08-07 10:25:04 - #fetch_crypto_data ::: daily update performed for XRP-USDC
+2025-08-07 10:25:04 - launching calculations for predictions
+2025-08-07 10:25:36 - 🔄 Checking USDC balance...
+2025-08-07 10:26:00 - 🔄 Checking USDC balance...
+2025-08-07 10:26:18 - 🔄 Checking USDC balance...
+2025-08-07 10:26:38 - 🔄 Checking USDC balance...
+2025-08-07 10:27:06 - 🔄 Checking USDC balance...
+2025-08-07 10:27:40 - 🔄 Checking USDC balance...
+2025-08-07 10:28:02 - 🔄 Checking USDC balance...
+2025-08-07 10:28:36 - 🔄 Checking USDC balance...
+2025-08-07 10:29:10 - 🔄 Checking USDC balance...
+2025-08-07 10:29:44 - 🔄 Checking USDC balance...
+2025-08-07 10:30:18 - 🔄 Checking USDC balance...
+2025-08-07 10:30:52 - 🔄 Checking USDC balance...
+2025-08-07 10:31:26 - 🔄 Checking USDC balance...
+2025-08-07 10:31:60 - 🔄 Checking USDC balance...
+2025-08-07 10:32:34 - 🔄 Checking USDC balance...
+2025-08-07 10:33:08 - 🔄 Checking USDC balance...
+2025-08-07 10:33:42 - 🔄 Checking USDC balance...
+2025-08-07 10:34:16 - 🔄 Checking USDC balance...
+2025-08-07 10:34:50 - 🔄 Checking USDC balance...
+2025-08-07 10:35:24 - 🔄 Checking USDC balance...
+2025-08-07 10:35:58 - 🔄 Checking USDC balance...
+2025-08-07 10:36:32 - 🔄 Checking USDC balance...
+2025-08-07 10:37:06 - 🔄 Checking USDC balance...
+2025-08-07 10:37:40 - 🔄 Checking USDC balance...
+2025-08-07 10:38:14 - 🔄 Checking USDC balance...
+2025-08-07 10:38:48 - 🔄 Checking USDC balance...
+2025-08-07 10:39:22 - 🔄 Checking USDC balance...
+2025-08-07 10:39:56 - 🔄 Checking USDC balance...
+2025-08-07 10:40:30 - 🔄 Checking USDC balance...
+2025-08-07 10:41:04 - 🔄 Checking USDC balance...
+2025-08-07 10:41:38 - 🔄 Checking USDC balance...
+2025-08-07 10:42:12 - 🔄 Checking USDC balance...
+2025-08-07 10:42:46 - 🔄 Checking USDC balance...
+2025-08-07 10:43:20 - 🔄 Checking USDC balance...
+2025-08-07 10:43:54 - 🔄 Checking USDC balance...
+2025-08-07 10:44:28 - 🔄 Checking USDC balance...
+2025-08-07 10:45:02 - 🔄 Checking USDC balance...
+2025-08-07 10:45:36 - 🔄 Checking USDC balance...
+2025-08-07 10:46:10 - 🔄 Checking USDC balance...
+2025-08-07 10:46:44 - 🔄 Checking USDC balance...
+2025-08-07 10:47:18 - 🔄 Checking USDC balance...
+2025-08-07 10:47:52 - 🔄 Checking USDC balance...
+2025-08-07 10:48:26 - 🔄 Checking USDC balance...
+2025-08-07 10:49:00 - 🔄 Checking USDC balance...
+2025-08-07 11:34:20 - 🔄 Checking USDC balance...
+2025-08-07 11:34:54 - 🔄 Checking USDC balance...
+2025-08-07 11:35:28 - 🔄 Checking USDC balance...
+2025-08-07 11:36:02 - 🔄 Checking USDC balance...
+2025-08-07 11:36:36 - 🔄 Checking USDC balance...
+2025-08-07 11:37:10 - Error during USDC balance retrieval: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-08-07 11:37:15 - 🔄 Checking USDC balance...
+2025-08-07 11:37:49 - 🔄 Checking USDC balance...
+2025-08-07 11:38:23 - 🔄 Checking USDC balance...
+2025-08-07 11:39:04 - Error during USDC balance retrieval: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-08-07 11:39:06 - 🔄 Checking USDC balance...
+2025-08-07 11:39:40 - 🔄 Checking USDC balance...
+2025-08-07 11:40:14 - 🔄 Checking USDC balance...
+2025-08-07 11:40:45 - Error during USDC balance retrieval: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-08-07 11:40:57 - 🔄 Checking USDC balance...
+2025-08-07 11:41:29 - Error during USDC balance retrieval: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-08-07 11:41:31 - 🔄 Checking USDC balance...
+2025-08-07 11:42:05 - 🔄 Checking USDC balance...
+2025-08-07 11:42:35 - 🔄 Checking USDC balance...
+2025-08-07 11:54:39 - 🔄 Checking USDC balance...
+2025-08-07 11:55:13 - 🔄 Checking USDC balance...
+2025-08-07 11:55:47 - 🔄 Checking USDC balance...
+2025-08-07 11:56:21 - Error during USDC balance retrieval: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-08-07 11:56:28 - 🔄 Checking USDC balance...
+2025-08-07 11:56:58 - 🔄 Checking USDC balance...
+2025-08-07 11:57:32 - 🔄 Checking USDC balance...
