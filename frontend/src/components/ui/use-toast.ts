@@ -1,6 +1,3 @@
-// useToast UI utility stub
-const useToast = () => {
-  const show = (msg: string) => alert(msg);
-  return { show };
-};
-export default useToast;
+import { useToast, toast } from "@/hooks/use-toast";
+
+export { useToast, toast };

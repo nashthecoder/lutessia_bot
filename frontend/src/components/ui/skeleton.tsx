@@ -1,3 +1,15 @@
-// Skeleton UI component stub
-const Skeleton = () => <div>Skeleton component</div>;
-export default Skeleton;
+import { cn } from "@/lib/utils"
+
+function Skeleton({
+  className,
+  ...props
+}: React.HTMLAttributes<HTMLDivElement>) {
+  return (
+    <div
+      className={cn("animate-pulse rounded-md bg-muted", className)}
+      {...props}
+    />
+  )
+}
+
+export { Skeleton }
